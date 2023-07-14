@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9320b230-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9320b230-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Get Current Orientation",
+  "description": "Description",
+  "source": "@site/docs/9320b230-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-current-orientation",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-current-orientation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9320b230-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Get Current Orientation",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-current-orientation",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Get Element Width",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-width"
+  },
+  "next": {
+    "title": "[Mobile] Get Device Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-height"
+  }
+}

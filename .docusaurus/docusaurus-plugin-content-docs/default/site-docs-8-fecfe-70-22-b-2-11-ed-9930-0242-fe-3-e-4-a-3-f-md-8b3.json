@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fecfe70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fecfe70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Method Call Statements",
+  "description": "Method Call statement allows you to call other methods provided by the built-in libraries of Katalon Studio.",
+  "source": "@site/docs/8fecfe70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/statements/method-call-statements",
+  "permalink": "/docs/create-tests/create-test-cases/statements/method-call-statements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fecfe70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Method Call Statements",
+    "slug": "create-tests/create-test-cases/statements/method-call-statements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Binary Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/binary-statements"
+  },
+  "next": {
+    "title": "Assert Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/assert-statements"
+  }
+}

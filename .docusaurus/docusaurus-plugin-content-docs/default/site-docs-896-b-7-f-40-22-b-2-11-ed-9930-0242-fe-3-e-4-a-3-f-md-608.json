@@ -1,0 +1,28 @@
+{
+  "unversionedId": "896b7f40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "896b7f40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalium Framework in other IDEs",
+  "description": "Prerequisites",
+  "source": "@site/docs/896b7f40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-other-ides",
+  "permalink": "/docs/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-other-ides",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "896b7f40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalium Framework in other IDEs",
+    "slug": "plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-other-ides",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalium Framework in Visual Studio Code",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-visual-studio-code"
+  },
+  "next": {
+    "title": "Create a Test Case in Katalium Framework",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/create-a-test-case-in-katalium-framework"
+  }
+}

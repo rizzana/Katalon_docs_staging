@@ -1,0 +1,28 @@
+{
+  "unversionedId": "43c29e80-faeb-11ed-878a-0242c7a41fd4",
+  "id": "43c29e80-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Local Agent doesn't trigger automatically from CMD",
+  "description": "When you schedules a test run and starts a local agent, the agent  freezes after response with status 200 without running the execution. You have to trigger the execution manually by clicking or pressing enter on the CMD.",
+  "source": "@site/docs/43c29e80-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/execute/troubleshooting/local-agent-doesnt-trigger-automatically-from-cmd",
+  "permalink": "/docs/execute/troubleshooting/local-agent-doesnt-trigger-automatically-from-cmd",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "43c29e80-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Local Agent doesn't trigger automatically from CMD",
+    "slug": "execute/troubleshooting/local-agent-doesnt-trigger-automatically-from-cmd",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Unable to execute tests on localhost with TestCloud Tunnel",
+    "permalink": "/docs/execute/troubleshooting/unable-to-execute-tests-on-localhost-with-testcloud-tunnel"
+  },
+  "next": {
+    "title": "Introduction to test analysis",
+    "permalink": "/docs/analyze/introduction-to-test-analysis"
+  }
+}

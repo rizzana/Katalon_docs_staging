@@ -1,0 +1,28 @@
+{
+  "unversionedId": "952275a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "952275a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Studio Release Notes: Version 6.x",
+  "description": "Version 6.3.3",
+  "source": "@site/docs/952275a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes/katalon-studio/katalon-studio-release-notes-version-6.x",
+  "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-6.x",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "952275a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Studio Release Notes: Version 6.x",
+    "slug": "release-notes/katalon-studio/katalon-studio-release-notes-version-6.x",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio Release Notes: Version 7.x",
+    "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-7.x"
+  },
+  "next": {
+    "title": "Katalon TestCloud Release Notes",
+    "permalink": "/docs/release-notes/katalon-testcloud/katalon-testcloud-release-notes"
+  }
+}

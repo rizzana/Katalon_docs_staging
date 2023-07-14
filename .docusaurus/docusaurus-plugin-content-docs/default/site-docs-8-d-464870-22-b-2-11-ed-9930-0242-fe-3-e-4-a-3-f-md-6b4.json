@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d464870-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d464870-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Test execution with TestOps",
+  "description": "In Katalon TestOps, you can set up a remote execution to run tests in several environments.",
+  "source": "@site/docs/8d464870-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/test-execution-with-testops",
+  "permalink": "/docs/execute/test-execution-with-testops/test-execution-with-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d464870-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Test execution with TestOps",
+    "slug": "execute/test-execution-with-testops/test-execution-with-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Skip test cases in Katalon Studio",
+    "permalink": "/docs/execute/test-execution-with-katalon-studio/skip-test-cases-in-katalon-studio"
+  },
+  "next": {
+    "title": "Create a local test environment with an Agent",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/create-a-local-test-environment-with-an-agent"
+  }
+}

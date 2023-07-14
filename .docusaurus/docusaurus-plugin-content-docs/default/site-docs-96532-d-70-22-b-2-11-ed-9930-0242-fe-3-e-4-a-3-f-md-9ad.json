@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96532d70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96532d70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Introduction to Mobile Recorder in Katalon Studio",
+  "description": "Mobile Recorder",
+  "source": "@site/docs/96532d70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/mobile-record-and-spy-utilities/introduction-to-mobile-recorder-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/introduction-to-mobile-recorder-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96532d70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Introduction to Mobile Recorder in Katalon Studio",
+    "slug": "create-tests/record-and-spy/mobile-record-and-spy-utilities/introduction-to-mobile-recorder-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Smart Wait Function",
+    "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/smart-wait-function"
+  },
+  "next": {
+    "title": "Record mobile utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/record-mobile-utility-in-katalon-studio"
+  }
+}

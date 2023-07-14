@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93f03730-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93f03730-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Verify Element Property Value",
+  "description": "Description",
+  "source": "@site/docs/93f03730-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-verify-element-property-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-verify-element-property-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93f03730-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Verify Element Property Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-verify-element-property-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WS] Validate an XML string against a schema",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-an-xml-string-against-a-schema"
+  },
+  "next": {
+    "title": "[WS] Verify Elements Count",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-verify-elements-count"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9817e7e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9817e7e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Windows Record Tutorials in Katalon Studio",
+  "description": "Important Set up WinAppDriver.",
+  "source": "@site/docs/9817e7e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-tutorials-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-tutorials-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9817e7e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Windows Record Tutorials in Katalon Studio",
+    "slug": "create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-tutorials-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Capture Windows Objects using the Windows Spy Utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/capture-windows-objects-using-the-windows-spy-utility-in-katalon-studio"
+  },
+  "next": {
+    "title": "Native Windows Recorder in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/native-windows-recorder-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "894a62b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "894a62b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use TestCloud in Katalon Studio",
+  "description": "Katalon TestCloud is a test automation service that allows you to execute tests on common browsers and operating systems on the cloud. With Katalon TestCloud, you can easily configure those test environments.",
+  "source": "@site/docs/894a62b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/use-testcloud-in-katalon-studio",
+  "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "894a62b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use TestCloud in Katalon Studio",
+    "slug": "execute/test-execution-with-testcloud/use-testcloud-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use TestCloud in TestOps",
+    "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-testops"
+  },
+  "next": {
+    "title": "Use TestCloud in Katalon Runtime Engine",
+    "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-katalon-runtime-engine"
+  }
+}

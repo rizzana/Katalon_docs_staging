@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9089b3a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9089b3a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Debug your platform plugin using Eclipse IDE",
+  "description": "This tutorial will illustrate how to debug a platform plugin   using Eclipse IDE via Java     Remote Debugging feature.",
+  "source": "@site/docs/9089b3a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-studio-plugins/debug-your-platform-plugin-using-eclipse-ide",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/debug-your-platform-plugin-using-eclipse-ide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9089b3a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Debug your platform plugin using Eclipse IDE",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-studio-plugins/debug-your-platform-plugin-using-eclipse-ide",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to resolve external dependencies for a plugin in Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/how-to-resolve-external-dependencies-for-a-plugin-in-katalon-studio"
+  },
+  "next": {
+    "title": "Develop a customized report plugin in Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/develop-a-customized-report-plugin-in-katalon-studio"
+  }
+}

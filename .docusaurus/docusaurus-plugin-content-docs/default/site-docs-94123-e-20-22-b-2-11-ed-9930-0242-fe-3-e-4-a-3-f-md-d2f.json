@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94123e20-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94123e20-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Close Window Url",
+  "description": "Description",
+  "source": "@site/docs/94123e20-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-close-window-url",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-close-window-url",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94123e20-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Close Window Url",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-close-window-url",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Close Window Title",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-close-window-title"
+  },
+  "next": {
+    "title": "[WebUI] Delete All Cookies",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-delete-all-cookies"
+  }
+}

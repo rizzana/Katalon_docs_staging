@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d1acba0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d1acba0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Set up Docker test environments for TestOps",
+  "description": "Similar to Create a Local Test Environment with an Agent, you can create a Docker test environment with a compatible Agent in Katalon TestOps.",
+  "source": "@site/docs/8d1acba0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/set-up-docker-test-environments-for-testops",
+  "permalink": "/docs/execute/test-execution-with-testops/set-up-docker-test-environments-for-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d1acba0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Set up Docker test environments for TestOps",
+    "slug": "execute/test-execution-with-testops/set-up-docker-test-environments-for-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Auto-distributed executions",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/auto-distributed-executions"
+  },
+  "next": {
+    "title": "Set up Kubernetes test environments for TestOps",
+    "permalink": "/docs/execute/test-execution-with-testops/set-up-kubernetes-test-environments-for-testops"
+  }
+}

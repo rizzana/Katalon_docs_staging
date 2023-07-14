@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e462c40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e462c40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Link Test Cases to Jira Requirements",
+  "description": "You can link Test Cases to Jira Requirements and view them in both Katalon TestOps and Jira.",
+  "source": "@site/docs/8e462c40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/integration-for-test-planning/link-test-cases-to-jira-requirements",
+  "permalink": "/docs/plan/integration-for-test-planning/link-test-cases-to-jira-requirements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e462c40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Link Test Cases to Jira Requirements",
+    "slug": "plan/integration-for-test-planning/link-test-cases-to-jira-requirements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Populate Jira releases",
+    "permalink": "/docs/plan/integration-for-test-planning/populate-jira-releases"
+  },
+  "next": {
+    "title": "Introduction to test creation",
+    "permalink": "/docs/create-tests/introduction-to-test-creation/introduction-to-test-creation"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99875660-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99875660-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Generate browser-based videos in Katalon Studio reports",
+  "description": "Requirements",
+  "source": "@site/docs/99875660-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports",
+  "permalink": "/docs/analyze/reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99875660-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Generate browser-based videos in Katalon Studio reports",
+    "slug": "analyze/reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Detect abnormal Web Services in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/detect-abnormal-web-services-in-katalon-testops"
+  },
+  "next": {
+    "title": "Generate screen-based videos in Katalon Studio reports",
+    "permalink": "/docs/analyze/reports/generate-test-reports/generate-screen-based-videos-in-katalon-studio-reports"
+  }
+}

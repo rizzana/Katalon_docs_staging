@@ -1,0 +1,28 @@
+{
+  "unversionedId": "935e7e80-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "935e7e80-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Select List Item By Label",
+  "description": "Description",
+  "source": "@site/docs/935e7e80-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-label",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-label",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "935e7e80-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Select List Item By Label",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-label",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Select List Item By Index",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-index"
+  },
+  "next": {
+    "title": "[Mobile] Set Encrypted Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-encrypted-text"
+  }
+}

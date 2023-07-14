@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94703ca0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94703ca0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Switch To Default Content",
+  "description": "Description",
+  "source": "@site/docs/94703ca0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-default-content",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-default-content",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94703ca0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Switch To Default Content",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-default-content",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Submit",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-submit"
+  },
+  "next": {
+    "title": "[WebUI] Switch To Frame",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-frame"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "157bc780-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "157bc780-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "Microsoft Dynamics 365",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/157bc780-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/microsoft-dynamics-365",
+  "permalink": "/docs/integrations/unsupported-integrations/microsoft-dynamics-365",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "157bc780-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "Microsoft Dynamics 365",
+    "slug": "integrations/unsupported-integrations/microsoft-dynamics-365",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Cypress integration",
+    "permalink": "/docs/integrations/unsupported-integrations/cypress-integration"
+  },
+  "next": {
+    "title": "Performance Testing: Katalon and OctoPerf",
+    "permalink": "/docs/integrations/unsupported-integrations/performance-testing-katalon-and-octoperf"
+  }
+}

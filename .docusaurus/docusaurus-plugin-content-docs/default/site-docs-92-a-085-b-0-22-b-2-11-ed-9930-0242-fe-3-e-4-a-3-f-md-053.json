@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92a085b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92a085b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Sauce Labs Integration",
+  "description": "Important:",
+  "source": "@site/docs/92a085b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/integration-with-other-vendors/sauce-labs-integration",
+  "permalink": "/docs/execute/integration-with-other-vendors/sauce-labs-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92a085b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Sauce Labs Integration",
+    "slug": "execute/integration-with-other-vendors/sauce-labs-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "LambdaTest Integration",
+    "permalink": "/docs/execute/integration-with-other-vendors/lambdatest-integration"
+  },
+  "next": {
+    "title": "Katalon Runtime Engine overview",
+    "permalink": "/docs/execute/katalon-runtime-engine/katalon-runtime-engine-overview"
+  }
+}

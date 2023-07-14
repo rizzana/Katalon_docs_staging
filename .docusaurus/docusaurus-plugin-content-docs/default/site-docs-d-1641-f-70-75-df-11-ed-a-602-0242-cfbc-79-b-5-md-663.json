@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d1641f70-75df-11ed-a602-0242cfbc79b5",
+  "id": "d1641f70-75df-11ed-a602-0242cfbc79b5",
+  "title": "Manually push Katalon test result to Xray",
+  "description": "You must have the role of Organization Owner or Admin.You have linked your Jira test cases to the Jira test plan.You have linked a Katalon test run to an Xray test plan.",
+  "source": "@site/docs/d1641f70-75df-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/xray-integration/manually-push-katalon-test-result-to-xray",
+  "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/manually-push-katalon-test-result-to-xray",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d1641f70-75df-11ed-a602-0242cfbc79b5",
+    "title": "Manually push Katalon test result to Xray",
+    "slug": "organize/integration-for-organizing-tests/xray-integration/manually-push-katalon-test-result-to-xray",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Link a Katalon test run with an Xray test plan",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-run-with-an-xray-test-plan"
+  },
+  "next": {
+    "title": "Configure qTest integration in Katalon Studio",
+    "permalink": "/docs/organize/integration-for-organizing-tests/configure-qtest-integration-in-katalon-studio"
+  }
+}

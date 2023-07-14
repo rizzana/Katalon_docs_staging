@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93a30190-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93a30190-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Verify Is Landscape",
+  "description": "Description",
+  "source": "@site/docs/93a30190-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-landscape",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-landscape",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93a30190-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Verify Is Landscape",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-landscape",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Verify Image Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-image-present"
+  },
+  "next": {
+    "title": "[Mobile] Verify Is Portrait",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-portrait"
+  }
+}

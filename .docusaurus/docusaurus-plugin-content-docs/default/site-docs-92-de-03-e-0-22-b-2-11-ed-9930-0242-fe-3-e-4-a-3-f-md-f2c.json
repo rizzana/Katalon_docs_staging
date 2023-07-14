@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92de03e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92de03e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Common] Verify Checkpoint",
+  "description": "Description",
+  "source": "@site/docs/92de03e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-checkpoint",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-checkpoint",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92de03e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Common] Verify Checkpoint",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-checkpoint",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Cucumber] Run with Cucumber Runner",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-with-cucumber-runner"
+  },
+  "next": {
+    "title": "[Common] Verify Equal",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-equal"
+  }
+}

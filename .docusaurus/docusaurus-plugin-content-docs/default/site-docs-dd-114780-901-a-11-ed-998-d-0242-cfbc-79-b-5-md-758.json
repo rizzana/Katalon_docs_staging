@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dd114780-901a-11ed-998d-0242cfbc79b5",
+  "id": "dd114780-901a-11ed-998d-0242cfbc79b5",
+  "title": "Test run result details",
+  "description": "Test Results provides contextual details of a selected test run, including those with failed test cases.",
+  "source": "@site/docs/dd114780-901a-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-result-details",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-result-details",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dd114780-901a-11ed-998d-0242cfbc79b5",
+    "title": "Test run result details",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-result-details",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test run summary",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-summary"
+  },
+  "next": {
+    "title": "Download test report files",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-test-report-files"
+  }
+}

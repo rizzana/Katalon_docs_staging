@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4539ea40-c86c-11ed-a4d3-0242cfbc79b5",
+  "id": "4539ea40-c86c-11ed-a4d3-0242cfbc79b5",
+  "title": "Upgrade your On-Premises License Server to v2.1.0",
+  "description": "Here's a guide to upgrading to the newest version of your Katalon On-Premises License server.",
+  "source": "@site/docs/4539ea40-c86c-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-platform-on-premises/upgrade-your-on-premises-license-server-to-v2.1.0",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/upgrade-your-on-premises-license-server-to-v2.1.0",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4539ea40-c86c-11ed-a4d3-0242cfbc79b5",
+    "title": "Upgrade your On-Premises License Server to v2.1.0",
+    "slug": "administer/katalon-platform-packages/katalon-platform-on-premises/upgrade-your-on-premises-license-server-to-v2.1.0",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon On-Premises deployment guide",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-on-premises-deployment-guide"
+  },
+  "next": {
+    "title": "License overview",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/license-overview"
+  }
+}

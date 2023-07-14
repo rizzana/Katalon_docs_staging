@@ -1,0 +1,28 @@
+{
+  "unversionedId": "995a52f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "995a52f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Execute test suite collections in Katalon Studio",
+  "description": "This guide shows you how to configure, perform, and schedule your test suite collections in Katalon Studio.",
+  "source": "@site/docs/995a52f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-katalon-studio/execute-test-suite-collections-in-katalon-studio",
+  "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-test-suite-collections-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "995a52f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Execute test suite collections in Katalon Studio",
+    "slug": "execute/test-execution-with-katalon-studio/execute-test-suite-collections-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Execute a test suite in Katalon Studio",
+    "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-a-test-suite-in-katalon-studio"
+  },
+  "next": {
+    "title": "Execute dynamic test suites in Katalon Studio",
+    "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-dynamic-test-suites-in-katalon-studio"
+  }
+}

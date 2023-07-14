@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d2d9050-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d2d9050-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Run multiple test suites in parallel with Agents",
+  "description": "Configure parallel executions",
+  "source": "@site/docs/8d2d9050-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/local-test-environments/run-multiple-test-suites-in-parallel-with-agents",
+  "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/run-multiple-test-suites-in-parallel-with-agents",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d2d9050-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Run multiple test suites in parallel with Agents",
+    "slug": "execute/test-execution-with-testops/local-test-environments/run-multiple-test-suites-in-parallel-with-agents",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Load balancing for local test environments",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/load-balancing-for-local-test-environments"
+  },
+  "next": {
+    "title": "Auto-distributed executions",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/auto-distributed-executions"
+  }
+}

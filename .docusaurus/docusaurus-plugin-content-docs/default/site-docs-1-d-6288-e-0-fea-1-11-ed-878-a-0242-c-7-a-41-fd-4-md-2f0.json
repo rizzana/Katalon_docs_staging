@@ -1,0 +1,28 @@
+{
+  "unversionedId": "1d6288e0-fea1-11ed-878a-0242c7a41fd4",
+  "id": "1d6288e0-fea1-11ed-878a-0242c7a41fd4",
+  "title": "View test suite analytics in Katalon Studio",
+  "description": "This document describes the Analytics components in Katalon Studio.",
+  "source": "@site/docs/1d6288e0-fea1-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-analytics-in-katalon-studio",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-analytics-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "1d6288e0-fea1-11ed-878a-0242c7a41fd4",
+    "title": "View test suite analytics in Katalon Studio",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-analytics-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View test suite and test suite collection reports in Katalon Studio",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-and-test-suite-collection-reports-in-katalon-studio"
+  },
+  "next": {
+    "title": "View captured screenshots in Katalon Studio reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-captured-screenshots-in-katalon-studio-reports"
+  }
+}

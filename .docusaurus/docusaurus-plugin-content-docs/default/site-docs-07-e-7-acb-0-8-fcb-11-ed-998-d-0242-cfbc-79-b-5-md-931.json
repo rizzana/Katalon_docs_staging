@@ -1,0 +1,28 @@
+{
+  "unversionedId": "07e7acb0-8fcb-11ed-998d-0242cfbc79b5",
+  "id": "07e7acb0-8fcb-11ed-998d-0242cfbc79b5",
+  "title": "Explore Katalon Studio",
+  "description": "After you have generated your first API test case or web test case using Web Recorder and added it to a test suite for execution, explore the unique testing capabilities of Katalon Studio.",
+  "source": "@site/docs/07e7acb0-8fcb-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/explore-katalon-studio",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/explore-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "07e7acb0-8fcb-11ed-998d-0242cfbc79b5",
+    "title": "Explore Katalon Studio",
+    "slug": "get-started/onboarding-katalon-platform/explore-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Quick guide for billing managers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-billing-managers"
+  },
+  "next": {
+    "title": "Katalon Studio best practices",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/katalon-studio-best-practices"
+  }
+}

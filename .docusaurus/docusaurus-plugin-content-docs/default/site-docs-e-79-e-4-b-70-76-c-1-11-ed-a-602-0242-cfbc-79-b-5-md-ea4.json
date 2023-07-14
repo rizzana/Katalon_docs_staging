@@ -1,0 +1,28 @@
+{
+  "unversionedId": "e79e4b70-76c1-11ed-a602-0242cfbc79b5",
+  "id": "e79e4b70-76c1-11ed-a602-0242cfbc79b5",
+  "title": "Custom Fields and Tags",
+  "description": "Custom fields &amp; tags are great tools to create and label meta-data to your Katalon test artifacts such as test case, test run schedule, test execution. You can create as many attributes to your test entities as you need, then categorize, organize or filter them with ease throughout the testing cycle on Katalon Platform.",
+  "source": "@site/docs/e79e4b70-76c1-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/custom-field-and-tags/custom-fields-and-tags",
+  "permalink": "/docs/organize/custom-field-and-tags/custom-fields-and-tags",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "e79e4b70-76c1-11ed-a602-0242cfbc79b5",
+    "title": "Custom Fields and Tags",
+    "slug": "organize/custom-field-and-tags/custom-fields-and-tags",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View test scripts in Katalon TestOps",
+    "permalink": "/docs/organize/view-test-scripts-in-katalon-platform/view-test-scripts-in-katalon-testops"
+  },
+  "next": {
+    "title": "Add Custom Fields and Tags to test cases",
+    "permalink": "/docs/organize/manage-tests/test-case/add-custom-fields-and-tags-to-test-cases"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fe906d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fe906d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Looping Statements",
+  "description": "Note: Once a test step is added as any of the control statements, it is not allowed to change into another keyword.",
+  "source": "@site/docs/8fe906d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/statements/looping-statements",
+  "permalink": "/docs/create-tests/create-test-cases/statements/looping-statements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fe906d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Looping Statements",
+    "slug": "create-tests/create-test-cases/statements/looping-statements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Decision-making Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/decision-making-statements"
+  },
+  "next": {
+    "title": "Branching Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/branching-statements"
+  }
+}

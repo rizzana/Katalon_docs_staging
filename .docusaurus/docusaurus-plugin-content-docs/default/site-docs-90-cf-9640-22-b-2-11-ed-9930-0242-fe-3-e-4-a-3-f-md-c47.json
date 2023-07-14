@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90cf9640-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90cf9640-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Get started with Katalon Platform",
+  "description": "This article introduces you to different components of Katalon Platform.",
+  "source": "@site/docs/90cf9640-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/get-started-with-katalon-platform",
+  "permalink": "/docs/get-started/get-started-with-katalon-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90cf9640-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Get started with Katalon Platform",
+    "slug": "get-started/get-started-with-katalon-platform",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Supported environments for Katalon TestCloud",
+    "permalink": "/docs/supported-execution-environments/supported-environments-for-katalon-testcloud"
+  },
+  "next": {
+    "title": "Terminology and Formulas",
+    "permalink": "/docs/get-started/terminology-and-formulas"
+  }
+}

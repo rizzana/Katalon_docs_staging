@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99c82ff0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99c82ff0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Subscribe to TestCloud",
+  "description": "You are automatically granted a 30-day free trial of   TestCloud once you have created a Katalon Platform Account. See: TestCloud     Trial.",
+  "source": "@site/docs/99c82ff0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/subscription-management/testcloud-subscription/subscribe-to-testcloud",
+  "permalink": "/docs/administer/administration-tasks/subscription-management/testcloud-subscription/subscribe-to-testcloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99c82ff0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Subscribe to TestCloud",
+    "slug": "administer/administration-tasks/subscription-management/testcloud-subscription/subscribe-to-testcloud",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Cancel License Renewal",
+    "permalink": "/docs/administer/administration-tasks/subscription-management/katalon-studio-enterprise-and-katalon-runtime-engine-license/cancel-license-renewal"
+  },
+  "next": {
+    "title": "Upgrade Subscriptions",
+    "permalink": "/docs/administer/administration-tasks/subscription-management/testcloud-subscription/upgrade-subscriptions"
+  }
+}

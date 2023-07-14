@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a2ac250-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a2ac250-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Cannot connect to Katalon TestOps server. Please check your Internet connection and try again (2)",
+  "description": "This error message means that the application has failed to communicate with Katalon Server for activation.Check your Internet connection and try again.If you're behind a Proxy Server, before activating Katalon Studio, you need to configure the Authentication Proxy settings. At the bottom of the Activation dialog box, click Configure Authentication Proxy. See: Configure Proxy for Authentication.",
+  "source": "@site/docs/9a2ac250-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/cannot-connect-to-katalon-testops-server.-please-check-your-internet-connection-and-try-again-2",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/cannot-connect-to-katalon-testops-server.-please-check-your-internet-connection-and-try-again-2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a2ac250-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Cannot connect to Katalon TestOps server. Please check your Internet connection and try again (2)",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/cannot-connect-to-katalon-testops-server.-please-check-your-internet-connection-and-try-again-2",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Cannot connect to Katalon TestOps server. Please check your Internet connection and try again (1)",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/cannot-connect-to-katalon-testops-server.-please-check-your-internet-connection-and-try-again-1"
+  },
+  "next": {
+    "title": "CAPTCHA required",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/captcha-required"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "my-dino",
+  "name": "Katalon-Docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -29,7 +29,6 @@
     "docusaurus-plugin-image-zoom": "^0.1.1",
     "docusaurus-plugin-sass": "^0.2.2",
     "dotenv": "^16.0.1",
-    "plugin-auto-redirect": "https://github.com/katalon-studio/katalon-docs-plugin-auto-redirect.git",
     "prism-react-renderer": "^1.3.1",
     "react": "^17.0.2",
     "react-device-detect": "^2.2.2",

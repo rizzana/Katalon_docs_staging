@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96fc8cd0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96fc8cd0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "SOAP Request in Katalon Studio",
+  "description": "When sending a SOAP Request in Katalon Studio, you can receive a   response from the API server for examination and troubleshooting.   This section includes a tutorial of how to create a SOAP request   object and an introduction to each field of a request service in   its opened editor.",
+  "source": "@site/docs/96fc8cd0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/soap-request-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/soap-request-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96fc8cd0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "SOAP Request in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/soap-request-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Parameterize a Web Service Object in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/rest-request/parameterize-a-web-service-object-in-katalon-studio"
+  },
+  "next": {
+    "title": "GraphQL in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/graphql-in-katalon-studio"
+  }
+}

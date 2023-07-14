@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4f5b2510-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4f5b2510-e56e-11ed-b480-0242cfbc79b5",
+  "title": "Known issues",
+  "description": "The following are known issues and limitations when you create, manage, and execute your test cases using Katalon Cloud Studio (Beta).",
+  "source": "@site/docs/4f5b2510-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/known-issues",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/known-issues",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4f5b2510-e56e-11ed-b480-0242cfbc79b5",
+    "title": "Known issues",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/known-issues",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View your Cloud Studio (Beta) test suite report",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/analyze-cloud-studio-beta-tests/view-your-cloud-studio-beta-test-suite-report"
+  },
+  "next": {
+    "title": "Introduction to organizing tests",
+    "permalink": "/docs/organize/introduction-to-organizing-tests/introduction-to-organizing-tests"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e29caa0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e29caa0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Enable/Disable Strict Domain",
+  "description": "If you enable the Strict Domain, members of your Organization     only have access to some specific domains configured by you in Katalon TestOps.If you disable the Strict Domain, members of your Organization     have full access to Katalon TestOps.",
+  "source": "@site/docs/8e29caa0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/organization-management/enabledisable-strict-domain",
+  "permalink": "/docs/administer/administration-tasks/organization-management/enabledisable-strict-domain",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e29caa0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Enable/Disable Strict Domain",
+    "slug": "administer/administration-tasks/organization-management/enabledisable-strict-domain",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Delete data",
+    "permalink": "/docs/administer/administration-tasks/organization-management/delete-data"
+  },
+  "next": {
+    "title": "Subdomain Configurations",
+    "permalink": "/docs/administer/administration-tasks/organization-management/subdomain-configurations"
+  }
+}

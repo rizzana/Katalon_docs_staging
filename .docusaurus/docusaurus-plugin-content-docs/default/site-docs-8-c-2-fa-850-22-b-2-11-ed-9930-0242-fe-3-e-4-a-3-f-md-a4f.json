@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c2fa850-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c2fa850-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create an organization and project",
+  "description": "To use Katalon Platform, you need to set up an account to manage your Katalon subscriptions, and an organization to manage your Katalon teams and projects.",
+  "source": "@site/docs/8c2fa850-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/create-an-organization-and-project",
+  "permalink": "/docs/administer/administration-tasks/create-an-organization-and-project",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c2fa850-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create an organization and project",
+    "slug": "administer/administration-tasks/create-an-organization-and-project",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Administrative Roles and Permissions",
+    "permalink": "/docs/administer/administration-roles/administrative-roles-and-permissions"
+  },
+  "next": {
+    "title": "Join a TestOps Organization",
+    "permalink": "/docs/administer/administration-tasks/join-a-testops-organization"
+  }
+}

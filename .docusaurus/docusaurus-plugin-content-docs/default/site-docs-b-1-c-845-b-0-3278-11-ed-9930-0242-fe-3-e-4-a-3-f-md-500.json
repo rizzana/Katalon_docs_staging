@@ -1,0 +1,28 @@
+{
+  "unversionedId": "b1c845b0-3278-11ed-9930-0242fe3e4a3f",
+  "id": "b1c845b0-3278-11ed-9930-0242fe3e4a3f",
+  "title": "Quick guide for QA managers",
+  "description": "In this guide, you'll explore some of the possibilities the Katalon Platform can offer to plan tests, organize tests, and analyze test reports.",
+  "source": "@site/docs/b1c845b0-3278-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/quick-guide-for-qa-managers",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-qa-managers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "b1c845b0-3278-11ed-9930-0242fe3e4a3f",
+    "title": "Quick guide for QA managers",
+    "slug": "get-started/onboarding-katalon-platform/quick-guide-for-qa-managers",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Quick guide for testers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-testers"
+  },
+  "next": {
+    "title": "Quick guide for administrators",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-administrators"
+  }
+}

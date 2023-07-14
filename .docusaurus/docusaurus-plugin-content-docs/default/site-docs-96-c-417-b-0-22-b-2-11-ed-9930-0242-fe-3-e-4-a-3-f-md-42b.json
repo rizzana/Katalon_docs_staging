@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96c417b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96c417b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Import RESTful from Postman to Katalon Studio",
+  "description": "To import test requests from Postman, perform the following steps:",
+  "source": "@site/docs/96c417b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-from-postman-to-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-from-postman-to-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96c417b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Import RESTful from Postman to Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-from-postman-to-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Import RESTful requests from Swagger 2.0",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-swagger-2.0"
+  },
+  "next": {
+    "title": "Import web service requests from SoapUI to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-web-service-requests-from-soapui-to-katalon-studio"
+  }
+}

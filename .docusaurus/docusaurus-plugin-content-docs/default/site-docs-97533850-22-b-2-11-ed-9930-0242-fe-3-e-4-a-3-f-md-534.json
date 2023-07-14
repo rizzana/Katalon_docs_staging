@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97533850-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97533850-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Testing Web App on Mobile Browsers in Katalon Studio",
+  "description": "Katalon Studio supports executing the same test cases on both desktop browsers and mobile browsers. A test case created via recording, either in manual mode or script mode, on a desktop browser with Katalon Studio can be executed on a mobile browser as well. This tutorial guides you step by step how to do that.",
+  "source": "@site/docs/97533850-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/testing-web-app-on-mobile-browsers-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/testing-web-app-on-mobile-browsers-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97533850-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Testing Web App on Mobile Browsers in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/testing-web-app-on-mobile-browsers-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Testing Mobile Apps using Custom Cloud Devices in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/testing-mobile-apps-using-custom-cloud-devices-in-katalon-studio"
+  },
+  "next": {
+    "title": "Reduce Execution Time in Mobile Testing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/reduce-execution-time-in-mobile-testing-in-katalon-studio"
+  }
+}

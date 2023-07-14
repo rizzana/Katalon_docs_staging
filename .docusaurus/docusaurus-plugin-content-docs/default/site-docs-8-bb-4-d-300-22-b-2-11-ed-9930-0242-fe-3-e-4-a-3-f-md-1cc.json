@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bb4d300-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bb4d300-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Illegal option specification exception",
+  "description": "When executing in console mode, you can encounter the following error $ is not a legal option character.",
+  "source": "@site/docs/8bb4d300-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/troubleshooting/illegal-option-specification-exception",
+  "permalink": "/docs/execute/troubleshooting/illegal-option-specification-exception",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bb4d300-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Illegal option specification exception",
+    "slug": "execute/troubleshooting/illegal-option-specification-exception",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Troubleshooting common execution issues",
+    "permalink": "/docs/execute/troubleshooting/troubleshooting-common-execution-issues"
+  },
+  "next": {
+    "title": "New and old proxy mechanisms are not allowed in one command",
+    "permalink": "/docs/execute/troubleshooting/new-and-old-proxy-mechanisms-are-not-allowed-in-one-command"
+  }
+}

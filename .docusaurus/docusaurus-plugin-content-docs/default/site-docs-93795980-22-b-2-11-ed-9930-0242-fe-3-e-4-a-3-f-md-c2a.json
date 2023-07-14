@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93795980-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93795980-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Tap",
+  "description": "Description",
+  "source": "@site/docs/93795980-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93795980-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Tap",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Take Element Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-element-screenshot"
+  },
+  "next": {
+    "title": "[Mobile] Tap At Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap-at-position"
+  }
+}

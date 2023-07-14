@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a5358f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a5358f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage Katalon Licenses",
+  "description": "After purchasing Katalon Studio Enterprise and/or Katalon Runtime Engine licenses, you can attribute, transfer, and remove granted licenses from Katalon TestOps.",
+  "source": "@site/docs/9a5358f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/license-management/manage-katalon-licenses",
+  "permalink": "/docs/administer/administration-tasks/license-management/manage-katalon-licenses",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a5358f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage Katalon Licenses",
+    "slug": "administer/administration-tasks/license-management/manage-katalon-licenses",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "License Utilization Dashboard",
+    "permalink": "/docs/administer/administration-tasks/product-utilization/license-utilization-dashboard"
+  },
+  "next": {
+    "title": "Grant Katalon Licenses",
+    "permalink": "/docs/administer/administration-tasks/license-management/grant-katalon-licenses"
+  }
+}

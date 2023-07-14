@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96cf6250-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96cf6250-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Import RESTful requests from WADLs to Katalon Studio",
+  "description": "Starting version 7.7.0, Katalon Studio supports the import of WADL files to create RESTful requests. This section shows you how to import a WADL file into a Katalon project. Refer to the sample WADL description given here.",
+  "source": "@site/docs/96cf6250-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-wadls-to-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-wadls-to-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96cf6250-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Import RESTful requests from WADLs to Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-wadls-to-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Import web service requests from SoapUI to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-web-service-requests-from-soapui-to-katalon-studio"
+  },
+  "next": {
+    "title": "Import SOAP requests from WSDLs to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-soap-requests-from-wsdls-to-katalon-studio"
+  }
+}

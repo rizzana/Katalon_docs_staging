@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90a15a50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90a15a50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Generate groovy doc for a plugin on Katalon Store",
+  "description": "Beside publishing your plugin to Katalon Store, you can generate   your documentation into groovydoc and add to store.",
+  "source": "@site/docs/90a15a50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-studio-plugins/generate-groovy-doc-for-a-plugin-on-katalon-store",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/generate-groovy-doc-for-a-plugin-on-katalon-store",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90a15a50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Generate groovy doc for a plugin on Katalon Store",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-studio-plugins/generate-groovy-doc-for-a-plugin-on-katalon-store",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Develop a customized report plugin in Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/develop-a-customized-report-plugin-in-katalon-studio"
+  },
+  "next": {
+    "title": "Example plugin: Build Katalon Studio TestRail Integration plugin",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/example-plugin-build-katalon-studio-testrail-integration-plugin"
+  }
+}

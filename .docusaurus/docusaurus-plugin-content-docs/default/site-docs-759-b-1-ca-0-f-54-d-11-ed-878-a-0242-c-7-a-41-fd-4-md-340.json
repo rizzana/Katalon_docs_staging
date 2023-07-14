@@ -1,0 +1,28 @@
+{
+  "unversionedId": "759b1ca0-f54d-11ed-878a-0242c7a41fd4",
+  "id": "759b1ca0-f54d-11ed-878a-0242c7a41fd4",
+  "title": "PowerBI integration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/759b1ca0-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/powerbi-integration",
+  "permalink": "/docs/integrations/unsupported-integrations/powerbi-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "759b1ca0-f54d-11ed-878a-0242c7a41fd4",
+    "title": "PowerBI integration",
+    "slug": "integrations/unsupported-integrations/powerbi-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Playwright integration",
+    "permalink": "/docs/integrations/unsupported-integrations/playwright-integration"
+  },
+  "next": {
+    "title": "QR code scanning automation",
+    "permalink": "/docs/integrations/unsupported-integrations/qr-code-scanning-automation"
+  }
+}

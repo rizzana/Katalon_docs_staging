@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bb23af0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bb23af0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Tests not loading when executing with Chrome version 92, 93, 94 in Windows",
+  "description": "When executing tests in KRE in console mode on Windows with Chrome version 92.x, 93.x or 94.x, you might come across the following error Message Timed out receiving message from renderer: 600.000.",
+  "source": "@site/docs/8bb23af0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/troubleshooting/tests-not-loading-when-executing-with-chrome-version-92-93-94-in-windows",
+  "permalink": "/docs/execute/troubleshooting/tests-not-loading-when-executing-with-chrome-version-92-93-94-in-windows",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bb23af0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Tests not loading when executing with Chrome version 92, 93, 94 in Windows",
+    "slug": "execute/troubleshooting/tests-not-loading-when-executing-with-chrome-version-92-93-94-in-windows",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "New and old proxy mechanisms are not allowed in one command",
+    "permalink": "/docs/execute/troubleshooting/new-and-old-proxy-mechanisms-are-not-allowed-in-one-command"
+  },
+  "next": {
+    "title": "How to free up more available RAM for Katalon Studio",
+    "permalink": "/docs/execute/troubleshooting/how-to-free-up-more-available-ram-for-katalon-studio"
+  }
+}

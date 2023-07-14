@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94021180-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94021180-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Check",
+  "description": "Description",
+  "source": "@site/docs/94021180-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-check",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-check",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94021180-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Check",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-check",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Back",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-back"
+  },
+  "next": {
+    "title": "[WebUI] Clear Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-clear-text"
+  }
+}

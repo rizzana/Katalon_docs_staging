@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e966f20-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e966f20-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use TestOps Visual Testing",
+  "description": "You can compare images captured during test executions with   TestOps Visual Testing.",
+  "source": "@site/docs/8e966f20-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/visual-testing/use-testops-visual-testing",
+  "permalink": "/docs/analyze/analytics/visual-testing/use-testops-visual-testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e966f20-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use TestOps Visual Testing",
+    "slug": "analyze/analytics/visual-testing/use-testops-visual-testing",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Visual Testing overview",
+    "permalink": "/docs/analyze/analytics/visual-testing/visual-testing-overview"
+  },
+  "next": {
+    "title": "Baseline collection",
+    "permalink": "/docs/analyze/analytics/visual-testing/baseline-collection"
+  }
+}

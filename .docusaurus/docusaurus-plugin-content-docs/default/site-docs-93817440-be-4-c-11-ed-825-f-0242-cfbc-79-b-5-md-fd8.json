@@ -1,0 +1,29 @@
+{
+  "unversionedId": "93817440-be4c-11ed-825f-0242cfbc79b5",
+  "id": "93817440-be4c-11ed-825f-0242cfbc79b5",
+  "title": "Quick guide for testers",
+  "description": "This guide shows you the basic steps to automated testing in Katalon Studio, and explores the basic functions of Katalon Platform and Katalon Runtime Engine.",
+  "source": "@site/docs/93817440-be4c-11ed-825f-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/quick-guide-for-testers",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-testers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 93817440,
+  "frontMatter": {
+    "id": "93817440-be4c-11ed-825f-0242cfbc79b5",
+    "title": "Quick guide for testers",
+    "slug": "get-started/onboarding-katalon-platform/quick-guide-for-testers",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Terminology and Formulas",
+    "permalink": "/docs/get-started/terminology-and-formulas"
+  },
+  "next": {
+    "title": "Quick guide for QA managers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-qa-managers"
+  }
+}

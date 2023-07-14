@@ -1,0 +1,28 @@
+{
+  "unversionedId": "941faba0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "941faba0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Drag And Drop By Offset",
+  "description": "Description",
+  "source": "@site/docs/941faba0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-drag-and-drop-by-offset",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-drag-and-drop-by-offset",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "941faba0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Drag And Drop By Offset",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-drag-and-drop-by-offset",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Double Click",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-double-click"
+  },
+  "next": {
+    "title": "[WebUI] Drag And Drop To Object",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-drag-and-drop-to-object"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "8943d300-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8943d300-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "About Katalon Platform",
+  "description": "The Katalon Platform is a modern, comprehensive quality management platform that enables teams to easily and efficiently test, launch, and optimize the best digital experiences. It provides capabilities that allow test automation teams to collaborate, manage, scale, and continuously improve testing operations.",
+  "source": "@site/docs/8943d300-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8943d300-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "About Katalon Platform",
+    "slug": "/",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "next": {
+    "title": "Katalon TestOps Release Notes",
+    "permalink": "/docs/release-notes/katalon-testops/katalon-testops-release-notes"
+  }
+}

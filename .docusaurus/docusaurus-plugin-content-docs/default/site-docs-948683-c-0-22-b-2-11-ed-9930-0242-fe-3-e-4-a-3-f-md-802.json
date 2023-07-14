@@ -1,0 +1,28 @@
+{
+  "unversionedId": "948683c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "948683c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Type On Image",
+  "description": "Description",
+  "source": "@site/docs/948683c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-type-on-image",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-type-on-image",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "948683c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Type On Image",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-type-on-image",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Take Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-screenshot"
+  },
+  "next": {
+    "title": "[WebUI] Un-check",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-un-check"
+  }
+}

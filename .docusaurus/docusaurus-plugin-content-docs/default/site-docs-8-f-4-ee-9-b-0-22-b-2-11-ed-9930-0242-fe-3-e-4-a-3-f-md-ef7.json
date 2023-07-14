@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f4ee9b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f4ee9b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Generate test steps in Katalon Studio manual view",
+  "description": "The tutorial below  gives you step-by-step instructions to create test steps in Katalon Studio manual view.",
+  "source": "@site/docs/8f4ee9b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-manual-view",
+  "permalink": "/docs/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-manual-view",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f4ee9b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Generate test steps in Katalon Studio manual view",
+    "slug": "create-tests/create-test-cases/generate-test-steps-in-katalon-studio-manual-view",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create a new test case in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/create-a-new-test-case-in-katalon-studio"
+  },
+  "next": {
+    "title": "Generate test steps in Katalon Studio script view",
+    "permalink": "/docs/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-script-view"
+  }
+}

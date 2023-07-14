@@ -1,0 +1,28 @@
+{
+  "unversionedId": "987d1250-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "987d1250-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to Handle Alerts in Katalon Studio",
+  "description": "What is an alert?",
+  "source": "@site/docs/987d1250-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-alerts-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-alerts-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "987d1250-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to Handle Alerts in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-alerts-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Solving Wait-time issue with Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-wait-time-issue-with-katalon-studio"
+  },
+  "next": {
+    "title": "How to handle Web Tables in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-web-tables-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "14a31ac0-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "14a31ac0-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "Canvas automation",
+  "description": "This article demonstrates how Katalon Studio helps users to automate Canvas applications' test cases.",
+  "source": "@site/docs/14a31ac0-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/canvas-automation",
+  "permalink": "/docs/integrations/unsupported-integrations/canvas-automation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "14a31ac0-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "Canvas automation",
+    "slug": "integrations/unsupported-integrations/canvas-automation",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Accessibility test automation in Katalon Studio",
+    "permalink": "/docs/integrations/unsupported-integrations/accessibility-test-automation-in-katalon-studio"
+  },
+  "next": {
+    "title": "Cypress integration",
+    "permalink": "/docs/integrations/unsupported-integrations/cypress-integration"
+  }
+}

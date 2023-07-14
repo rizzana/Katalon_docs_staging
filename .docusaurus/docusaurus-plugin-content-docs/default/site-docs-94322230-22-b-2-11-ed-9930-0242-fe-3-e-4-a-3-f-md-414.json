@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94322230-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94322230-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Get Element Height",
+  "description": "Description",
+  "source": "@site/docs/94322230-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-element-height",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-element-height",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94322230-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Get Element Height",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-element-height",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get CSS Value",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-css-value"
+  },
+  "next": {
+    "title": "[WebUI] Get Element Left Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-element-left-position"
+  }
+}

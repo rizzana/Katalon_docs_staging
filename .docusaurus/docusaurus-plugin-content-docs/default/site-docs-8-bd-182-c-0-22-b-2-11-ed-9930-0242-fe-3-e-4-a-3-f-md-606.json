@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bd182c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bd182c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Store overview",
+  "description": "About Katalon Store",
+  "source": "@site/docs/8bd182c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-store-overview",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-store-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bd182c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Store overview",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-store-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Zephyr Scale",
+    "permalink": "/docs/integrations/unsupported-integrations/zephyr-scale"
+  },
+  "next": {
+    "title": "Getting Started with Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/getting-started-with-katalon-store"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "935ca9c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "935ca9c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Select List Item By Index",
+  "description": "Description",
+  "source": "@site/docs/935ca9c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-index",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-index",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "935ca9c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Select List Item By Index",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-index",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Send Keys",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-send-keys"
+  },
+  "next": {
+    "title": "[Mobile] Select List Item By Label",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-select-list-item-by-label"
+  }
+}

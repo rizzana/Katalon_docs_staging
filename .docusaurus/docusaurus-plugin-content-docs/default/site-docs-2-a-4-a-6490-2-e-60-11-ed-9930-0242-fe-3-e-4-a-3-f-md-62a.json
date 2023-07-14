@@ -1,0 +1,28 @@
+{
+  "unversionedId": "2a4a6490-2e60-11ed-9930-0242fe3e4a3f",
+  "id": "2a4a6490-2e60-11ed-9930-0242fe3e4a3f",
+  "title": "Working with BDD feature files in Katalon Studio",
+  "description": "Learn how to work with BDD feature files in Katalon Studio.",
+  "source": "@site/docs/2a4a6490-2e60-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-test-artifacts/working-with-bdd-feature-files-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-test-artifacts/working-with-bdd-feature-files-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "2a4a6490-2e60-11ed-9930-0242fe3e4a3f",
+    "title": "Working with BDD feature files in Katalon Studio",
+    "slug": "create-tests/manage-test-artifacts/working-with-bdd-feature-files-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Using Git Submodules to share Test Artifacts in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-test-artifacts/using-git-submodules-to-share-test-artifacts-in-katalon-studio"
+  },
+  "next": {
+    "title": "Manage Mobile Test Objects in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/mobile-test-objects/manage-mobile-test-objects-in-katalon-studio"
+  }
+}

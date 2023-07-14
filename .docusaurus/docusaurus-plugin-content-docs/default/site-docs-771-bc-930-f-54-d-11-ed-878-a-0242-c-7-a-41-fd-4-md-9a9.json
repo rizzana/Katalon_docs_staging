@@ -1,0 +1,28 @@
+{
+  "unversionedId": "771bc930-f54d-11ed-878a-0242c7a41fd4",
+  "id": "771bc930-f54d-11ed-878a-0242c7a41fd4",
+  "title": "QR code scanning automation",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/771bc930-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/qr-code-scanning-automation",
+  "permalink": "/docs/integrations/unsupported-integrations/qr-code-scanning-automation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "771bc930-f54d-11ed-878a-0242c7a41fd4",
+    "title": "QR code scanning automation",
+    "slug": "integrations/unsupported-integrations/qr-code-scanning-automation",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "PowerBI integration",
+    "permalink": "/docs/integrations/unsupported-integrations/powerbi-integration"
+  },
+  "next": {
+    "title": "Salesforce testing",
+    "permalink": "/docs/integrations/unsupported-integrations/salesforce-testing"
+  }
+}

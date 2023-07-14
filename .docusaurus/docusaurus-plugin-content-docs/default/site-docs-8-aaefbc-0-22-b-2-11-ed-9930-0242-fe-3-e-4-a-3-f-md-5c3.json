@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8aaefbc0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8aaefbc0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Export Katalon Recorder scripts to other frameworks",
+  "description": "Katalon Recorder allows you to export test cases as scripts in various types:Katalon StudioPython (AppDynamics)Robot FrameworkXMLJSON (Dynatrace Synthetics)Node (New Relic Synthetics) Protractor (Typescript)Sample for new formattersPuppeteerPuppeteer w CommentsJSON PuppeteerJava JUnitJava TestNGPython unittest C# MSTestJava WRC + JUnitRuby RspecJavaScript WebDriver.ioJavaScript Puppeteer",
+  "source": "@site/docs/8aaefbc0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-katalon-recorder-scripts-to-other-frameworks",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-katalon-recorder-scripts-to-other-frameworks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8aaefbc0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Export Katalon Recorder scripts to other frameworks",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-katalon-recorder-scripts-to-other-frameworks",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View execution reports in TestOps",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execution-report/view-execution-reports-in-testops"
+  },
+  "next": {
+    "title": "Export test projects from Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-test-projects-from-katalon-recorder"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96bfaae0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96bfaae0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Handle Response Messages in Katalon Studio",
+  "description": "Most of the keywords for handling web service result will ask   for a ResponseObject (return from the   keyword WSBuiltInKeywords.sendRequest) or an   element locator.",
+  "source": "@site/docs/96bfaae0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/handle-response-messages-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/handle-response-messages-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96bfaae0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Handle Response Messages in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/handle-response-messages-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Draft Request in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/draft-request-in-katalon-studio"
+  },
+  "next": {
+    "title": "Windows Test Objects in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/windows-test-objects/windows-test-objects-in-katalon-studio"
+  }
+}

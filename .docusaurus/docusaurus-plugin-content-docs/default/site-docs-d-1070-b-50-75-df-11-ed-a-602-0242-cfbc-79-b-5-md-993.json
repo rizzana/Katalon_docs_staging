@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d1070b50-75df-11ed-a602-0242cfbc79b5",
+  "id": "d1070b50-75df-11ed-a602-0242cfbc79b5",
+  "title": "Link a Katalon test run with an Xray test plan",
+  "description": "This article guides you to schedule a Katalon test run and link it with an Xray test plan.",
+  "source": "@site/docs/d1070b50-75df-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-run-with-an-xray-test-plan",
+  "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-run-with-an-xray-test-plan",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d1070b50-75df-11ed-a602-0242cfbc79b5",
+    "title": "Link a Katalon test run with an Xray test plan",
+    "slug": "organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-run-with-an-xray-test-plan",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Link a Katalon test case with an Xray test issue",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-case-with-an-xray-test-issue"
+  },
+  "next": {
+    "title": "Manually push Katalon test result to Xray",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/manually-push-katalon-test-result-to-xray"
+  }
+}

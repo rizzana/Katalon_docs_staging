@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9599c880-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9599c880-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Help in Katalon Studio",
+  "description": "In case you need some help using Katalon Studio, we have you covered.",
+  "source": "@site/docs/9599c880-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/set-up-your-workspace/katalon-help-in-katalon-studio",
+  "permalink": "/docs/get-started/set-up-your-workspace/katalon-help-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9599c880-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Help in Katalon Studio",
+    "slug": "get-started/set-up-your-workspace/katalon-help-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure Key Bindings in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/configure-key-bindings-in-katalon-studio"
+  },
+  "next": {
+    "title": "Update Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/update-katalon-studio"
+  }
+}

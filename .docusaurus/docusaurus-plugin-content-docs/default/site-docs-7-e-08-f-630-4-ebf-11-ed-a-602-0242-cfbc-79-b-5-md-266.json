@@ -1,0 +1,28 @@
+{
+  "unversionedId": "7e08f630-4ebf-11ed-a602-0242cfbc79b5",
+  "id": "7e08f630-4ebf-11ed-a602-0242cfbc79b5",
+  "title": "Install plugins online from the Katalon Store",
+  "description": "This article shows you how to install plugins online from the Katalon Store.",
+  "source": "@site/docs/7e08f630-4ebf-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-studio-plugins/install-plugins-online-from-the-katalon-store",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/install-plugins-online-from-the-katalon-store",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "7e08f630-4ebf-11ed-a602-0242cfbc79b5",
+    "title": "Install plugins online from the Katalon Store",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-studio-plugins/install-plugins-online-from-the-katalon-store",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Private Plugins in Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/private-plugins-in-katalon-studio"
+  },
+  "next": {
+    "title": "Installing plugin offline in Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/installing-plugin-offline-in-katalon-studio"
+  }
+}

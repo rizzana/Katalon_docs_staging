@@ -1,0 +1,28 @@
+{
+  "unversionedId": "442f4300-faeb-11ed-878a-0242c7a41fd4",
+  "id": "442f4300-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Find the locator of a mobile application element",
+  "description": "We can identify a mobile app element's locator using Appium Inspector.",
+  "source": "@site/docs/442f4300-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/mobile-test-objects/find-the-locator-of-a-mobile-application-element",
+  "permalink": "/docs/create-tests/test-objects/mobile-test-objects/find-the-locator-of-a-mobile-application-element",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "442f4300-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Find the locator of a mobile application element",
+    "slug": "create-tests/test-objects/mobile-test-objects/find-the-locator-of-a-mobile-application-element",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Parameterize Mobile Test Object Properties in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/mobile-test-objects/parameterize-mobile-test-object-properties-in-katalon-studio"
+  },
+  "next": {
+    "title": "Selection methods for Web objects in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/selection-methods-for-web-objects-in-katalon-studio"
+  }
+}

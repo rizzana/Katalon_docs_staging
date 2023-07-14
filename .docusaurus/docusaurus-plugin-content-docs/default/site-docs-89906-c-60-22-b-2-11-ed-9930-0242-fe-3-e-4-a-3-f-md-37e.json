@@ -1,0 +1,28 @@
+{
+  "unversionedId": "89906c60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "89906c60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalium Framework Page Object Model",
+  "description": "Page Object Model (POM) is a Design Pattern for enhancing test   maintenance and reducing code duplication. Please refer to here   for a detailed explanation and benefits of POM.",
+  "source": "@site/docs/89906c60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-framework/katalium-framework-page-object-model",
+  "permalink": "/docs/plugins-and-add-ons/katalium-framework/katalium-framework-page-object-model",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "89906c60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalium Framework Page Object Model",
+    "slug": "plugins-and-add-ons/katalium-framework/katalium-framework-page-object-model",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create a Test Case in Katalium Framework",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/create-a-test-case-in-katalium-framework"
+  },
+  "next": {
+    "title": "Create a Test Suite in Katalium Framework",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/create-a-test-suite-in-katalium-framework"
+  }
+}

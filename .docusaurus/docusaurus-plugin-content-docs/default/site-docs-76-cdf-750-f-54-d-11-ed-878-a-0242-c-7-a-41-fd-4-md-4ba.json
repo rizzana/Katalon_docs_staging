@@ -1,0 +1,28 @@
+{
+  "unversionedId": "76cdf750-f54d-11ed-878a-0242c7a41fd4",
+  "id": "76cdf750-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Upload files for web applications",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/76cdf750-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/upload-files-for-web-applications",
+  "permalink": "/docs/integrations/unsupported-integrations/upload-files-for-web-applications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "76cdf750-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Upload files for web applications",
+    "slug": "integrations/unsupported-integrations/upload-files-for-web-applications",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "TestProject migration",
+    "permalink": "/docs/integrations/unsupported-integrations/testproject-migration"
+  },
+  "next": {
+    "title": "WireMock integration",
+    "permalink": "/docs/integrations/unsupported-integrations/wiremock-integration"
+  }
+}

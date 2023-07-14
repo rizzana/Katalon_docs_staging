@@ -1,0 +1,28 @@
+{
+  "unversionedId": "db211ee0-76c1-11ed-a602-0242cfbc79b5",
+  "id": "db211ee0-76c1-11ed-a602-0242cfbc79b5",
+  "title": "Add Custom Fields and Tags to test cases",
+  "description": "Besides the test case attributes offered by Katalon, you can create as many as you need to suit your need. Custom Fields and Tags help you  do that. You can then organize or query your test cases based on the attributes you have created. To understand more about Custom Field &amp; Tags and how to create them, see Custom Fields &amp; Tags.",
+  "source": "@site/docs/db211ee0-76c1-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/manage-tests/test-case/add-custom-fields-and-tags-to-test-cases",
+  "permalink": "/docs/organize/manage-tests/test-case/add-custom-fields-and-tags-to-test-cases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "db211ee0-76c1-11ed-a602-0242cfbc79b5",
+    "title": "Add Custom Fields and Tags to test cases",
+    "slug": "organize/manage-tests/test-case/add-custom-fields-and-tags-to-test-cases",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Custom Fields and Tags",
+    "permalink": "/docs/organize/custom-field-and-tags/custom-fields-and-tags"
+  },
+  "next": {
+    "title": "Search a test case by custom fields and tags",
+    "permalink": "/docs/organize/manage-tests/test-case/search-a-test-case-by-custom-fields-and-tags"
+  }
+}

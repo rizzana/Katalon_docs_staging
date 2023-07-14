@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94985e10-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94985e10-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Verify Element Has Attribute",
+  "description": "Description",
+  "source": "@site/docs/94985e10-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-has-attribute",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-has-attribute",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94985e10-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Verify Element Has Attribute",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-has-attribute",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Verify Element Clickable",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-clickable"
+  },
+  "next": {
+    "title": "[Web UI] Verify Element Not Checked",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/web-ui-verify-element-not-checked"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "91179bc0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "91179bc0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Sample WebUI tests project with data-driven testing (Shopping Cart sample) in Katalon Studio",
+  "description": "This sample demonstrates WebUI testing with data-driven testing   in Katalon Studio. This sample also shows you an extensive use of   custom keywords in the test case.",
+  "source": "@site/docs/91179bc0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/data-driven-test/sample-webui-tests-project-with-data-driven-testing-shopping-cart-sample-in-katalon-studio",
+  "permalink": "/docs/get-started/sample-projects/data-driven-test/sample-webui-tests-project-with-data-driven-testing-shopping-cart-sample-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "91179bc0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Sample WebUI tests project with data-driven testing (Shopping Cart sample) in Katalon Studio",
+    "slug": "get-started/sample-projects/data-driven-test/sample-webui-tests-project-with-data-driven-testing-shopping-cart-sample-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Sample Android mobile tests project in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/mobile/sample-android-mobile-tests-project-in-katalon-studio"
+  },
+  "next": {
+    "title": "Sample BDD (Cucumber) tests project in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/behavior-driven-development/sample-bdd-cucumber-tests-project-in-katalon-studio"
+  }
+}

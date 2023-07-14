@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c882890-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c882890-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View test results in the Jira Test Results gadget",
+  "description": "You are using Jira Cloud.You have enabled TestOps - Jira integration in Jira software. See: Enable TestOps - Jira integration in Jira software.",
+  "source": "@site/docs/8c882890-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/integration-for-test-analyzing/jira-integration/view-test-results-in-the-jira-test-results-gadget",
+  "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/view-test-results-in-the-jira-test-results-gadget",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c882890-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View test results in the Jira Test Results gadget",
+    "slug": "analyze/integration-for-test-analyzing/jira-integration/view-test-results-in-the-jira-test-results-gadget",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Submit an issue from Katalon Studio to Jira",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/submit-an-issue-from-katalon-studio-to-jira"
+  },
+  "next": {
+    "title": "Link test runs to Jira defects in Katalon TestOps",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/link-test-runs-to-jira-defects-in-katalon-testops"
+  }
+}

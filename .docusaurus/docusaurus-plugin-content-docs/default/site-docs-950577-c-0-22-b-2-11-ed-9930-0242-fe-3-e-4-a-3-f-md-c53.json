@@ -1,0 +1,28 @@
+{
+  "unversionedId": "950577c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "950577c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Supported Technologies for Katalon Studio",
+  "description": "This document gives you information on the supported technologies in Katalon Studio. For the supported environments (including browsers and operating systems), see: Supported environments for Katalon Studio and Katalon Runtime Engine.",
+  "source": "@site/docs/950577c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/supported-technologies/supported-technologies-for-katalon-studio",
+  "permalink": "/docs/supported-technologies/supported-technologies-for-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "950577c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Supported Technologies for Katalon Studio",
+    "slug": "supported-technologies/supported-technologies-for-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Cloud Studio (Beta) release",
+    "permalink": "/docs/release-notes/katalon-cloud-studio/katalon-cloud-studio-beta-release"
+  },
+  "next": {
+    "title": "Supported environments for Katalon Studio and Katalon Runtime Engine (KRE)",
+    "permalink": "/docs/supported-execution-environments/supported-environments-for-katalon-studio-and-katalon-runtime-engine-kre"
+  }
+}

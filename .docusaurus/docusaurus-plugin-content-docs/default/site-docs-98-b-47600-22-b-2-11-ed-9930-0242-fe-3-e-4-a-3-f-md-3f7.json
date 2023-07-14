@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98b47600-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98b47600-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to check element status in conditional statement in Katalon Studio",
+  "description": "In Web UI functional testing, you may want to ensure that an   element is clickable, present, or visible before performing further   actions on the element. The function used in such a case is   verifyElementClickable with this   specification:",
+  "source": "@site/docs/98b47600-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-check-element-status-in-conditional-statement-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-check-element-status-in-conditional-statement-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98b47600-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to check element status in conditional statement in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-check-element-status-in-conditional-statement-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to handle dropdown menu in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-dropdown-menu-in-katalon-studio"
+  },
+  "next": {
+    "title": "Understand waiting keywords in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/understand-waiting-keywords-in-katalon-studio"
+  }
+}

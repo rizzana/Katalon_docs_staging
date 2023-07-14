@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8cde37d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8cde37d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Terminology and Formulas",
+  "description": "TestOps Terminology",
+  "source": "@site/docs/8cde37d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/terminology-and-formulas",
+  "permalink": "/docs/get-started/terminology-and-formulas",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8cde37d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Terminology and Formulas",
+    "slug": "get-started/terminology-and-formulas",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Get started with Katalon Platform",
+    "permalink": "/docs/get-started/get-started-with-katalon-platform"
+  },
+  "next": {
+    "title": "Quick guide for testers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-testers"
+  }
+}

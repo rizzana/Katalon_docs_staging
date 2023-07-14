@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e6c51e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e6c51e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Populate Jira releases",
+  "description": "Katalon TestOps allows you to populate Jira releases for test planning and management. Depending on your use case, you can do this in two ways:",
+  "source": "@site/docs/8e6c51e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/integration-for-test-planning/populate-jira-releases",
+  "permalink": "/docs/plan/integration-for-test-planning/populate-jira-releases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e6c51e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Populate Jira releases",
+    "slug": "plan/integration-for-test-planning/populate-jira-releases",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Link test execution with a TestOps release using command builder",
+    "permalink": "/docs/plan/link-test-execution-with-a-testops-release-using-command-builder"
+  },
+  "next": {
+    "title": "Link Test Cases to Jira Requirements",
+    "permalink": "/docs/plan/integration-for-test-planning/link-test-cases-to-jira-requirements"
+  }
+}

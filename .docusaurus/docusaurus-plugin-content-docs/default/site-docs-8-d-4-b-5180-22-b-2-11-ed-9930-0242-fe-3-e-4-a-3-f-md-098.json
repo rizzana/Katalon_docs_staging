@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d4b5180-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d4b5180-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Filter test run list by build name in Katalon TestOps",
+  "description": "In Katalon TestOps, you can filter Test Runs by Build name   to:",
+  "source": "@site/docs/8d4b5180-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/manage-reports/filter-test-run-list-by-build-name-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/manage-reports/filter-test-run-list-by-build-name-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d4b5180-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Filter test run list by build name in Katalon TestOps",
+    "slug": "analyze/reports/manage-reports/filter-test-run-list-by-build-name-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Override test results status in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/manage-reports/override-test-results-status-in-katalon-testops"
+  },
+  "next": {
+    "title": "Analytics overview",
+    "permalink": "/docs/analyze/analytics/analytics-overview"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a40f7b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a40f7b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Selenese (Selenium IDE) Commands Reference",
+  "description": "Katalon Automation Recorder provides various Selenium Commands (Selenese) to help automate web application testing. These commands stimulate actions on the application under test (AUT) and create automation test scripts.",
+  "source": "@site/docs/8a40f7b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a40f7b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Selenese (Selenium IDE) Commands Reference",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder vs Alternatives",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/production-evaluation-center/katalon-recorder-vs-alternatives"
+  },
+  "next": {
+    "title": "Create your first automation script in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/create-your-first-automation-script-in-katalon-recorder"
+  }
+}

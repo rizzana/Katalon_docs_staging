@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93354ba0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93354ba0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Get Element Top Position",
+  "description": "Description",
+  "source": "@site/docs/93354ba0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-top-position",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-top-position",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93354ba0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Get Element Top Position",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-top-position",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Get Element Left Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-left-position"
+  },
+  "next": {
+    "title": "[Mobile] Get Element Width",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-width"
+  }
+}

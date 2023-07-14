@@ -1,0 +1,28 @@
+{
+  "unversionedId": "954bcf90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "954bcf90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Studio Release Notes: Version 7.x",
+  "description": "Official Release - Version 7.9.1",
+  "source": "@site/docs/954bcf90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes/katalon-studio/katalon-studio-release-notes-version-7.x",
+  "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-7.x",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "954bcf90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Studio Release Notes: Version 7.x",
+    "slug": "release-notes/katalon-studio/katalon-studio-release-notes-version-7.x",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio Release Notes: Version 8.x",
+    "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x"
+  },
+  "next": {
+    "title": "Katalon Studio Release Notes: Version 6.x",
+    "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-6.x"
+  }
+}

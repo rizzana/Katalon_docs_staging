@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94418b80-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94418b80-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Get Viewport Left Position",
+  "description": "Description",
+  "source": "@site/docs/94418b80-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-viewport-left-position",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-viewport-left-position",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94418b80-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Get Viewport Left Position",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-viewport-left-position",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get Viewport Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-viewport-height"
+  },
+  "next": {
+    "title": "[WebUI] Get Viewport Top Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-viewport-top-position"
+  }
+}

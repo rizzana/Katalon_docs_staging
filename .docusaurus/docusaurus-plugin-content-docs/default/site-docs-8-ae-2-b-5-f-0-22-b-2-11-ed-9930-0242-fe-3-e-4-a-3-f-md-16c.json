@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ae2b5f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ae2b5f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder vs Alternatives",
+  "description": "This comparison features Katalon Recorder, Selenium IDE,   iMacros.",
+  "source": "@site/docs/8ae2b5f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/production-evaluation-center/katalon-recorder-vs-alternatives",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/production-evaluation-center/katalon-recorder-vs-alternatives",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ae2b5f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder vs Alternatives",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/production-evaluation-center/katalon-recorder-vs-alternatives",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder vs Selenium IDE",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/production-evaluation-center/katalon-recorder-vs-selenium-ide"
+  },
+  "next": {
+    "title": "Selenese (Selenium IDE) Commands Reference",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/selenese-selenium-ide-commands-reference"
+  }
+}

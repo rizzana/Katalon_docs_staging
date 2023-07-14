@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ea3b590-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ea3b590-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Configure Linux for Web Service testing in Katalon Studio",
+  "description": "This article provides some additional setup to perform Web Services testing in Katalon Studio for Linux.",
+  "source": "@site/docs/8ea3b590-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/api-testing/configure-linux-for-web-service-testing-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/configure-linux-for-web-service-testing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ea3b590-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Configure Linux for Web Service testing in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/api-testing/configure-linux-for-web-service-testing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use client certificate for requests in API projects in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/use-client-certificate-for-requests-in-api-projects-in-katalon-studio"
+  },
+  "next": {
+    "title": "Create test case overview",
+    "permalink": "/docs/create-tests/create-test-cases/create-test-case-overview"
+  }
+}

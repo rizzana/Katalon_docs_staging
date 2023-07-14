@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99b480e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99b480e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage Android's permission in Katalon Studio",
+  "description": "To manage Android's permission, you need to set the value of   'autoGrantPermissions' desired capabilities:",
+  "source": "@site/docs/99b480e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/project-settings/desired-capabilities/manage-androids-permission-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/project-settings/desired-capabilities/manage-androids-permission-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99b480e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage Android's permission in Katalon Studio",
+    "slug": "create-tests/manage-projects/project-settings/desired-capabilities/manage-androids-permission-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Remote Execution for Mobile Testing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/desired-capabilities/remote-execution-for-mobile-testing-in-katalon-studio"
+  },
+  "next": {
+    "title": "Install Chrome extensions at runtime in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/desired-capabilities/install-chrome-extensions-at-runtime-in-katalon-studio"
+  }
+}

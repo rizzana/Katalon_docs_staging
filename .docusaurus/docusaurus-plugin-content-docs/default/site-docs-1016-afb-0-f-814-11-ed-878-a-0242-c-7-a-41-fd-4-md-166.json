@@ -1,0 +1,28 @@
+{
+  "unversionedId": "1016afb0-f814-11ed-878a-0242c7a41fd4",
+  "id": "1016afb0-f814-11ed-878a-0242c7a41fd4",
+  "title": "Oops! There's something wrong with this invitation.",
+  "description": "Although you receive an invitation email to join Katalon Platform from your organization's admin, there is a error message pops up:",
+  "source": "@site/docs/1016afb0-f814-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/oops-theres-something-wrong-with-this-invitation.",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/oops-theres-something-wrong-with-this-invitation.",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "1016afb0-f814-11ed-878a-0242c7a41fd4",
+    "title": "Oops! There's something wrong with this invitation.",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/oops-theres-something-wrong-with-this-invitation.",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Cannot receive verification link",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/cannot-receive-verification-link"
+  },
+  "next": {
+    "title": "Supported integrations in Katalon Platform",
+    "permalink": "/docs/integrations/supported-integrations/supported-integrations-in-katalon-platform"
+  }
+}

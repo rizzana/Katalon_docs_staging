@@ -1,0 +1,28 @@
+{
+  "unversionedId": "913c3ac0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "913c3ac0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Analyze Test Suite Reports and Resolve Errors in Katalon Studio",
+  "description": "After Test Suite execution, Katalon Studio generates Test Suite reports that organize the execution logs of the respective Test Cases contained within the suite. You can view Test Suite reports to monitor test coverage and troubleshoot errors quickly.",
+  "source": "@site/docs/913c3ac0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/webui/webui-analyze-test-suite-reports-and-resolve-errors-in-katalon-studio",
+  "permalink": "/docs/get-started/sample-projects/webui/webui-analyze-test-suite-reports-and-resolve-errors-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "913c3ac0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Analyze Test Suite Reports and Resolve Errors in Katalon Studio",
+    "slug": "get-started/sample-projects/webui/webui-analyze-test-suite-reports-and-resolve-errors-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Analyze test execution logs and debug the test case in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/webui/webui-analyze-test-execution-logs-and-debug-the-test-case-in-katalon-studio"
+  },
+  "next": {
+    "title": "[Mobile] Create and Run Android Test Case",
+    "permalink": "/docs/get-started/sample-projects/mobile/mobile-create-and-run-android-test-case"
+  }
+}

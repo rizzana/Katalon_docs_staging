@@ -1,0 +1,28 @@
+{
+  "unversionedId": "763cdae0-f54d-11ed-878a-0242c7a41fd4",
+  "id": "763cdae0-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Selenium Katalon migration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/763cdae0-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/selenium-katalon-migration",
+  "permalink": "/docs/integrations/unsupported-integrations/selenium-katalon-migration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "763cdae0-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Selenium Katalon migration",
+    "slug": "integrations/unsupported-integrations/selenium-katalon-migration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Salesforce testing",
+    "permalink": "/docs/integrations/unsupported-integrations/salesforce-testing"
+  },
+  "next": {
+    "title": "TestProject migration",
+    "permalink": "/docs/integrations/unsupported-integrations/testproject-migration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "900d30a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "900d30a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Working with sensitive text in Katalon Studio",
+  "description": "Katalon Studio supports text encryption directly inside the test script. This feature is helpful in case the project team needs to share tests containing sensitive information with other team members or key stakeholders. There are two ways to leverage this feature: in Manual view and Script view.",
+  "source": "@site/docs/900d30a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/working-with-sensitive-text-in-katalon-studio",
+  "permalink": "/docs/create-tests/create-test-cases/working-with-sensitive-text-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "900d30a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Working with sensitive text in Katalon Studio",
+    "slug": "create-tests/create-test-cases/working-with-sensitive-text-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test Fixtures and Test Listeners (Test Hooks) in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/test-fixtures-and-test-listeners-test-hooks-in-katalon-studio"
+  },
+  "next": {
+    "title": "Create your first API test with Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/create-your-first-api-test-with-katalon-studio"
+  }
+}

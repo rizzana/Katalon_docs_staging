@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99ea36e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99ea36e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Platform plans",
+  "description": "Overview",
+  "source": "@site/docs/99ea36e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-platform-plans",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-plans",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99ea36e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Platform plans",
+    "slug": "administer/katalon-platform-packages/katalon-platform-plans",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Suggested solutions for keyword errors",
+    "permalink": "/docs/maintain/suggested-solutions-for-keyword-errors"
+  },
+  "next": {
+    "title": "Katalon Trial Plans",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-trial-plans"
+  }
+}

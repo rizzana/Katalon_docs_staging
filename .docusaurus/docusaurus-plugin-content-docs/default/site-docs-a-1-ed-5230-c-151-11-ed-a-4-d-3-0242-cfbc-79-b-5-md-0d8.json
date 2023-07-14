@@ -1,0 +1,28 @@
+{
+  "unversionedId": "a1ed5230-c151-11ed-a4d3-0242cfbc79b5",
+  "id": "a1ed5230-c151-11ed-a4d3-0242cfbc79b5",
+  "title": "Spy mobile utility in Katalon Studio",
+  "description": "Katalon Studio fully supports selector strategies supported by Appium except for Android Data Matcher. To learn more about locator strategies, see  Locator strategies for detecting a mobile object.",
+  "source": "@site/docs/a1ed5230-c151-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-mobile-utility-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-mobile-utility-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "a1ed5230-c151-11ed-a4d3-0242cfbc79b5",
+    "title": "Spy mobile utility in Katalon Studio",
+    "slug": "create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-mobile-utility-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Record mobile utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/record-mobile-utility-in-katalon-studio"
+  },
+  "next": {
+    "title": "Generate test scripts for a Progressive Web App using mobile recorder in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/generate-test-scripts-for-a-progressive-web-app-using-mobile-recorder-in-katalon-studio"
+  }
+}

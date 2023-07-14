@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ba123f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ba123f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "CI/CD Integration Overview",
+  "description": "Katalon Runtime Engine supports running your tests in several CI environments. Test execution in CI/CD pipeline provides the following advantages you don't have to install Katalon Studio manually.Being able to work even on machines without displays.Allocating an isolated virtual display (e.g., Xvbf for Jenkins) that increases the stability of execution.",
+  "source": "@site/docs/8ba123f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/cicd-integration-overview",
+  "permalink": "/docs/execute/cicd-integrations/cicd-integration-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ba123f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "CI/CD Integration Overview",
+    "slug": "execute/cicd-integrations/cicd-integration-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test suite collection scheduler for Katalon Studio",
+    "permalink": "/docs/execute/schedule-test-execution/test-suite-collection-scheduler-for-katalon-studio"
+  },
+  "next": {
+    "title": "AWS CodeBuild Integration",
+    "permalink": "/docs/execute/cicd-integrations/aws-codebuild-integration"
+  }
+}

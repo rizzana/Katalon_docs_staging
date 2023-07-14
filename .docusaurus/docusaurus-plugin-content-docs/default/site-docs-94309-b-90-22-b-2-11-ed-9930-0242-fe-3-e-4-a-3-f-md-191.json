@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94309b90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94309b90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Get CSS Value",
+  "description": "Description",
+  "source": "@site/docs/94309b90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-css-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-css-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94309b90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Get CSS Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-css-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get Attribute",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-attribute"
+  },
+  "next": {
+    "title": "[WebUI] Get Element Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-element-height"
+  }
+}

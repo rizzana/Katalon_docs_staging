@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c3c2b70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c3c2b70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Transfer Ownership",
+  "description": "Important:",
+  "source": "@site/docs/8c3c2b70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/user-management/transfer-ownership",
+  "permalink": "/docs/administer/administration-tasks/user-management/transfer-ownership",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c3c2b70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Transfer Ownership",
+    "slug": "administer/administration-tasks/user-management/transfer-ownership",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manage Users",
+    "permalink": "/docs/administer/administration-tasks/user-management/manage-users"
+  },
+  "next": {
+    "title": "Payment Method",
+    "permalink": "/docs/administer/administration-tasks/payment-method/payment-method"
+  }
+}

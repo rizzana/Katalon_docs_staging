@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98bf4b70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98bf4b70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Solving Pop-up dialog issue with Katalon Studio",
+  "description": "When performing automation testing, you may sometimes deal with   pop-up dialog issue that needs to be handled differently from   normal test objects. This tutorial shows you how to deal with   pop-up controls.",
+  "source": "@site/docs/98bf4b70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-pop-up-dialog-issue-with-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-pop-up-dialog-issue-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98bf4b70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Solving Pop-up dialog issue with Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-pop-up-dialog-issue-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Flutter-based application testing with custom SetText keyword in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/flutter-based-application-testing-with-custom-settext-keyword-in-katalon-studio"
+  },
+  "next": {
+    "title": "Handling iFrame issue with Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/handling-iframe-issue-with-katalon-studio"
+  }
+}

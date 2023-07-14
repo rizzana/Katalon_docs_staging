@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c1edf70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c1edf70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Supported environments for Katalon TestCloud",
+  "description": "This guide provides a list of environments supported by Katalon TestCloud.",
+  "source": "@site/docs/8c1edf70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/supported-execution-environments/supported-environments-for-katalon-testcloud",
+  "permalink": "/docs/supported-execution-environments/supported-environments-for-katalon-testcloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c1edf70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Supported environments for Katalon TestCloud",
+    "slug": "supported-execution-environments/supported-environments-for-katalon-testcloud",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Supported environments for Katalon Studio and Katalon Runtime Engine (KRE)",
+    "permalink": "/docs/supported-execution-environments/supported-environments-for-katalon-studio-and-katalon-runtime-engine-kre"
+  },
+  "next": {
+    "title": "Get started with Katalon Platform",
+    "permalink": "/docs/get-started/get-started-with-katalon-platform"
+  }
+}

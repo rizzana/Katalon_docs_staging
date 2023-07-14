@@ -1,0 +1,28 @@
+{
+  "unversionedId": "440796c0-faeb-11ed-878a-0242c7a41fd4",
+  "id": "440796c0-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Generate manual test cases with Jira integration",
+  "description": "Generate manual test cases in Jira using the Katalon Manual Test Cases Generator.",
+  "source": "@site/docs/440796c0-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration",
+  "permalink": "/docs/organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "440796c0-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Generate manual test cases with Jira integration",
+    "slug": "organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manage BDD test cases with Jira integration",
+    "permalink": "/docs/organize/integration-for-organizing-tests/jira-integration/manage-bdd-test-cases-with-jira-integration"
+  },
+  "next": {
+    "title": "Configure Xray Integration in Katalon TestOps",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/configure-xray-integration-in-katalon-testops"
+  }
+}

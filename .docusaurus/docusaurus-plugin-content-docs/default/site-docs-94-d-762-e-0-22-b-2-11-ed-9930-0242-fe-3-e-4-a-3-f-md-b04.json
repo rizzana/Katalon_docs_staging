@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94d762e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94d762e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Wait for jQuery Load",
+  "description": "Description",
+  "source": "@site/docs/94d762e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-jquery-load",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-jquery-load",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94d762e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Wait for jQuery Load",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-jquery-load",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Wait For Image Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-image-present"
+  },
+  "next": {
+    "title": "[WebUI] Wait For Page Load",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-page-load"
+  }
+}

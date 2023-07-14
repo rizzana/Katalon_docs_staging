@@ -1,0 +1,28 @@
+{
+  "unversionedId": "77077de0-f54d-11ed-878a-0242c7a41fd4",
+  "id": "77077de0-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Cypress integration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/77077de0-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/cypress-integration",
+  "permalink": "/docs/integrations/unsupported-integrations/cypress-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "77077de0-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Cypress integration",
+    "slug": "integrations/unsupported-integrations/cypress-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Canvas automation",
+    "permalink": "/docs/integrations/unsupported-integrations/canvas-automation"
+  },
+  "next": {
+    "title": "Microsoft Dynamics 365",
+    "permalink": "/docs/integrations/unsupported-integrations/microsoft-dynamics-365"
+  }
+}

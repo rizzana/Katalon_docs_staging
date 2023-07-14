@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96caf580-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96caf580-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Import SOAP requests from WSDLs to Katalon Studio",
+  "description": "WSDL is used for specifying a SOAP web service's functionality. It is critical to SOAP web service testing when you can create web service requests based on a WSDL file. This section shows you how to import a WSDL file into a Katalon project and explore it as well.",
+  "source": "@site/docs/96caf580-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/import-web-service-objects/import-soap-requests-from-wsdls-to-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-soap-requests-from-wsdls-to-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96caf580-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Import SOAP requests from WSDLs to Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/import-web-service-objects/import-soap-requests-from-wsdls-to-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Import RESTful requests from WADLs to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-wadls-to-katalon-studio"
+  },
+  "next": {
+    "title": "REST Request in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/rest-request/rest-request-in-katalon-studio"
+  }
+}

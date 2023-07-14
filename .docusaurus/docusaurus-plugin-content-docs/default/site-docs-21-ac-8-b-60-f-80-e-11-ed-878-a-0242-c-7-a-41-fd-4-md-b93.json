@@ -1,0 +1,24 @@
+{
+  "unversionedId": "21ac8b60-f80e-11ed-878a-0242c7a41fd4",
+  "id": "21ac8b60-f80e-11ed-878a-0242c7a41fd4",
+  "title": "Customer support FAQs",
+  "description": "How long does it take for Customer Support  to respond?",
+  "source": "@site/docs/21ac8b60-f80e-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/customer-support-faqs",
+  "permalink": "/docs/customer-support-faqs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "21ac8b60-f80e-11ed-878a-0242c7a41fd4",
+    "title": "Customer support FAQs",
+    "slug": "customer-support-faqs",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Security and Privacy FAQ",
+    "permalink": "/docs/security-and-privacy-faq"
+  }
+}

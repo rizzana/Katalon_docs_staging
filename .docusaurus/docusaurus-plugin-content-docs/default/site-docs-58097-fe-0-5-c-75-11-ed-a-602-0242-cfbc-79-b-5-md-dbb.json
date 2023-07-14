@@ -1,0 +1,28 @@
+{
+  "unversionedId": "58097fe0-5c75-11ed-a602-0242cfbc79b5",
+  "id": "58097fe0-5c75-11ed-a602-0242cfbc79b5",
+  "title": "Execute tests with Katalon Studio overview",
+  "description": "This section shows you how to execute tests in Katalon Studio.",
+  "source": "@site/docs/58097fe0-5c75-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-katalon-studio/execute-tests-with-katalon-studio-overview",
+  "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-tests-with-katalon-studio-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "58097fe0-5c75-11ed-a602-0242cfbc79b5",
+    "title": "Execute tests with Katalon Studio overview",
+    "slug": "execute/test-execution-with-katalon-studio/execute-tests-with-katalon-studio-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test Execution Overview",
+    "permalink": "/docs/execute/test-execution-overview"
+  },
+  "next": {
+    "title": "Execute a test case",
+    "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-a-test-case"
+  }
+}

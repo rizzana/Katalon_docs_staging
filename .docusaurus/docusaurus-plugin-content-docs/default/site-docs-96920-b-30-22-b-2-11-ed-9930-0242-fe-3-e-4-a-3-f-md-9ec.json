@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96920b30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96920b30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create your first API test with Katalon Studio",
+  "description": "Introduction",
+  "source": "@site/docs/96920b30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/create-your-first-api-test-with-katalon-studio",
+  "permalink": "/docs/create-tests/create-test-cases/create-your-first-api-test-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96920b30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create your first API test with Katalon Studio",
+    "slug": "create-tests/create-test-cases/create-your-first-api-test-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Working with sensitive text in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/working-with-sensitive-text-in-katalon-studio"
+  },
+  "next": {
+    "title": "Using Web Services in a test case in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/using-web-services-in-a-test-case-in-katalon-studio"
+  }
+}

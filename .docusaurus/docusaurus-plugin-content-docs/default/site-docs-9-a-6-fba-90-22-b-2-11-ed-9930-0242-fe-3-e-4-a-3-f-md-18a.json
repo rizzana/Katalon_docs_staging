@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a6fba90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a6fba90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Payment Method",
+  "description": "As an organization owner or Billing Manager, you can update your billing settings, including payment method, billing information, and billing email recipients at any time.",
+  "source": "@site/docs/9a6fba90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/payment-method/payment-method",
+  "permalink": "/docs/administer/administration-tasks/payment-method/payment-method",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a6fba90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Payment Method",
+    "slug": "administer/administration-tasks/payment-method/payment-method",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Transfer Ownership",
+    "permalink": "/docs/administer/administration-tasks/user-management/transfer-ownership"
+  },
+  "next": {
+    "title": "Subscribe to Katalon Platform",
+    "permalink": "/docs/administer/administration-tasks/subscription-management/katalon-platform-subscription/subscribe-to-katalon-platform"
+  }
+}

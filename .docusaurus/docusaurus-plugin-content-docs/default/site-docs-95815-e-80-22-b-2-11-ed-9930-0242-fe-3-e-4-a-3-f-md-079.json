@@ -1,0 +1,28 @@
+{
+  "unversionedId": "95815e80-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "95815e80-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Update Katalon Studio",
+  "description": "Attention: After installing the new version successfully, product reactivation is required.",
+  "source": "@site/docs/95815e80-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/set-up-your-workspace/update-katalon-studio",
+  "permalink": "/docs/get-started/set-up-your-workspace/update-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "95815e80-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Update Katalon Studio",
+    "slug": "get-started/set-up-your-workspace/update-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Help in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/katalon-help-in-katalon-studio"
+  },
+  "next": {
+    "title": "Change Katalon Studio Theme",
+    "permalink": "/docs/get-started/set-up-your-workspace/change-katalon-studio-theme"
+  }
+}

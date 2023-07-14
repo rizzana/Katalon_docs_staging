@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cabaae50-750d-11ed-a602-0242cfbc79b5",
+  "id": "cabaae50-750d-11ed-a602-0242cfbc79b5",
+  "title": "No Chromedriver found that can automate Chrome '<chrome_version>'",
+  "description": "While testing web apps on mobile browsers, you might encounter a ChromeDriver related error No Chromedriver found that can automate Chrome_version",
+  "source": "@site/docs/cabaae50-750d-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/no-chromedriver-found-that-can-automate-chrome-chrome_version",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/no-chromedriver-found-that-can-automate-chrome-chrome_version",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cabaae50-750d-11ed-a602-0242cfbc79b5",
+    "title": "No Chromedriver found that can automate Chrome '<chrome_version>'",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/no-chromedriver-found-that-can-automate-chrome-chrome_version",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Xcode fails to create a provisioning profile for the WebDriverAgentRunner target",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/xcode-fails-to-create-a-provisioning-profile-for-the-webdriveragentrunner-target"
+  },
+  "next": {
+    "title": "Unable to create a new remote session with IOS real devices",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/unable-to-create-a-new-remote-session-with-ios-real-devices"
+  }
+}

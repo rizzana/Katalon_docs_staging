@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4bb3e6c0-b802-11ed-825f-0242cfbc79b5",
+  "id": "4bb3e6c0-b802-11ed-825f-0242cfbc79b5",
+  "title": "Quick guide for billing managers",
+  "description": "As a billing manager, you can change subscriptions and manage payments. You can also view license management settings.",
+  "source": "@site/docs/4bb3e6c0-b802-11ed-825f-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/quick-guide-for-billing-managers",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-billing-managers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4bb3e6c0-b802-11ed-825f-0242cfbc79b5",
+    "title": "Quick guide for billing managers",
+    "slug": "get-started/onboarding-katalon-platform/quick-guide-for-billing-managers",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Quick guide for administrators",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-administrators"
+  },
+  "next": {
+    "title": "Explore Katalon Studio",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/explore-katalon-studio"
+  }
+}

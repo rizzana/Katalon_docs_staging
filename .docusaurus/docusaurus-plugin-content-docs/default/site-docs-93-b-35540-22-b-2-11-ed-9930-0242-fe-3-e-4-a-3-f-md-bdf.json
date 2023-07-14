@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93b35540-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93b35540-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Common] Concatenate",
+  "description": "Description",
+  "source": "@site/docs/93b35540-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-concatenate",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-concatenate",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93b35540-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Common] Concatenate",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-concatenate",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Common] Comment",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-comment"
+  },
+  "next": {
+    "title": "[Common] Delay",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-delay"
+  }
+}

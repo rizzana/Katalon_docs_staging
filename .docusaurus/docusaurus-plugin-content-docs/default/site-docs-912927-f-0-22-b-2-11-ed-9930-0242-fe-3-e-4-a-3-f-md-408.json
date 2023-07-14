@@ -1,0 +1,28 @@
+{
+  "unversionedId": "912927f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "912927f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Analyze test execution logs and debug the test case in Katalon Studio",
+  "description": "After executing a test case, Katalon Studio provides you with comprehensive execution logs in the Log Viewer. You can quickly investigate the logs to pinpoint the root causes of any issue and correct the test execution with Debug utilities.",
+  "source": "@site/docs/912927f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/webui/webui-analyze-test-execution-logs-and-debug-the-test-case-in-katalon-studio",
+  "permalink": "/docs/get-started/sample-projects/webui/webui-analyze-test-execution-logs-and-debug-the-test-case-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "912927f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Analyze test execution logs and debug the test case in Katalon Studio",
+    "slug": "get-started/sample-projects/webui/webui-analyze-test-execution-logs-and-debug-the-test-case-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Plan test suite",
+    "permalink": "/docs/get-started/sample-projects/webui/webui-plan-test-suite"
+  },
+  "next": {
+    "title": "[WebUI] Analyze Test Suite Reports and Resolve Errors in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/webui/webui-analyze-test-suite-reports-and-resolve-errors-in-katalon-studio"
+  }
+}

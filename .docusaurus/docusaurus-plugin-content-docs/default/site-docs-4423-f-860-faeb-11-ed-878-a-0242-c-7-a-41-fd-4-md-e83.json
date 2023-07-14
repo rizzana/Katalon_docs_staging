@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4423f860-faeb-11ed-878a-0242c7a41fd4",
+  "id": "4423f860-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Account Settings",
+  "description": "This guide shows you how to view and update your Account settings.",
+  "source": "@site/docs/4423f860-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/account-settings/account-settings",
+  "permalink": "/docs/administer/administration-tasks/account-settings/account-settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4423f860-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Account Settings",
+    "slug": "administer/administration-tasks/account-settings/account-settings",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Grant permission to access Support Portal",
+    "permalink": "/docs/administer/administration-tasks/support-management/grant-permission-to-access-support-portal"
+  },
+  "next": {
+    "title": "Configure email notifications in TestOps",
+    "permalink": "/docs/administer/settings/configure-email-notifications-in-testops"
+  }
+}

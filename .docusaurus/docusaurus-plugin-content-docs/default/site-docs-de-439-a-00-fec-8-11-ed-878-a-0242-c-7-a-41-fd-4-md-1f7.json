@@ -1,0 +1,28 @@
+{
+  "unversionedId": "de439a00-fec8-11ed-878a-0242c7a41fd4",
+  "id": "de439a00-fec8-11ed-878a-0242c7a41fd4",
+  "title": "Schedule a Cloud Studio (Beta) test suite",
+  "description": "Learn how to schedule a test suite in Katalon Cloud Studio (Beta).",
+  "source": "@site/docs/de439a00-fec8-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/execute-cloud-studio-beta-tests/schedule-a-cloud-studio-beta-test-suite",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/execute-cloud-studio-beta-tests/schedule-a-cloud-studio-beta-test-suite",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "de439a00-fec8-11ed-878a-0242c7a41fd4",
+    "title": "Schedule a Cloud Studio (Beta) test suite",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/execute-cloud-studio-beta-tests/schedule-a-cloud-studio-beta-test-suite",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Execute Katalon Cloud Studio (Beta) tests",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/execute-cloud-studio-beta-tests/execute-katalon-cloud-studio-beta-tests"
+  },
+  "next": {
+    "title": "View your Cloud Studio (Beta) test suite report",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/analyze-cloud-studio-beta-tests/view-your-cloud-studio-beta-test-suite-report"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "901cc100-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "901cc100-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Configure class file decompilation in Katalon Studio",
+  "description": "As a precondition before debugging test scripts, you need to   prepare and attach source code to a class file in Katalon   Studio.",
+  "source": "@site/docs/901cc100-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/maintain/configure-class-file-decompilation-in-katalon-studio",
+  "permalink": "/docs/maintain/configure-class-file-decompilation-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "901cc100-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Configure class file decompilation in Katalon Studio",
+    "slug": "maintain/configure-class-file-decompilation-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure failure handling settings in Katalon Studio",
+    "permalink": "/docs/maintain/configure-failure-handling-settings-in-katalon-studio"
+  },
+  "next": {
+    "title": "Fix broken web test objects with Time Capsule in Katalon Studio",
+    "permalink": "/docs/maintain/fix-broken-web-test-objects-with-time-capsule-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b19a470-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b19a470-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "CircleCI - Katalon Orb",
+  "description": "Note:",
+  "source": "@site/docs/8b19a470-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/circleci---katalon-orb",
+  "permalink": "/docs/execute/cicd-integrations/circleci---katalon-orb",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b19a470-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "CircleCI - Katalon Orb",
+    "slug": "execute/cicd-integrations/circleci---katalon-orb",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Bamboo Add-on",
+    "permalink": "/docs/execute/cicd-integrations/bamboo-add-on"
+  },
+  "next": {
+    "title": "GitLab Integration",
+    "permalink": "/docs/execute/cicd-integrations/gitlab-integration"
+  }
+}

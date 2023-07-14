@@ -1,0 +1,28 @@
+{
+  "unversionedId": "84176130-9df0-11ed-998d-0242cfbc79b5",
+  "id": "84176130-9df0-11ed-998d-0242cfbc79b5",
+  "title": "Unable to open project: Resource Exception",
+  "description": "You encounter the following message in Katalon Studio Resource ExceptionThis issue might happen because Katalon Studio fails to read the project description file (.project).",
+  "source": "@site/docs/84176130-9df0-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-common-exceptions/unable-to-open-project-resource-exception",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-common-exceptions/unable-to-open-project-resource-exception",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "84176130-9df0-11ed-998d-0242cfbc79b5",
+    "title": "Unable to open project: Resource Exception",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-common-exceptions/unable-to-open-project-resource-exception",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Unable to open recent projects in Katalon Studio - Platform Edition",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-common-exceptions/unable-to-open-recent-projects-in-katalon-studio---platform-edition"
+  },
+  "next": {
+    "title": "Troubleshoot web test execution exceptions overview",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/troubleshoot-web-test-execution-exceptions-overview"
+  }
+}

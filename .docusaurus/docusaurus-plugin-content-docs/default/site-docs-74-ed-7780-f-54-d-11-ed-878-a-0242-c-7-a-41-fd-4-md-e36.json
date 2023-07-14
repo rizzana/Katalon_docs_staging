@@ -1,0 +1,28 @@
+{
+  "unversionedId": "74ed7780-f54d-11ed-878a-0242c7a41fd4",
+  "id": "74ed7780-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Oracle Cloud application testing",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/74ed7780-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/oracle-cloud-application-testing",
+  "permalink": "/docs/integrations/unsupported-integrations/oracle-cloud-application-testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "74ed7780-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Oracle Cloud application testing",
+    "slug": "integrations/unsupported-integrations/oracle-cloud-application-testing",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Performance Testing: Katalon and OctoPerf",
+    "permalink": "/docs/integrations/unsupported-integrations/performance-testing-katalon-and-octoperf"
+  },
+  "next": {
+    "title": "OTP use cases",
+    "permalink": "/docs/integrations/unsupported-integrations/otp-use-cases"
+  }
+}

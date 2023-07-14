@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e0d41f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e0d41f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View traceability matrix in Katalon TestOps",
+  "description": "Katalon TestOps offers a complete presentation on traceability with the Traceability Matrix report.",
+  "source": "@site/docs/8e0d41f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-traceability-matrix-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-traceability-matrix-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e0d41f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View traceability matrix in Katalon TestOps",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-traceability-matrix-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View re-run test results in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-re-run-test-results-in-katalon-testops"
+  },
+  "next": {
+    "title": "View BDD test results in TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-bdd-test-results-in-testops"
+  }
+}

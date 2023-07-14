@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ade7030-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ade7030-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder FAQ and Troubleshooting Instructions",
+  "description": "Why should I sign up for a free account?",
+  "source": "@site/docs/8ade7030-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-faq-and-troubleshooting-instructions",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-faq-and-troubleshooting-instructions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ade7030-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder FAQ and Troubleshooting Instructions",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-faq-and-troubleshooting-instructions",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Command Compatibility between Selenium IDE and Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/command-compatibility-between-selenium-ide-and-katalon-recorder"
+  },
+  "next": {
+    "title": "Katalon Recorder Samples",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-samples"
+  }
+}

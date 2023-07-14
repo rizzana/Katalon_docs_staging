@@ -1,0 +1,28 @@
+{
+  "unversionedId": "938407e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "938407e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Toggle Wifi",
+  "description": "Important:",
+  "source": "@site/docs/938407e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-wifi",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-wifi",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "938407e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Toggle Wifi",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-wifi",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Toggle Airplane Mode",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-airplane-mode"
+  },
+  "next": {
+    "title": "[Mobile] Unlock Screen",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-unlock-screen"
+  }
+}

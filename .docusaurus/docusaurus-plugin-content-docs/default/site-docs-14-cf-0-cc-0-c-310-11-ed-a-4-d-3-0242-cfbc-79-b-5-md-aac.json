@@ -1,0 +1,28 @@
+{
+  "unversionedId": "14cf0cc0-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "14cf0cc0-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "OTP use cases",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/14cf0cc0-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/otp-use-cases",
+  "permalink": "/docs/integrations/unsupported-integrations/otp-use-cases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "14cf0cc0-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "OTP use cases",
+    "slug": "integrations/unsupported-integrations/otp-use-cases",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Oracle Cloud application testing",
+    "permalink": "/docs/integrations/unsupported-integrations/oracle-cloud-application-testing"
+  },
+  "next": {
+    "title": "Katalon Studio - pCloudy integration",
+    "permalink": "/docs/integrations/unsupported-integrations/katalon-studio---pcloudy-integration"
+  }
+}

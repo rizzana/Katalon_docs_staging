@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97069ef0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97069ef0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Basic Authentication in Katalon Studio",
+  "description": "Basic authorization is the simplest authorization for a request, which involves sending a verified username and password with your request. With basic authentication, you need to input your credentials to authenticate the request. These credentials will be encoded into the authorization request headers.",
+  "source": "@site/docs/97069ef0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/authorization/basic-authentication-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/authorization/basic-authentication-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97069ef0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Basic Authentication in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/authorization/basic-authentication-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Authorization in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/authorization/authorization-in-katalon-studio"
+  },
+  "next": {
+    "title": "Bearer authentication in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/authorization/bearer-authentication-in-katalon-studio"
+  }
+}

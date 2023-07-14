@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f7fbdb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f7fbdb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Library management in Katalon Studio",
+  "description": "Katalon Studio allows using external Java .jar libraries either through project settings or adding them to a designated folder. You can leverage this to extend the capabilities of Katalon Studio and handle specific situations when needed.",
+  "source": "@site/docs/8f7fbdb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/project-settings/library-management-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/project-settings/library-management-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f7fbdb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Library management in Katalon Studio",
+    "slug": "create-tests/manage-projects/project-settings/library-management-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Network settings in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/network-settings-in-katalon-studio"
+  },
+  "next": {
+    "title": "Git integration in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/git-integration/git-integration-in-katalon-studio"
+  }
+}

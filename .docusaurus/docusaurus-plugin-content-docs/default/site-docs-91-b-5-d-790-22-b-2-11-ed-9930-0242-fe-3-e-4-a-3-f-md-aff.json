@@ -1,0 +1,28 @@
+{
+  "unversionedId": "91b5d790-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "91b5d790-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Configure qTest integration in Katalon Studio",
+  "description": "Katalon Studio allows you to integrate with qTest. This integration allows you to:Submit test results automatically and manually from Katalon Studio to qTest.Generate Katalon Studio - qTest parity reports.Manage version control between qTest and Katalon Studio.",
+  "source": "@site/docs/91b5d790-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/configure-qtest-integration-in-katalon-studio",
+  "permalink": "/docs/organize/integration-for-organizing-tests/configure-qtest-integration-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "91b5d790-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Configure qTest integration in Katalon Studio",
+    "slug": "organize/integration-for-organizing-tests/configure-qtest-integration-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manually push Katalon test result to Xray",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/manually-push-katalon-test-result-to-xray"
+  },
+  "next": {
+    "title": "Configure TestRail integration in Katalon Studio",
+    "permalink": "/docs/organize/integration-for-organizing-tests/configure-testrail-integration-in-katalon-studio"
+  }
+}

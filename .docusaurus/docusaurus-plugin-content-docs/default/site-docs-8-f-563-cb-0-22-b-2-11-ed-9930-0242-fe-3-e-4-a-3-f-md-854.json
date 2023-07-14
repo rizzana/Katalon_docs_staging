@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f563cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f563cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Generate test steps in Katalon Studio script view",
+  "description": "Once a new test case is created, you can switch to the&nbsp;Script view&nbsp;using the corresponding tab at the bottom of the test case editor. Test steps specified in the&nbsp;Manual view&nbsp;are translated&nbsp;into a&nbsp;Groovy script in&nbsp;Script view.",
+  "source": "@site/docs/8f563cb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-script-view",
+  "permalink": "/docs/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-script-view",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f563cb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Generate test steps in Katalon Studio script view",
+    "slug": "create-tests/create-test-cases/generate-test-steps-in-katalon-studio-script-view",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Generate test steps in Katalon Studio manual view",
+    "permalink": "/docs/create-tests/create-test-cases/generate-test-steps-in-katalon-studio-manual-view"
+  },
+  "next": {
+    "title": "Value types in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/value-types-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d1b17c20-75df-11ed-a602-0242cfbc79b5",
+  "id": "d1b17c20-75df-11ed-a602-0242cfbc79b5",
+  "title": "Link a Katalon test case with an Xray test issue",
+  "description": "Katalon - Xray integration allows you to link a Katalon test case with an Xray test issue. As a prerequisite, you must have an Xray test issue created on Jira. To create an Xray test issue on Jira, see Create an Xray test.",
+  "source": "@site/docs/d1b17c20-75df-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-case-with-an-xray-test-issue",
+  "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-case-with-an-xray-test-issue",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d1b17c20-75df-11ed-a602-0242cfbc79b5",
+    "title": "Link a Katalon test case with an Xray test issue",
+    "slug": "organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-case-with-an-xray-test-issue",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure Xray Integration in Katalon TestOps",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/configure-xray-integration-in-katalon-testops"
+  },
+  "next": {
+    "title": "Link a Katalon test run with an Xray test plan",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-run-with-an-xray-test-plan"
+  }
+}

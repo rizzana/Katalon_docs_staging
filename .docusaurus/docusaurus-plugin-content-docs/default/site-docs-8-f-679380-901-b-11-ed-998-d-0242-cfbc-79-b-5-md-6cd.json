@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f679380-901b-11ed-998d-0242cfbc79b5",
+  "id": "8f679380-901b-11ed-998d-0242cfbc79b5",
+  "title": "Failed Test Results",
+  "description": "When a test failure occurs, it is associated with a failure reason. To help you  monitor the quality of a Project via test failures, TestOps comes with a Failed Test Results chart that organizes test failures by reason type.Attention: Failed Test Results  is limited to the Premium     and Ultimate  plans of Katalon Platform. See Katalon Platform plans for more information.",
+  "source": "@site/docs/8f679380-901b-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/failed-test-results",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/failed-test-results",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f679380-901b-11ed-998d-0242cfbc79b5",
+    "title": "Failed Test Results",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/failed-test-results",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View test case reports in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-case-reports-in-katalon-testops"
+  },
+  "next": {
+    "title": "View re-run test results in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-re-run-test-results-in-katalon-testops"
+  }
+}

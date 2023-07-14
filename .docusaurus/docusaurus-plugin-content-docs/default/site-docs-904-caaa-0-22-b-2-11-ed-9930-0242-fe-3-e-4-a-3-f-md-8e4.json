@@ -1,0 +1,28 @@
+{
+  "unversionedId": "904caaa0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "904caaa0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Flutter-based application testing with custom SetText keyword in Katalon Studio",
+  "description": "Flutter is a UI toolkit for building applications for mobile,   web, desktop, and embedded devices from a single codebase.",
+  "source": "@site/docs/904caaa0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/custom-keywords/flutter-based-application-testing-with-custom-settext-keyword-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/custom-keywords/flutter-based-application-testing-with-custom-settext-keyword-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "904caaa0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Flutter-based application testing with custom SetText keyword in Katalon Studio",
+    "slug": "create-tests/keywords/custom-keywords/flutter-based-application-testing-with-custom-settext-keyword-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Execute test with Katalon Studio in Internet Explorer (IE) mode in Microsoft Edge",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/execute-test-with-katalon-studio-in-internet-explorer-ie-mode-in-microsoft-edge"
+  },
+  "next": {
+    "title": "Solving Pop-up dialog issue with Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-pop-up-dialog-issue-with-katalon-studio"
+  }
+}

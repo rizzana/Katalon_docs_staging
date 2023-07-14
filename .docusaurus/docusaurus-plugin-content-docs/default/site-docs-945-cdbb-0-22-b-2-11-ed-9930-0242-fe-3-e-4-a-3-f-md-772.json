@@ -1,0 +1,28 @@
+{
+  "unversionedId": "945cdbb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "945cdbb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Select Option By Index",
+  "description": "Description",
+  "source": "@site/docs/945cdbb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-select-option-by-index",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-select-option-by-index",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "945cdbb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Select Option By Index",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-select-option-by-index",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Select All Option",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-select-all-option"
+  },
+  "next": {
+    "title": "[WebUI] Select Option By Label",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-select-option-by-label"
+  }
+}

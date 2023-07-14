@@ -1,0 +1,28 @@
+{
+  "unversionedId": "e5d905d0-cd26-11ed-a4d3-0242cfbc79b5",
+  "id": "e5d905d0-cd26-11ed-a4d3-0242cfbc79b5",
+  "title": "Defects Report",
+  "description": "A defect is an error in the software that prevents the intended action from completing, making it the tester's most important task to find them. Software defects can be present at any stage of the software development process, so it's crucial to identify and take appropriate action.",
+  "source": "@site/docs/e5d905d0-cd26-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/defects-report",
+  "permalink": "/docs/analyze/analytics/defects-report",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "e5d905d0-cd26-11ed-a4d3-0242cfbc79b5",
+    "title": "Defects Report",
+    "slug": "analyze/analytics/defects-report",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Compare test results in Katalon TestOps",
+    "permalink": "/docs/analyze/analytics/compare-test-results-in-katalon-testops"
+  },
+  "next": {
+    "title": "Visual Testing overview",
+    "permalink": "/docs/analyze/analytics/visual-testing/visual-testing-overview"
+  }
+}

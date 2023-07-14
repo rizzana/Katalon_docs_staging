@@ -1,0 +1,28 @@
+{
+  "unversionedId": "965c0710-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "965c0710-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Spy and Record Utilities for testing an existing application in Katalon Studio",
+  "description": "Note:",
+  "source": "@site/docs/965c0710-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-and-record-utilities-for-testing-an-existing-application-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-and-record-utilities-for-testing-an-existing-application-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "965c0710-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Spy and Record Utilities for testing an existing application in Katalon Studio",
+    "slug": "create-tests/record-and-spy/mobile-record-and-spy-utilities/spy-and-record-utilities-for-testing-an-existing-application-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Generate test scripts for a Progressive Web App using mobile recorder in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/generate-test-scripts-for-a-progressive-web-app-using-mobile-recorder-in-katalon-studio"
+  },
+  "next": {
+    "title": "Hybrid mobile apps testing in Katalon Studio overview",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/hybrid-mobile-apps-testing/hybrid-mobile-apps-testing-in-katalon-studio-overview"
+  }
+}

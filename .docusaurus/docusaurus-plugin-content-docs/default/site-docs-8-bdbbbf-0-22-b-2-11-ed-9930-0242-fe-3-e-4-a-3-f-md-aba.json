@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bdbbbf0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bdbbbf0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage published plugins on Katalon Store",
+  "description": "Publishing plugins allows them to be used by others, who can   access and install them from Katalon Store.",
+  "source": "@site/docs/8bdbbbf0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/manage-published-plugins-on-katalon-store",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/manage-published-plugins-on-katalon-store",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bdbbbf0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage published plugins on Katalon Store",
+    "slug": "plugins-and-add-ons/katalon-store/submit-and-publish-plugins/manage-published-plugins-on-katalon-store",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Store Plugin approval guidelines",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-plugin-approval-guidelines"
+  },
+  "next": {
+    "title": "Integration Plugins on Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/integration-plugins-on-katalon-store"
+  }
+}

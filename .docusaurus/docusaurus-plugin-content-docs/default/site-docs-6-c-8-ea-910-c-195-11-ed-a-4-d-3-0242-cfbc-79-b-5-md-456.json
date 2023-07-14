@@ -1,0 +1,28 @@
+{
+  "unversionedId": "6c8ea910-c195-11ed-a4d3-0242cfbc79b5",
+  "id": "6c8ea910-c195-11ed-a4d3-0242cfbc79b5",
+  "title": "Run tests on mobile browsers with TestCloud",
+  "description": "TestCloud  mobile browser testing supports built-in browser for each OS. The mobile test environments include built-in browser of each operating system (OS): Safari for iOS and Chrome for Android.",
+  "source": "@site/docs/6c8ea910-c195-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/run-tests-on-mobile-browsers-with-testcloud",
+  "permalink": "/docs/execute/test-execution-with-testcloud/run-tests-on-mobile-browsers-with-testcloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "6c8ea910-c195-11ed-a4d3-0242cfbc79b5",
+    "title": "Run tests on mobile browsers with TestCloud",
+    "slug": "execute/test-execution-with-testcloud/run-tests-on-mobile-browsers-with-testcloud",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set desired capabilities for TestCloud environment",
+    "permalink": "/docs/execute/test-execution-with-testcloud/set-desired-capabilities-for-testcloud-environment"
+  },
+  "next": {
+    "title": "Run mobile native application tests on TestCloud",
+    "permalink": "/docs/execute/test-execution-with-testcloud/run-mobile-native-application-tests-on-testcloud"
+  }
+}

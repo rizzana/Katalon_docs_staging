@@ -1,0 +1,28 @@
+{
+  "unversionedId": "928d24c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "928d24c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Query test cases linked to TestRail in a dynamic test suite",
+  "description": "You have enabled the TestRail integration   with Katalon Studio. See: Configure TestRail integration in Katalon Studio .",
+  "source": "@site/docs/928d24c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/query-test-cases-linked-to-testrail-in-a-dynamic-test-suite",
+  "permalink": "/docs/organize/integration-for-organizing-tests/query-test-cases-linked-to-testrail-in-a-dynamic-test-suite",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "928d24c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Query test cases linked to TestRail in a dynamic test suite",
+    "slug": "organize/integration-for-organizing-tests/query-test-cases-linked-to-testrail-in-a-dynamic-test-suite",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure TestRail integration in Katalon Studio",
+    "permalink": "/docs/organize/integration-for-organizing-tests/configure-testrail-integration-in-katalon-studio"
+  },
+  "next": {
+    "title": "Configure Azure DevOps Test Plans integration in Katalon Studio",
+    "permalink": "/docs/organize/integration-for-organizing-tests/configure-azure-devops-test-plans-integration-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8aecef20-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8aecef20-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Azure DevOps Integration",
+  "description": "Katalon TestOps Continurous Integration (CI) is an easier way to execute Katalon Studio tests remotely or schedule remote Katalon Studio execution. See Test Planning Overview for detailed information.",
+  "source": "@site/docs/8aecef20-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/azure-devops-integration",
+  "permalink": "/docs/execute/cicd-integrations/azure-devops-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8aecef20-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Azure DevOps Integration",
+    "slug": "execute/cicd-integrations/azure-devops-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "AWS CodeBuild Integration",
+    "permalink": "/docs/execute/cicd-integrations/aws-codebuild-integration"
+  },
+  "next": {
+    "title": "Bamboo Add-on",
+    "permalink": "/docs/execute/cicd-integrations/bamboo-add-on"
+  }
+}

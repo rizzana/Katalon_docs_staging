@@ -1,0 +1,28 @@
+{
+  "unversionedId": "943b9810-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "943b9810-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Get Page Width",
+  "description": "Description",
+  "source": "@site/docs/943b9810-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-page-width",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-page-width",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "943b9810-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Get Page Width",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-page-width",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get Page Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-page-height"
+  },
+  "next": {
+    "title": "[WebUI] Get Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-text"
+  }
+}

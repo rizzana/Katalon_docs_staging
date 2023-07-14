@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4447ad00-faeb-11ed-878a-0242c7a41fd4",
+  "id": "4447ad00-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Configure fingerprint setting in an Android emulator",
+  "description": "Here is the sample app for this guide.You can also see this video for demonstration.",
+  "source": "@site/docs/4447ad00-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/android/configure-fingerprint-setting-in-an-android-emulator",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/configure-fingerprint-setting-in-an-android-emulator",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4447ad00-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Configure fingerprint setting in an Android emulator",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/android/configure-fingerprint-setting-in-an-android-emulator",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Configure Android Studio (Emulator) in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/mobile-configure-android-studio-emulator-in-katalon-studio"
+  },
+  "next": {
+    "title": "Use the keyboard keys while automating Android apps",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/use-the-keyboard-keys-while-automating-android-apps"
+  }
+}

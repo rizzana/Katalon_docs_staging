@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94edd110-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94edd110-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Start Application",
+  "description": "Note:",
+  "source": "@site/docs/94edd110-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-start-application",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-start-application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94edd110-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Start Application",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-start-application",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Start Application with Title",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-start-application-with-title"
+  },
+  "next": {
+    "title": "[Windows] Switch To Desktop",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-desktop"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98643320-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98643320-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Handling Scroll to Element in Mobile Automation in Katalon Studio",
+  "description": "Scroll To Text",
+  "source": "@site/docs/98643320-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/handling-scroll-to-element-in-mobile-automation-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/handling-scroll-to-element-in-mobile-automation-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98643320-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Handling Scroll to Element in Mobile Automation in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/handling-scroll-to-element-in-mobile-automation-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Handling Spinner in Mobile Automation Testing in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/handling-spinner-in-mobile-automation-testing-in-katalon-studio"
+  },
+  "next": {
+    "title": "Handling Vertical Swipe in Mobile Automation in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/handling-vertical-swipe-in-mobile-automation-in-katalon-studio"
+  }
+}

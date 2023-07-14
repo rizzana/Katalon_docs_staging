@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4f9d1010-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4f9d1010-e56e-11ed-b480-0242cfbc79b5",
+  "title": "Download and install Katalon Platform Recorder",
+  "description": "To get started with Katalon Cloud Studio (Beta), you need to download and install the Katalon Platform Recorder.",
+  "source": "@site/docs/4f9d1010-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/download-and-install-katalon-platform-recorder",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/download-and-install-katalon-platform-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4f9d1010-e56e-11ed-b480-0242cfbc79b5",
+    "title": "Download and install Katalon Platform Recorder",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/download-and-install-katalon-platform-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "What is Katalon Cloud Studio (Beta)?",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/overview/what-is-katalon-cloud-studio-beta"
+  },
+  "next": {
+    "title": "Toolbars and icons in Katalon Cloud Studio (Beta)",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/toolbars-and-icons-in-katalon-cloud-studio-beta"
+  }
+}

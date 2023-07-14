@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3325f970-6af2-11ed-a602-0242cfbc79b5",
+  "id": "3325f970-6af2-11ed-a602-0242cfbc79b5",
+  "title": "Set desired capabilities for TestCloud environment",
+  "description": "In your Katalon project, you can set desired capabilities for browsers and applications. When executing your test with TestCloud environment on TestOps, these desired capabilities will be applied.",
+  "source": "@site/docs/3325f970-6af2-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/set-desired-capabilities-for-testcloud-environment",
+  "permalink": "/docs/execute/test-execution-with-testcloud/set-desired-capabilities-for-testcloud-environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "3325f970-6af2-11ed-a602-0242cfbc79b5",
+    "title": "Set desired capabilities for TestCloud environment",
+    "slug": "execute/test-execution-with-testcloud/set-desired-capabilities-for-testcloud-environment",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Run tests in private domains with TestCloud",
+    "permalink": "/docs/execute/test-execution-with-testcloud/run-tests-in-private-domains-with-testcloud"
+  },
+  "next": {
+    "title": "Run tests on mobile browsers with TestCloud",
+    "permalink": "/docs/execute/test-execution-with-testcloud/run-tests-on-mobile-browsers-with-testcloud"
+  }
+}

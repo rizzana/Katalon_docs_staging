@@ -1,0 +1,28 @@
+{
+  "unversionedId": "43b86550-faeb-11ed-878a-0242c7a41fd4",
+  "id": "43b86550-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Perform Touch ID with iOS device simulator",
+  "description": "You have installed Xcode",
+  "source": "@site/docs/43b86550-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/ios/perform-touch-id-with-ios-device-simulator",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/perform-touch-id-with-ios-device-simulator",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "43b86550-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Perform Touch ID with iOS device simulator",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/ios/perform-touch-id-with-ios-device-simulator",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Install WebDriverAgent for real iOS devices in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-install-webdriveragent-for-real-ios-devices-in-katalon-studio"
+  },
+  "next": {
+    "title": "[Mobile] Image-based testing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/mobile-image-based-testing-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "972c4f60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "972c4f60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Schema compliance testing in Katalon Studio",
+  "description": "Schema compliance testing is to assert whether a request or a response follows the associated schema definition. Validating API requests and responses against schemas is an efficient and effective way to make sure that APIs are working as expected.",
+  "source": "@site/docs/972c4f60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/schema-compliance-testing-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/schema-compliance-testing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "972c4f60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Schema compliance testing in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/schema-compliance-testing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create Web Service Object in Katalon Studio Script Mode",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/create-web-service-object-in-katalon-studio-script-mode"
+  },
+  "next": {
+    "title": "Verification Snippets in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/verification-snippets-in-katalon-studio"
+  }
+}

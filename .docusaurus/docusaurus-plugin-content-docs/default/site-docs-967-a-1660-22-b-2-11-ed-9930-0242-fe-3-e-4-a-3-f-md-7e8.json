@@ -1,0 +1,28 @@
+{
+  "unversionedId": "967a1660-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "967a1660-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Image-based testing in Katalon Studio",
+  "description": "Starting from version 7.2, image-based testing   is available for Katalon Studio Enterprise users.",
+  "source": "@site/docs/967a1660-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/mobile-image-based-testing-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/mobile-image-based-testing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "967a1660-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Image-based testing in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/mobile-image-based-testing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Perform Touch ID with iOS device simulator",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/perform-touch-id-with-ios-device-simulator"
+  },
+  "next": {
+    "title": "Testing Mobile Apps using Katalon Studio and Kobiton cloud-based device farm",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/testing-mobile-apps-using-katalon-studio-and-kobiton-cloud-based-device-farm"
+  }
+}

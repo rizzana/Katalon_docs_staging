@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98010480-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98010480-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Windows Record Utility in Katalon Studio",
+  "description": "Katalon Studio provides the Windows record utility that allows   you to record and playback actions performed in a Windows desktop   application. With this utility, you can quickly create a test case,   and later manually enhance the test.",
+  "source": "@site/docs/98010480-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-utility-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-utility-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98010480-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Windows Record Utility in Katalon Studio",
+    "slug": "create-tests/record-and-spy/windows-record-and-spy-utilities/windows-record-utility-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Windows Spy Utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/windows-spy-utility-in-katalon-studio"
+  },
+  "next": {
+    "title": "Capture Windows Objects using the Windows Spy Utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/windows-record-and-spy-utilities/capture-windows-objects-using-the-windows-spy-utility-in-katalon-studio"
+  }
+}

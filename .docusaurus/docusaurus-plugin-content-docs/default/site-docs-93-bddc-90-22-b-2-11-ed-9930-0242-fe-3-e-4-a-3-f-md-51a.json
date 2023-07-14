@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93bddc90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93bddc90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Take Element Screenshot As Checkpoint",
+  "description": "Note:",
+  "source": "@site/docs/93bddc90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-web-testing-keywords/webui-take-element-screenshot-as-checkpoint",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-web-testing-keywords/webui-take-element-screenshot-as-checkpoint",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93bddc90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Take Element Screenshot As Checkpoint",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/visual-based-web-testing-keywords/webui-take-element-screenshot-as-checkpoint",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Take Area Screenshot As Checkpoint",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-web-testing-keywords/webui-take-area-screenshot-as-checkpoint"
+  },
+  "next": {
+    "title": "[WebUI] Take Full Page Screenshot As Checkpoint",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-web-testing-keywords/webui-take-full-page-screenshot-as-checkpoint"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "942a8110-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "942a8110-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Forward",
+  "description": "Description",
+  "source": "@site/docs/942a8110-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-forward",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-forward",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "942a8110-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Forward",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-forward",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Focus",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-focus"
+  },
+  "next": {
+    "title": "[WebUI] Get Alert Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-alert-text"
+  }
+}

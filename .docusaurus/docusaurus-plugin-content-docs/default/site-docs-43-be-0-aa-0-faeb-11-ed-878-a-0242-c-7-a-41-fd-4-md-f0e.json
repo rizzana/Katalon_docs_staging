@@ -1,0 +1,28 @@
+{
+  "unversionedId": "43be0aa0-faeb-11ed-878a-0242c7a41fd4",
+  "id": "43be0aa0-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Unable to create a new remote session with IOS real devices",
+  "description": "The encountered error org.openqa.selenium.SessionNotCreatedException An unknown server-side error occurred while processing the command. Original error xcodebuild failed with code 65",
+  "source": "@site/docs/43be0aa0-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/unable-to-create-a-new-remote-session-with-ios-real-devices",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/unable-to-create-a-new-remote-session-with-ios-real-devices",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "43be0aa0-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Unable to create a new remote session with IOS real devices",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/unable-to-create-a-new-remote-session-with-ios-real-devices",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "No Chromedriver found that can automate Chrome '<chrome_version>'",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/no-chromedriver-found-that-can-automate-chrome-chrome_version"
+  },
+  "next": {
+    "title": "Known issues and Limitations",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/known-issues-and-limitations"
+  }
+}

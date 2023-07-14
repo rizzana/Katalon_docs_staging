@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f35e370-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f35e370-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Set up WinAppDriver in Katalon Studio",
+  "description": "This document shows you how to install and run Windows   Application Driver (WinAppDriver) on a Windows 10 machine before   performing Windows Desktop Apps tests.",
+  "source": "@site/docs/8f35e370-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/set-up-winappdriver-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/set-up-winappdriver-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f35e370-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Set up WinAppDriver in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/set-up-winappdriver-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Retrieve mobile's session in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/retrieve-mobiles-session-in-katalon-studio"
+  },
+  "next": {
+    "title": "Katalon with Winium for Desktop Applications in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/katalon-with-winium-for-desktop-applications-in-katalon-studio"
+  }
+}

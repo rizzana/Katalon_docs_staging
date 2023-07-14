@@ -1,0 +1,28 @@
+{
+  "unversionedId": "76b7fe50-f54d-11ed-878a-0242c7a41fd4",
+  "id": "76b7fe50-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Playwright integration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/76b7fe50-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/playwright-integration",
+  "permalink": "/docs/integrations/unsupported-integrations/playwright-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "76b7fe50-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Playwright integration",
+    "slug": "integrations/unsupported-integrations/playwright-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio - pCloudy integration",
+    "permalink": "/docs/integrations/unsupported-integrations/katalon-studio---pcloudy-integration"
+  },
+  "next": {
+    "title": "PowerBI integration",
+    "permalink": "/docs/integrations/unsupported-integrations/powerbi-integration"
+  }
+}

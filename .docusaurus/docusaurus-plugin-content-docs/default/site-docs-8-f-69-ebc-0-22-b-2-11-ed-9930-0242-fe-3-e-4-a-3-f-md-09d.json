@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f69ebc0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f69ebc0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create test case overview",
+  "description": "After you create your Katalon project, it's time to create your first test case. Katalon Studio supports keywords-driven testing where test case consist of keywords representing actions of users on the Applications Under Test (AUT).",
+  "source": "@site/docs/8f69ebc0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/create-test-case-overview",
+  "permalink": "/docs/create-tests/create-test-cases/create-test-case-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f69ebc0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create test case overview",
+    "slug": "create-tests/create-test-cases/create-test-case-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure Linux for Web Service testing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/configure-linux-for-web-service-testing-in-katalon-studio"
+  },
+  "next": {
+    "title": "Create a new test case in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/create-a-new-test-case-in-katalon-studio"
+  }
+}

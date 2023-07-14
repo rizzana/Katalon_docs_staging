@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92c069c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92c069c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Integrate Katalon TestOps and Katalon TestCloud with Katalon Studio",
+  "description": "Katalon Platform integration in Katalon Studio allows you to Upload Test Results to Katalon TestOps from Katalon StudioIntegrate with Katalon TestCloud to execute tests on cloud-based browsers and operating systems. See: Use TestCloud in Katalon Studio",
+  "source": "@site/docs/92c069c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/set-up-your-workspace/integrate-katalon-testops-and-katalon-testcloud-with-katalon-studio",
+  "permalink": "/docs/get-started/set-up-your-workspace/integrate-katalon-testops-and-katalon-testcloud-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92c069c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Integrate Katalon TestOps and Katalon TestCloud with Katalon Studio",
+    "slug": "get-started/set-up-your-workspace/integrate-katalon-testops-and-katalon-testcloud-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set up overview in Katalon Platform",
+    "permalink": "/docs/get-started/set-up-your-workspace/set-up-overview-in-katalon-platform"
+  },
+  "next": {
+    "title": "Toolbars and views in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/toolbars-and-views-in-katalon-studio"
+  }
+}

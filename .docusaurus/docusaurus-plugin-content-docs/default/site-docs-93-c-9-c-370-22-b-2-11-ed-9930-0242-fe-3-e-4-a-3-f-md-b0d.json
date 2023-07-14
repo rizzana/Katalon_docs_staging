@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93c9c370-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93c9c370-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Get Elements Count",
+  "description": "Description",
+  "source": "@site/docs/93c9c370-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-elements-count",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-elements-count",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93c9c370-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Get Elements Count",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-elements-count",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WS] Contains String",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-contains-string"
+  },
+  "next": {
+    "title": "[WS] Get Element Property Value",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-element-property-value"
+  }
+}

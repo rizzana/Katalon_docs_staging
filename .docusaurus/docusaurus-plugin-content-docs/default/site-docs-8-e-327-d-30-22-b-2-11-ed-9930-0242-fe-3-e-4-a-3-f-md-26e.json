@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e327d30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e327d30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Compare test results in Katalon TestOps",
+  "description": "TestOps allows you to compare the results of multiple test runs. By doing so, you can check if a test is producing the same results each time you run it.",
+  "source": "@site/docs/8e327d30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/compare-test-results-in-katalon-testops",
+  "permalink": "/docs/analyze/analytics/compare-test-results-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e327d30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Compare test results in Katalon TestOps",
+    "slug": "analyze/analytics/compare-test-results-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Analytics overview",
+    "permalink": "/docs/analyze/analytics/analytics-overview"
+  },
+  "next": {
+    "title": "Defects Report",
+    "permalink": "/docs/analyze/analytics/defects-report"
+  }
+}

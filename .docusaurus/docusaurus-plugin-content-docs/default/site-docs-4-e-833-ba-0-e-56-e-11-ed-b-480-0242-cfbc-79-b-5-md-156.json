@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4e833ba0-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4e833ba0-e56e-11ed-b480-0242cfbc79b5",
+  "title": "Draft test case",
+  "description": "A draft test case is a test case that has been created but has not yet been reviewed or approved publicly in an Organization. It is a work-in-progress and may be subject to changes before it is finalized.",
+  "source": "@site/docs/4e833ba0-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/draft-test-case",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/draft-test-case",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4e833ba0-e56e-11ed-b480-0242cfbc79b5",
+    "title": "Draft test case",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/draft-test-case",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test automation workflow",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/test-automation-workflow"
+  },
+  "next": {
+    "title": "Create a draft test case",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/create-a-draft-test-case"
+  }
+}

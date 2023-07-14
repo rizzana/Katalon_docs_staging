@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fa0da40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fa0da40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use client certificate for requests in API projects in Katalon Studio",
+  "description": "You need an active Katalon Studio Enterprise license.This setting is only applied for requests in API/Web Services projects.",
+  "source": "@site/docs/8fa0da40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/api-testing/use-client-certificate-for-requests-in-api-projects-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/use-client-certificate-for-requests-in-api-projects-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fa0da40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use client certificate for requests in API projects in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/api-testing/use-client-certificate-for-requests-in-api-projects-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon with Winium for Desktop Applications in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/katalon-with-winium-for-desktop-applications-in-katalon-studio"
+  },
+  "next": {
+    "title": "Configure Linux for Web Service testing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/configure-linux-for-web-service-testing-in-katalon-studio"
+  }
+}

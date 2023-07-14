@@ -1,0 +1,28 @@
+{
+  "unversionedId": "c818c790-901a-11ed-998d-0242cfbc79b5",
+  "id": "c818c790-901a-11ed-998d-0242cfbc79b5",
+  "title": "Test run summary",
+  "description": "The test run Summary provides you with an overview of a test run result. You may view statistics of all test cases executed in a test run, its execution history, as well as provide you with a quick view of failed test cases associated with the selected test run.",
+  "source": "@site/docs/c818c790-901a-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-summary",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-summary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "c818c790-901a-11ed-998d-0242cfbc79b5",
+    "title": "Test run summary",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-summary",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View test results and execution logs in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/view-test-results-and-execution-logs-in-katalon-testops"
+  },
+  "next": {
+    "title": "Test run result details",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-result-details"
+  }
+}

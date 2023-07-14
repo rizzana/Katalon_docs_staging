@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98f74b60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98f74b60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage data binding",
+  "description": "Note: An active Katalon Studio Enterprise license.The data binding feature allows you to bind test data files with the variables defined in the test case and dynamically run tests with the bound test data. In Katalon Studio, you can perform data binding at the test suite level and the test case level. For more details on data binding at the test case level, you can refer to Data-driven testing at test case level.",
+  "source": "@site/docs/98f74b60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/data-driven-testing/manage-data-binding",
+  "permalink": "/docs/create-tests/data-driven-testing/manage-data-binding",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98f74b60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage data binding",
+    "slug": "create-tests/data-driven-testing/manage-data-binding",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manage test data",
+    "permalink": "/docs/create-tests/data-driven-testing/manage-test-data"
+  },
+  "next": {
+    "title": "Data-driven testing in a test suite",
+    "permalink": "/docs/create-tests/data-driven-testing/data-driven-testing-in-a-test-suite"
+  }
+}

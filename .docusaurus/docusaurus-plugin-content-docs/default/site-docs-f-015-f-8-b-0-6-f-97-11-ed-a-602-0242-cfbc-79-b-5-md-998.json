@@ -1,0 +1,28 @@
+{
+  "unversionedId": "f015f8b0-6f97-11ed-a602-0242cfbc79b5",
+  "id": "f015f8b0-6f97-11ed-a602-0242cfbc79b5",
+  "title": "Open a test project in Katalon Studio - Platform Edition",
+  "description": "For Katalon Studio - Platform Edition, you need to set up your project on Katalon TestOps, then open your test project in Katalon Studio - Platform Edition.Note: You cannot create a new project in Katalon Studio - Platform Edition.",
+  "source": "@site/docs/f015f8b0-6f97-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/manage-test-projects/open-a-test-project-in-katalon-studio---platform-edition",
+  "permalink": "/docs/create-tests/manage-projects/manage-test-projects/open-a-test-project-in-katalon-studio---platform-edition",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "f015f8b0-6f97-11ed-a602-0242cfbc79b5",
+    "title": "Open a test project in Katalon Studio - Platform Edition",
+    "slug": "create-tests/manage-projects/manage-test-projects/open-a-test-project-in-katalon-studio---platform-edition",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Open a test project in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/manage-test-projects/open-a-test-project-in-katalon-studio"
+  },
+  "next": {
+    "title": "Refresh, clean up, and delete a test project in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/manage-test-projects/refresh-clean-up-and-delete-a-test-project-in-katalon-studio"
+  }
+}

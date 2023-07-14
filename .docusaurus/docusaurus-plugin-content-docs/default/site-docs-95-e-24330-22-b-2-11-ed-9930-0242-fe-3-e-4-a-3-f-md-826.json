@@ -1,0 +1,28 @@
+{
+  "unversionedId": "95e24330-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "95e24330-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Change Katalon Studio Theme",
+  "description": "Requirements",
+  "source": "@site/docs/95e24330-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/set-up-your-workspace/change-katalon-studio-theme",
+  "permalink": "/docs/get-started/set-up-your-workspace/change-katalon-studio-theme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "95e24330-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Change Katalon Studio Theme",
+    "slug": "get-started/set-up-your-workspace/change-katalon-studio-theme",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Update Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/update-katalon-studio"
+  },
+  "next": {
+    "title": "Preferences in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/katalon-studio-preferences/preferences-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92e3a930-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92e3a930-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Common] Verify Greater Than",
+  "description": "Description",
+  "source": "@site/docs/92e3a930-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-greater-than",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-greater-than",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92e3a930-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Common] Verify Greater Than",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-greater-than",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Common] Verify Equal",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-equal"
+  },
+  "next": {
+    "title": "[Common] Verify Greater Than Or Equal",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-greater-than-or-equal"
+  }
+}

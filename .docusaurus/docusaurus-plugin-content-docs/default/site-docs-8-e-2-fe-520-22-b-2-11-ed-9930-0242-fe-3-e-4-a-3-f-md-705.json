@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e2fe520-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e2fe520-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Configure Session Timeout",
+  "description": "Note:",
+  "source": "@site/docs/8e2fe520-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/organization-management/configure-session-timeout",
+  "permalink": "/docs/administer/administration-tasks/organization-management/configure-session-timeout",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e2fe520-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Configure Session Timeout",
+    "slug": "administer/administration-tasks/organization-management/configure-session-timeout",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Single Sign-On Configurations",
+    "permalink": "/docs/administer/administration-tasks/organization-management/single-sign-on-configurations"
+  },
+  "next": {
+    "title": "Configure Idle Timeout",
+    "permalink": "/docs/administer/administration-tasks/organization-management/configure-idle-timeout"
+  }
+}

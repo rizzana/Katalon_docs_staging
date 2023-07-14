@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f310170-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f310170-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] iOS Setup (Simulators) in Katalon Studio",
+  "description": "This article shows you how to set up Xcode simulators to test iOS applications with Katalon Studio.",
+  "source": "@site/docs/8f310170-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-ios-setup-simulators-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-ios-setup-simulators-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f310170-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] iOS Setup (Simulators) in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-ios-setup-simulators-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use the keyboard keys while automating Android apps",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/use-the-keyboard-keys-while-automating-android-apps"
+  },
+  "next": {
+    "title": "[Mobile] Set up real iOS devices in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-set-up-real-ios-devices-in-katalon-studio"
+  }
+}

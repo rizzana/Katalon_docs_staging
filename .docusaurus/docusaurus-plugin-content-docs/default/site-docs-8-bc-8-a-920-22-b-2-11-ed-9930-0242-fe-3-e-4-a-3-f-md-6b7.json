@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bc8a920-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bc8a920-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Getting Started with Katalon Store",
+  "description": "You can use Katalon Store to find and install   plugins in Katalon Studio. You can also view,   manage, and review your plugins in Katalon Store.",
+  "source": "@site/docs/8bc8a920-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/getting-started-with-katalon-store",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/getting-started-with-katalon-store",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bc8a920-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Getting Started with Katalon Store",
+    "slug": "plugins-and-add-ons/katalon-store/getting-started-with-katalon-store",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Store overview",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-store-overview"
+  },
+  "next": {
+    "title": "Access to Katalon Store from Katalon Studio",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/access-to-katalon-store-from-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c7f7600-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c7f7600-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Enable TestOps - Jira integration for test management",
+  "description": "Katalon TestOps provides a seamless Jira integration that allows you to:Link Jira requirements and Jira defectsLink test runs to Jira releasesWrite BDD scenarios in Jira ticketsView test results from linked Katalon Studio test cases in Jira",
+  "source": "@site/docs/8c7f7600-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/jira-integration/enable-testops---jira-integration-for-test-management",
+  "permalink": "/docs/organize/integration-for-organizing-tests/jira-integration/enable-testops---jira-integration-for-test-management",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c7f7600-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Enable TestOps - Jira integration for test management",
+    "slug": "organize/integration-for-organizing-tests/jira-integration/enable-testops---jira-integration-for-test-management",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Search test cases in Katalon Studio",
+    "permalink": "/docs/organize/manage-workspace/search-test-cases-in-katalon-studio"
+  },
+  "next": {
+    "title": "Configure Jira integration in Katalon Studio",
+    "permalink": "/docs/organize/integration-for-organizing-tests/jira-integration/configure-jira-integration-in-katalon-studio"
+  }
+}

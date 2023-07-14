@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ac89e40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ac89e40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Command Compatibility between Selenium IDE and Katalon Recorder",
+  "description": "During the migration process, KR will remove or transform   certain Selenium IDE to make the tests functional. The following   table contains more details:",
+  "source": "@site/docs/8ac89e40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/command-compatibility-between-selenium-ide-and-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/command-compatibility-between-selenium-ide-and-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ac89e40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Command Compatibility between Selenium IDE and Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/command-compatibility-between-selenium-ide-and-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Import Tests from Selenium IDE to Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/import-tests-from-selenium-ide-to-katalon-recorder"
+  },
+  "next": {
+    "title": "Katalon Recorder FAQ and Troubleshooting Instructions",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-faq-and-troubleshooting-instructions"
+  }
+}

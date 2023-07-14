@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bb63290-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bb63290-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "New and old proxy mechanisms are not allowed in one command",
+  "description": "When you encounter the following error while executing with KRE in console mode: New and old proxy mechanisms are not allowed in one command. Please use either the new or the old one.",
+  "source": "@site/docs/8bb63290-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/troubleshooting/new-and-old-proxy-mechanisms-are-not-allowed-in-one-command",
+  "permalink": "/docs/execute/troubleshooting/new-and-old-proxy-mechanisms-are-not-allowed-in-one-command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bb63290-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "New and old proxy mechanisms are not allowed in one command",
+    "slug": "execute/troubleshooting/new-and-old-proxy-mechanisms-are-not-allowed-in-one-command",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Illegal option specification exception",
+    "permalink": "/docs/execute/troubleshooting/illegal-option-specification-exception"
+  },
+  "next": {
+    "title": "Tests not loading when executing with Chrome version 92, 93, 94 in Windows",
+    "permalink": "/docs/execute/troubleshooting/tests-not-loading-when-executing-with-chrome-version-92-93-94-in-windows"
+  }
+}

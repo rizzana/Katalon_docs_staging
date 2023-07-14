@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c36fb50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c36fb50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage Users",
+  "description": "Important:",
+  "source": "@site/docs/8c36fb50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/user-management/manage-users",
+  "permalink": "/docs/administer/administration-tasks/user-management/manage-users",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c36fb50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage Users",
+    "slug": "administer/administration-tasks/user-management/manage-users",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Remove a License",
+    "permalink": "/docs/administer/administration-tasks/license-management/remove-a-license"
+  },
+  "next": {
+    "title": "Transfer Ownership",
+    "permalink": "/docs/administer/administration-tasks/user-management/transfer-ownership"
+  }
+}

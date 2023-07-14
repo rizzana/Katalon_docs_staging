@@ -1,0 +1,28 @@
+{
+  "unversionedId": "900679e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "900679e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Test Fixtures and Test Listeners (Test Hooks) in Katalon Studio",
+  "description": "To extend your current testing flow, the test fixtures (@setUp/@tearDown methods) and test listeners might be useful for prerequisite and clean-up configurations for all the tests.",
+  "source": "@site/docs/900679e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/test-fixtures-and-test-listeners-test-hooks-in-katalon-studio",
+  "permalink": "/docs/create-tests/create-test-cases/test-fixtures-and-test-listeners-test-hooks-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "900679e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Test Fixtures and Test Listeners (Test Hooks) in Katalon Studio",
+    "slug": "create-tests/create-test-cases/test-fixtures-and-test-listeners-test-hooks-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Call test case in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/call-test-case-in-katalon-studio"
+  },
+  "next": {
+    "title": "Working with sensitive text in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/working-with-sensitive-text-in-katalon-studio"
+  }
+}

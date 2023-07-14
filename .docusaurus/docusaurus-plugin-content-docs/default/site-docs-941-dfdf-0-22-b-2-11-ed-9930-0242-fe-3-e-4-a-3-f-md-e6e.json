@@ -1,0 +1,28 @@
+{
+  "unversionedId": "941dfdf0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "941dfdf0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Double Click",
+  "description": "Description",
+  "source": "@site/docs/941dfdf0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-double-click",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-double-click",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "941dfdf0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Double Click",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-double-click",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Dismiss Alert",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-dismiss-alert"
+  },
+  "next": {
+    "title": "[WebUI] Drag And Drop By Offset",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-drag-and-drop-by-offset"
+  }
+}

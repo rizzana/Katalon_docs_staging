@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93a17af0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93a17af0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Verify Image Present",
+  "description": "Note:",
+  "source": "@site/docs/93a17af0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-image-present",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-image-present",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93a17af0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Verify Image Present",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-image-present",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Use Fingerprint",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-use-fingerprint"
+  },
+  "next": {
+    "title": "[Mobile] Verify Is Landscape",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-landscape"
+  }
+}

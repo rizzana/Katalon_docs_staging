@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93592750-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93592750-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Run the iOS app in the background and wait",
+  "description": "Description",
+  "source": "@site/docs/93592750-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-run-the-ios-app-in-the-background-and-wait",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-run-the-ios-app-in-the-background-and-wait",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93592750-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Run the iOS app in the background and wait",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-run-the-ios-app-in-the-background-and-wait",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Pinch to zoom out at position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-pinch-to-zoom-out-at-position"
+  },
+  "next": {
+    "title": "[Mobile] Scroll To Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-scroll-to-text"
+  }
+}

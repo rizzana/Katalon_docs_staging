@@ -1,0 +1,28 @@
+{
+  "unversionedId": "904a60b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "904a60b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to perform Database Testing using Katalon Studio",
+  "description": "Katalon Studio allows users to create custom keywords to address specific needs. With custom keywords, you can connect to databases and perform database testing. This tutorial describes details on how to create custom keywords for database testing in Katalon Studio.",
+  "source": "@site/docs/904a60b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/custom-keywords/how-to-perform-database-testing-using-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/custom-keywords/how-to-perform-database-testing-using-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "904a60b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to perform Database Testing using Katalon Studio",
+    "slug": "create-tests/keywords/custom-keywords/how-to-perform-database-testing-using-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Build custom keywords with Settings in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/build-custom-keywords-with-settings-in-katalon-studio"
+  },
+  "next": {
+    "title": "How to use a custom keyword from other custom keywords and step definition classes in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/how-to-use-a-custom-keyword-from-other-custom-keywords-and-step-definition-classes-in-katalon-studio"
+  }
+}

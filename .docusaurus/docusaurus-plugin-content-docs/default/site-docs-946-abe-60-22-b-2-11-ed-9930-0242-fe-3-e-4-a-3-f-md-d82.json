@@ -1,0 +1,28 @@
+{
+  "unversionedId": "946abe60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "946abe60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Smart Wait Function",
+  "description": "This article shows you how to enable and use the Smart Wait function in Katalon Studio.",
+  "source": "@site/docs/946abe60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/webui-record-and-spy-utilities/smart-wait-function",
+  "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/smart-wait-function",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "946abe60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Smart Wait Function",
+    "slug": "create-tests/record-and-spy/webui-record-and-spy-utilities/smart-wait-function",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to use synchronization commands while recording in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/how-to-use-synchronization-commands-while-recording-in-katalon-studio"
+  },
+  "next": {
+    "title": "Introduction to Mobile Recorder in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/mobile-record-and-spy-utilities/introduction-to-mobile-recorder-in-katalon-studio"
+  }
+}

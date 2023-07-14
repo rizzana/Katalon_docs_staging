@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93ff2b50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93ff2b50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Authenticate",
+  "description": "Description",
+  "source": "@site/docs/93ff2b50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-authenticate",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-authenticate",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93ff2b50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Authenticate",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-authenticate",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Accept Alert",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-accept-alert"
+  },
+  "next": {
+    "title": "[WebUI] Back",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-back"
+  }
+}

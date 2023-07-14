@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94afddb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94afddb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Verify Links Accessible",
+  "description": "Description",
+  "source": "@site/docs/94afddb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-links-accessible",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-links-accessible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94afddb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Verify Links Accessible",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-links-accessible",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Verify Image Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-image-present"
+  },
+  "next": {
+    "title": "[WebUI] Verify Option Not Present By Label",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-present-by-label"
+  }
+}

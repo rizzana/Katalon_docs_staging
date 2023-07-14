@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9704f140-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9704f140-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Authorization in Katalon Studio",
+  "description": "APIs use authorization to make sure that client requests access data securely. Authorization involves authenticating and confirming that the sender of a request have the permission to access or manipulate the relevant data.",
+  "source": "@site/docs/9704f140-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/authorization/authorization-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/authorization/authorization-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9704f140-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Authorization in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/authorization/authorization-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "GraphQL in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/graphql-in-katalon-studio"
+  },
+  "next": {
+    "title": "Basic Authentication in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/authorization/basic-authentication-in-katalon-studio"
+  }
+}

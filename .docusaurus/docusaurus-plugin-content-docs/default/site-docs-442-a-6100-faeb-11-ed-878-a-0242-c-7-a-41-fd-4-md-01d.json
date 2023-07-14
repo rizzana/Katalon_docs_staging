@@ -1,0 +1,28 @@
+{
+  "unversionedId": "442a6100-faeb-11ed-878a-0242c7a41fd4",
+  "id": "442a6100-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Download report files using REST API",
+  "description": "After selecting a test run, go to Test Results tab and select the Copy as REST API icon.Navigate to Files tab, hover on  your desired report  file, copy the file ID, which will appear at the lower left corner of the page.Go to Katalon Swagger UI and paste the file ID to the required field. Select Download file.",
+  "source": "@site/docs/442a6100-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-report-files-using-rest-api",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-report-files-using-rest-api",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "442a6100-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Download report files using REST API",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-report-files-using-rest-api",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Download test report files",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-test-report-files"
+  },
+  "next": {
+    "title": "View test case reports in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-case-reports-in-katalon-testops"
+  }
+}

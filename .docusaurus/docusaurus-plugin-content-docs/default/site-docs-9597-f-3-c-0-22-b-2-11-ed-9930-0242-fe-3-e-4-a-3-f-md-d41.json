@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9597f3c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9597f3c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Studio installation overview",
+  "description": "Katalon Studio can work on macOS, Windows and Linux.",
+  "source": "@site/docs/9597f3c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/katalon-studio-installation/katalon-studio-installation-overview",
+  "permalink": "/docs/get-started/katalon-studio-installation/katalon-studio-installation-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9597f3c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Studio installation overview",
+    "slug": "get-started/katalon-studio-installation/katalon-studio-installation-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio best practices",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/katalon-studio-best-practices"
+  },
+  "next": {
+    "title": "Install Katalon Studio on macOS/Windows",
+    "permalink": "/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows"
+  }
+}

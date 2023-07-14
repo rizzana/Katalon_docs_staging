@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93a72040-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93a72040-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Wait For Element Attribute Value",
+  "description": "Description",
+  "source": "@site/docs/93a72040-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-attribute-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-attribute-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93a72040-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Wait For Element Attribute Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-attribute-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Verify Element Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-text"
+  },
+  "next": {
+    "title": "[Mobile] Wait For Element Has Attribute",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-has-attribute"
+  }
+}

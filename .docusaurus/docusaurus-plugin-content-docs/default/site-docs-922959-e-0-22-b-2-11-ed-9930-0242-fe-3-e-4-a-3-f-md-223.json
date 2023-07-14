@@ -1,0 +1,28 @@
+{
+  "unversionedId": "922959e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "922959e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Git integration authentication with SSH Keys in Katalon Studio",
+  "description": "Note: Starting from version 7.0.0, Katalon Studio supports connecting to Git with SSH Keys.",
+  "source": "@site/docs/922959e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/project-settings/git-integration/git-integration-authentication-with-ssh-keys-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/project-settings/git-integration/git-integration-authentication-with-ssh-keys-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "922959e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Git integration authentication with SSH Keys in Katalon Studio",
+    "slug": "create-tests/manage-projects/project-settings/git-integration/git-integration-authentication-with-ssh-keys-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Work with Git in Katalon Studio - Platform Edition",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/git-integration/work-with-git-in-katalon-studio---platform-edition"
+  },
+  "next": {
+    "title": "Introduction to Desired Capabilities in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/desired-capabilities/introduction-to-desired-capabilities-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d4f4920-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d4f4920-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View re-run test results in Katalon TestOps",
+  "description": "Important: Integration with Katalon Studio (version 8.1 or later).",
+  "source": "@site/docs/8d4f4920-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-re-run-test-results-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-re-run-test-results-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d4f4920-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View re-run test results in Katalon TestOps",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-re-run-test-results-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Failed Test Results",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/failed-test-results"
+  },
+  "next": {
+    "title": "View traceability matrix in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-traceability-matrix-in-katalon-testops"
+  }
+}

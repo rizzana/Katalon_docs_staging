@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f98eb00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f98eb00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Set desired execution behaviors of Katalon Studio",
+  "description": "Execution settings help define the desired behaviors of Katalon Studio during test execution. To access default Execution Settings of a project in Katalon Studio, from the main menu, select Project &gt; Settings &gt; Execution.",
+  "source": "@site/docs/8f98eb00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/project-settings/set-desired-execution-behaviors-of-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/project-settings/set-desired-execution-behaviors-of-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f98eb00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Set desired execution behaviors of Katalon Studio",
+    "slug": "create-tests/manage-projects/project-settings/set-desired-execution-behaviors-of-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View and edit your project information in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/view-and-edit-your-project-information-in-katalon-studio"
+  },
+  "next": {
+    "title": "Network settings in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/network-settings-in-katalon-studio"
+  }
+}

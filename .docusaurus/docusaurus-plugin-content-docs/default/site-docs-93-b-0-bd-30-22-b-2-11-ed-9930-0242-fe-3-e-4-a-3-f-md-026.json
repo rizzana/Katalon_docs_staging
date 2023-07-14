@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93b0bd30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93b0bd30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Common] Call Test Case",
+  "description": "Description",
+  "source": "@site/docs/93b0bd30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-call-test-case",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-call-test-case",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93b0bd30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Common] Call Test Case",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-call-test-case",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Common] Verify Not Match",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/common-assertions/common-verify-not-match"
+  },
+  "next": {
+    "title": "[Common] Comment",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-comment"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92398680-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92398680-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Kobiton Integration with Katalon Studio",
+  "description": "Kobiton is a mobile device platform that offers real mobile devices for testers and developers. With Kobiton and Katalon Studio integration, you can easily execute automated tests on real mobile devices.",
+  "source": "@site/docs/92398680-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/integration-with-other-vendors/kobiton-integration/kobiton-integration-with-katalon-studio",
+  "permalink": "/docs/execute/integration-with-other-vendors/kobiton-integration/kobiton-integration-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92398680-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Kobiton Integration with Katalon Studio",
+    "slug": "execute/integration-with-other-vendors/kobiton-integration/kobiton-integration-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "BrowserStack Integration",
+    "permalink": "/docs/execute/integration-with-other-vendors/browserstack-integration"
+  },
+  "next": {
+    "title": "Kobiton Integration with TestOps",
+    "permalink": "/docs/execute/integration-with-other-vendors/kobiton-integration/kobiton-integration-with-testops"
+  }
+}

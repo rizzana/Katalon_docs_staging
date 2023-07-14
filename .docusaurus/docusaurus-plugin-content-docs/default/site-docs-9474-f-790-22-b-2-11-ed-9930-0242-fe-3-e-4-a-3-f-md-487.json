@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9474f790-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9474f790-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Switch To Window Title",
+  "description": "Description",
+  "source": "@site/docs/9474f790-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-window-title",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-window-title",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9474f790-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Switch To Window Title",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-window-title",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Switch To Window Index",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-window-index"
+  },
+  "next": {
+    "title": "[WebUI] Switch To Window Url",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-switch-to-window-url"
+  }
+}

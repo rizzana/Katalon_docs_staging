@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9043d100-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9043d100-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Mobile Recorder and SetText keyword cannot perform on an EditText element of the Flutter-based application",
+  "description": "Create a SetText Custom keyword.Run the test again in script mode.",
+  "source": "@site/docs/9043d100-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/katalon-mobile-recorder-and-settext-keyword-cannot-perform-on-an-edittext-element-of-the-flutter-based-application",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/katalon-mobile-recorder-and-settext-keyword-cannot-perform-on-an-edittext-element-of-the-flutter-based-application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9043d100-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Mobile Recorder and SetText keyword cannot perform on an EditText element of the Flutter-based application",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/katalon-mobile-recorder-and-settext-keyword-cannot-perform-on-an-edittext-element-of-the-flutter-based-application",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Fail to start the Appium server in 60 seconds",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/fail-to-start-the-appium-server-in-60-seconds"
+  },
+  "next": {
+    "title": "Unable to Start Application on this device: Appium directory is invalid",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/unable-to-start-application-on-this-device-appium-directory-is-invalid"
+  }
+}

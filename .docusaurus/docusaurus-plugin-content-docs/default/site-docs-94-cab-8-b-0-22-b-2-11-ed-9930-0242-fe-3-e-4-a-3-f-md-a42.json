@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94cab8b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94cab8b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Wait For Element Clickable",
+  "description": "Description",
+  "source": "@site/docs/94cab8b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-element-clickable",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-element-clickable",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94cab8b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Wait For Element Clickable",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-element-clickable",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Wait For Element Attribute Value",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-element-attribute-value"
+  },
+  "next": {
+    "title": "[WebUI] Wait For Element Has Attribute",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-wait-for-element-has-attribute"
+  }
+}

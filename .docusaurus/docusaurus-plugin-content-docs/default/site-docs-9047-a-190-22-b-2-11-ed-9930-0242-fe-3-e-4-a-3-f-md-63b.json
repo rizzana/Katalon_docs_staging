@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9047a190-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9047a190-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Build custom keywords with Settings in Katalon Studio",
+  "description": "With Katalon     Studio version 6.1.2, a Settings page under   Project Settings/Plugins can be created for a   custom-keyword plugin. This can be utilized to store project-scoped   variables for users to customize.",
+  "source": "@site/docs/9047a190-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/custom-keywords/build-custom-keywords-with-settings-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/custom-keywords/build-custom-keywords-with-settings-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9047a190-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Build custom keywords with Settings in Katalon Studio",
+    "slug": "create-tests/keywords/custom-keywords/build-custom-keywords-with-settings-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Handling Databases in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/handling-databases-in-katalon-studio"
+  },
+  "next": {
+    "title": "How to perform Database Testing using Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/how-to-perform-database-testing-using-katalon-studio"
+  }
+}

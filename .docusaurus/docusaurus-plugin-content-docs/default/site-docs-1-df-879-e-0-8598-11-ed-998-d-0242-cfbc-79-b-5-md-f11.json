@@ -1,0 +1,28 @@
+{
+  "unversionedId": "1df879e0-8598-11ed-998d-0242cfbc79b5",
+  "id": "1df879e0-8598-11ed-998d-0242cfbc79b5",
+  "title": "Robot Framework integration with Visual Testing",
+  "description": "The Robot Framework package testops-robot allows you to apply Katalon Visual Testing directly in a Robot Framework test case. The package provides you with a simple interface to upload checkpoint images and retrieve comparison results. Status of each Robot Framework test case can be promptly driven by each comparison result returned from Katalon Visual Testing",
+  "source": "@site/docs/1df879e0-8598-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/visual-testing/robot-framework-integration-with-visual-testing",
+  "permalink": "/docs/analyze/analytics/visual-testing/robot-framework-integration-with-visual-testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "1df879e0-8598-11ed-998d-0242cfbc79b5",
+    "title": "Robot Framework integration with Visual Testing",
+    "slug": "analyze/analytics/visual-testing/robot-framework-integration-with-visual-testing",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Adjust the pixel sensitivity level",
+    "permalink": "/docs/analyze/analytics/visual-testing/adjust-the-pixel-sensitivity-level"
+  },
+  "next": {
+    "title": "View Katalon Studio test results in Jira tickets",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/view-katalon-studio-test-results-in-jira-tickets"
+  }
+}

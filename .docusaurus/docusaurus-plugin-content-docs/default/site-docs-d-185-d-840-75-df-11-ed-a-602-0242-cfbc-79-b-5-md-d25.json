@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d185d840-75df-11ed-a602-0242cfbc79b5",
+  "id": "d185d840-75df-11ed-a602-0242cfbc79b5",
+  "title": "Configure Xray Integration in Katalon TestOps",
+  "description": "Xray is a complete Test Management tool for Jira. It is an Atlassian marketplace application and runs natively as part of Jira.",
+  "source": "@site/docs/d185d840-75df-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/integration-for-organizing-tests/xray-integration/configure-xray-integration-in-katalon-testops",
+  "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/configure-xray-integration-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d185d840-75df-11ed-a602-0242cfbc79b5",
+    "title": "Configure Xray Integration in Katalon TestOps",
+    "slug": "organize/integration-for-organizing-tests/xray-integration/configure-xray-integration-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Generate manual test cases with Jira integration",
+    "permalink": "/docs/organize/integration-for-organizing-tests/jira-integration/generate-manual-test-cases-with-jira-integration"
+  },
+  "next": {
+    "title": "Link a Katalon test case with an Xray test issue",
+    "permalink": "/docs/organize/integration-for-organizing-tests/xray-integration/link-a-katalon-test-case-with-an-xray-test-issue"
+  }
+}

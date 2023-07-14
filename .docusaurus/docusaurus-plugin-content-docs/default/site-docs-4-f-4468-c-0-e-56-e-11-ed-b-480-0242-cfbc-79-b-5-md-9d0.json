@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4f4468c0-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4f4468c0-e56e-11ed-b480-0242cfbc79b5",
+  "title": "Edit a published Cloud Studio (Beta) test case",
+  "description": "Katalon Cloud Studio (Beta) and later versions allows you to edit a published Cloud Studio (Beta) test case only.",
+  "source": "@site/docs/4f4468c0-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/organize-cloud-studio-beta-tests/edit-a-published-cloud-studio-beta-test-case",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/organize-cloud-studio-beta-tests/edit-a-published-cloud-studio-beta-test-case",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4f4468c0-e56e-11ed-b480-0242cfbc79b5",
+    "title": "Edit a published Cloud Studio (Beta) test case",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/organize-cloud-studio-beta-tests/edit-a-published-cloud-studio-beta-test-case",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create a Katalon Cloud Studio (Beta) test suite",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-test-suite/create-a-katalon-cloud-studio-beta-test-suite"
+  },
+  "next": {
+    "title": "Execute Katalon Cloud Studio (Beta) tests",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/execute-cloud-studio-beta-tests/execute-katalon-cloud-studio-beta-tests"
+  }
+}

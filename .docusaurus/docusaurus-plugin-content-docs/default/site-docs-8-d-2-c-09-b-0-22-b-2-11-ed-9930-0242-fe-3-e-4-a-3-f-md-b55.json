@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d2c09b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d2c09b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Auto-distributed executions",
+  "description": "How it works",
+  "source": "@site/docs/8d2c09b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/local-test-environments/auto-distributed-executions",
+  "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/auto-distributed-executions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d2c09b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Auto-distributed executions",
+    "slug": "execute/test-execution-with-testops/local-test-environments/auto-distributed-executions",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Run multiple test suites in parallel with Agents",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/run-multiple-test-suites-in-parallel-with-agents"
+  },
+  "next": {
+    "title": "Set up Docker test environments for TestOps",
+    "permalink": "/docs/execute/test-execution-with-testops/set-up-docker-test-environments-for-testops"
+  }
+}

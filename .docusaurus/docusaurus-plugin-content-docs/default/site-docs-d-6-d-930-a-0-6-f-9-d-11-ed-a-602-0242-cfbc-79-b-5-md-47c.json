@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d6d930a0-6f9d-11ed-a602-0242cfbc79b5",
+  "id": "d6d930a0-6f9d-11ed-a602-0242cfbc79b5",
+  "title": "Baseline collection",
+  "description": "There are two ways a baseline collection is created Schedule test runs.",
+  "source": "@site/docs/d6d930a0-6f9d-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/visual-testing/baseline-collection",
+  "permalink": "/docs/analyze/analytics/visual-testing/baseline-collection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d6d930a0-6f9d-11ed-a602-0242cfbc79b5",
+    "title": "Baseline collection",
+    "slug": "analyze/analytics/visual-testing/baseline-collection",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use TestOps Visual Testing",
+    "permalink": "/docs/analyze/analytics/visual-testing/use-testops-visual-testing"
+  },
+  "next": {
+    "title": "Adjust the pixel sensitivity level",
+    "permalink": "/docs/analyze/analytics/visual-testing/adjust-the-pixel-sensitivity-level"
+  }
+}

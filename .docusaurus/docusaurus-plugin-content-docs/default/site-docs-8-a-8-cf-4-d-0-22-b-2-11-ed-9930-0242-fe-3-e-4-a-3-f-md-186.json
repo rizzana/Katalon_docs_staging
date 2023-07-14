@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a8cf4d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a8cf4d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to implement data-driven testing in a test case with Katalon Recorder",
+  "description": "Whenever you want to execute a test case repeatedly with   different data, you can implement data-driven testing (DDT).   Katalon Recorder facilitates DDT with DDT commands and several data   formats. See: Data-driven     testing in Katalon Recorder.",
+  "source": "@site/docs/8a8cf4d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/data-driven-testing/how-to-implement-data-driven-testing-in-a-test-case-with-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/data-driven-testing/how-to-implement-data-driven-testing-in-a-test-case-with-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a8cf4d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to implement data-driven testing in a test case with Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/data-driven-testing/how-to-implement-data-driven-testing-in-a-test-case-with-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Data-driven testing in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/data-driven-testing/data-driven-testing-in-katalon-recorder"
+  },
+  "next": {
+    "title": "Katalon Recorder Helper Tool",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/katalon-recorder-helper-tool"
+  }
+}

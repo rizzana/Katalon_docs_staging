@@ -1,0 +1,28 @@
+{
+  "unversionedId": "c17dd8f0-6af7-11ed-a602-0242cfbc79b5",
+  "id": "c17dd8f0-6af7-11ed-a602-0242cfbc79b5",
+  "title": "Execute Katalon tests on Jenkins with TestCloud environment",
+  "description": "Jenkins is an automation engine that supports a number of automation patterns. You can execute Katalon tests on Jenkins with the TestCloud environment using Katalon TestOps or Katalon Runtime Engine.",
+  "source": "@site/docs/c17dd8f0-6af7-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/jenkins-integration/execute-katalon-tests-on-jenkins-with-testcloud-environment",
+  "permalink": "/docs/execute/cicd-integrations/jenkins-integration/execute-katalon-tests-on-jenkins-with-testcloud-environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "c17dd8f0-6af7-11ed-a602-0242cfbc79b5",
+    "title": "Execute Katalon tests on Jenkins with TestCloud environment",
+    "slug": "execute/cicd-integrations/jenkins-integration/execute-katalon-tests-on-jenkins-with-testcloud-environment",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Execute Katalon Studio tests with Jenkins Pipeline Script (Jenkinsfile)",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/execute-katalon-studio-tests-with-jenkins-pipeline-script-jenkinsfile"
+  },
+  "next": {
+    "title": "Passing scenario tags at runtime when building with Jenkins",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/passing-scenario-tags-at-runtime-when-building-with-jenkins"
+  }
+}
