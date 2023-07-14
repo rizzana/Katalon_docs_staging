@@ -1,0 +1,28 @@
+{
+  "unversionedId": "21f652f0-b802-11ed-825f-0242cfbc79b5",
+  "id": "21f652f0-b802-11ed-825f-0242cfbc79b5",
+  "title": "Quick guide for administrators",
+  "description": "In this guide, you'll get a quick-start overview of Katalon Platform's billing structures and administrative features. Understand how to pay for your needs, maximize the use of your licenses, and manage your team members.",
+  "source": "@site/docs/21f652f0-b802-11ed-825f-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/quick-guide-for-administrators",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-administrators",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "21f652f0-b802-11ed-825f-0242cfbc79b5",
+    "title": "Quick guide for administrators",
+    "slug": "get-started/onboarding-katalon-platform/quick-guide-for-administrators",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Quick guide for QA managers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-qa-managers"
+  },
+  "next": {
+    "title": "Quick guide for billing managers",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/quick-guide-for-billing-managers"
+  }
+}

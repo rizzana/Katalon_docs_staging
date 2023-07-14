@@ -1,0 +1,28 @@
+{
+  "unversionedId": "971ff350-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "971ff350-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Request History in Katalon Studio",
+  "description": "Note:",
+  "source": "@site/docs/971ff350-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/request-history-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/request-history-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "971ff350-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Request History in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/request-history-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Verification Snippets in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/verification-snippets-in-katalon-studio"
+  },
+  "next": {
+    "title": "Draft Request in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/draft-request-in-katalon-studio"
+  }
+}

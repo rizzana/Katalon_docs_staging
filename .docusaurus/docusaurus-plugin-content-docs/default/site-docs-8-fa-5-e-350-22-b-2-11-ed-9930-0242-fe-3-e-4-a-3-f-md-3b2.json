@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fa5e350-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fa5e350-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Studio project settings overview",
+  "description": "This section shows you how to  set up the configuration for your project in Katalon Studio project settings.",
+  "source": "@site/docs/8fa5e350-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/project-settings/katalon-studio-project-settings-overview",
+  "permalink": "/docs/create-tests/manage-projects/project-settings/katalon-studio-project-settings-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fa5e350-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Studio project settings overview",
+    "slug": "create-tests/manage-projects/project-settings/katalon-studio-project-settings-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Refresh, clean up, and delete a test project in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/manage-test-projects/refresh-clean-up-and-delete-a-test-project-in-katalon-studio"
+  },
+  "next": {
+    "title": "View and edit your project information in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/project-settings/view-and-edit-your-project-information-in-katalon-studio"
+  }
+}

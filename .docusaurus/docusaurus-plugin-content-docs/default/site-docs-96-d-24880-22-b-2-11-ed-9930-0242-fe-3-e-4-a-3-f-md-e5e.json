@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96d24880-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96d24880-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Introduction to Web Services Test Object in Katalon Studio",
+  "description": "Katalon Studio supports API Testing with both RESTful and   SOAP Services. You can import their definitions from different   sources, create and test a single test request, or create   functional test scripts. Below are some useful documentations for   working with Web Service Requests:",
+  "source": "@site/docs/96d24880-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/introduction-to-web-services-test-object-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/introduction-to-web-services-test-object-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96d24880-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Introduction to Web Services Test Object in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/introduction-to-web-services-test-object-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Handling Web element locators using Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/handling-web-element-locators-using-katalon-studio"
+  },
+  "next": {
+    "title": "Import REST API with OpenAPI Specification 3.0 to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-rest-api-with-openapi-specification-3.0-to-katalon-studio"
+  }
+}

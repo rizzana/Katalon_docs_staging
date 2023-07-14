@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c455330-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c455330-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage User Profile",
+  "description": "The TestOps Profile page allows you to manage your TestOps   profile settings, including your profile photo, username, job   title, and password.",
+  "source": "@site/docs/8c455330-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/manage-user-profile",
+  "permalink": "/docs/administer/administration-tasks/manage-user-profile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c455330-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage User Profile",
+    "slug": "administer/administration-tasks/manage-user-profile",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Join a TestOps Organization",
+    "permalink": "/docs/administer/administration-tasks/join-a-testops-organization"
+  },
+  "next": {
+    "title": "View Test Usage and Balance in the Usage Dashboard",
+    "permalink": "/docs/administer/administration-tasks/product-utilization/view-test-usage-and-balance-in-the-usage-dashboard"
+  }
+}

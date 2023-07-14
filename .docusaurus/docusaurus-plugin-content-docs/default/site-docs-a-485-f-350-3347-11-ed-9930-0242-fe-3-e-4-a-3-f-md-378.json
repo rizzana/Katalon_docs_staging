@@ -1,0 +1,28 @@
+{
+  "unversionedId": "a485f350-3347-11ed-9930-0242fe3e4a3f",
+  "id": "a485f350-3347-11ed-9930-0242fe3e4a3f",
+  "title": "Override test environments in a test suite collection",
+  "description": "When scheduling a test suite collection with TestCloud on TestOps, you can override environments for each test suite in the test suite collection.Follow these steps:",
+  "source": "@site/docs/a485f350-3347-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/override-test-environments-in-a-test-suite-collection",
+  "permalink": "/docs/execute/test-execution-with-testcloud/override-test-environments-in-a-test-suite-collection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "a485f350-3347-11ed-9930-0242fe3e4a3f",
+    "title": "Override test environments in a test suite collection",
+    "slug": "execute/test-execution-with-testcloud/override-test-environments-in-a-test-suite-collection",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Run mobile native application tests on TestCloud",
+    "permalink": "/docs/execute/test-execution-with-testcloud/run-mobile-native-application-tests-on-testcloud"
+  },
+  "next": {
+    "title": "App Center Integration",
+    "permalink": "/docs/execute/integration-with-other-vendors/app-center-integration"
+  }
+}

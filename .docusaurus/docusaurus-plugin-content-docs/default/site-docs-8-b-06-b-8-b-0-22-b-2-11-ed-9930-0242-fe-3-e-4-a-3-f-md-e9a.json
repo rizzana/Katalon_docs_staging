@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b06b8b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b06b8b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Link test execution with a TestOps release using command builder",
+  "description": "Requirements",
+  "source": "@site/docs/8b06b8b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/link-test-execution-with-a-testops-release-using-command-builder",
+  "permalink": "/docs/plan/link-test-execution-with-a-testops-release-using-command-builder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b06b8b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Link test execution with a TestOps release using command builder",
+    "slug": "plan/link-test-execution-with-a-testops-release-using-command-builder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Link test runs to a release in TestOps",
+    "permalink": "/docs/plan/link-test-runs-to-a-release-in-testops"
+  },
+  "next": {
+    "title": "Populate Jira releases",
+    "permalink": "/docs/plan/integration-for-test-planning/populate-jira-releases"
+  }
+}

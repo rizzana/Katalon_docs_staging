@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94037110-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94037110-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Click",
+  "description": "Description",
+  "source": "@site/docs/94037110-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-click",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-click",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94037110-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Click",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-click",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Clear Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-clear-text"
+  },
+  "next": {
+    "title": "[WebUI] Click Image",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-click-image"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c56b850-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c56b850-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Administrative Roles and Permissions",
+  "description": "​Katalon Platform​ organizes users into four management levels:",
+  "source": "@site/docs/8c56b850-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-roles/administrative-roles-and-permissions",
+  "permalink": "/docs/administer/administration-roles/administrative-roles-and-permissions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c56b850-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Administrative Roles and Permissions",
+    "slug": "administer/administration-roles/administrative-roles-and-permissions",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Runtime Engine DevOps Sunsetting",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/katalon-runtime-engine-devops-sunsetting"
+  },
+  "next": {
+    "title": "Create an organization and project",
+    "permalink": "/docs/administer/administration-tasks/create-an-organization-and-project"
+  }
+}

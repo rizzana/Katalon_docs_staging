@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93254610-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93254610-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Get Device Manufacturer",
+  "description": "Description",
+  "source": "@site/docs/93254610-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-manufacturer",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-manufacturer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93254610-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Get Device Manufacturer",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-manufacturer",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Get Device Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-height"
+  },
+  "next": {
+    "title": "[Mobile] Get Device OS",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-os"
+  }
+}

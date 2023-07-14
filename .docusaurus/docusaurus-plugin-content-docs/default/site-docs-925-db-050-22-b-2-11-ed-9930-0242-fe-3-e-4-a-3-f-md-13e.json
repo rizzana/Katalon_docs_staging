@@ -1,0 +1,28 @@
+{
+  "unversionedId": "925db050-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "925db050-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Submit an issue from Katalon Studio to Jira",
+  "description": "You have enabled Jira integration in Katalon Studio. See: Configure Jira integration in Katalon Studio.",
+  "source": "@site/docs/925db050-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/integration-for-test-analyzing/jira-integration/submit-an-issue-from-katalon-studio-to-jira",
+  "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/submit-an-issue-from-katalon-studio-to-jira",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "925db050-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Submit an issue from Katalon Studio to Jira",
+    "slug": "analyze/integration-for-test-analyzing/jira-integration/submit-an-issue-from-katalon-studio-to-jira",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View Katalon Studio test results in Jira tickets",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/view-katalon-studio-test-results-in-jira-tickets"
+  },
+  "next": {
+    "title": "View test results in the Jira Test Results gadget",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/view-test-results-in-the-jira-test-results-gadget"
+  }
+}

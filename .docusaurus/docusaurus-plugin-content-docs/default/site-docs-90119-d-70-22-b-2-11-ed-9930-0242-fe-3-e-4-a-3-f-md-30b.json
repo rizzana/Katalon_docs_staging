@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90119d70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90119d70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Set a new default JRE for test projects in Katalon Studio",
+  "description": "Katalon Studio uses the default embedded Java Runtime   Environment (JRE) v8 to run a Katalon Studio instance and compile   test projects. You can learn more about JRE v8 in the Oracle   document here: JRE     v8.",
+  "source": "@site/docs/90119d70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/set-up-your-workspace/katalon-studio-preferences/set-a-new-default-jre-for-test-projects-in-katalon-studio",
+  "permalink": "/docs/get-started/set-up-your-workspace/katalon-studio-preferences/set-a-new-default-jre-for-test-projects-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90119d70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Set a new default JRE for test projects in Katalon Studio",
+    "slug": "get-started/set-up-your-workspace/katalon-studio-preferences/set-a-new-default-jre-for-test-projects-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Object Spy Preferences in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/katalon-studio-preferences/object-spy-preferences-in-katalon-studio"
+  },
+  "next": {
+    "title": "Sample projects overview",
+    "permalink": "/docs/get-started/sample-projects/sample-projects-overview"
+  }
+}

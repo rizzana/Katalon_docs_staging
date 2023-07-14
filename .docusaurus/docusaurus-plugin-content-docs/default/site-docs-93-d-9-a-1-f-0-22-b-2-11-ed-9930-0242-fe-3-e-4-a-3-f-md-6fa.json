@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93d9a1f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93d9a1f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Set HAR File Generation",
+  "description": "Requirements",
+  "source": "@site/docs/93d9a1f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-set-har-file-generation",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-set-har-file-generation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93d9a1f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Set HAR File Generation",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-set-har-file-generation",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WS] Send Request And Verify",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-send-request-and-verify"
+  },
+  "next": {
+    "title": "[WS] Validate GraphQL request against a GraphQL schema",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-graphql-request-against-a-graphql-schema"
+  }
+}

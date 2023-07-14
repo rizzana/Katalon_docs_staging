@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ac4a6a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ac4a6a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder Helper Tool",
+  "description": "Introduction",
+  "source": "@site/docs/8ac4a6a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/katalon-recorder-helper-tool",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/katalon-recorder-helper-tool",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ac4a6a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder Helper Tool",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/katalon-recorder-helper-tool",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to implement data-driven testing in a test case with Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/data-driven-testing/how-to-implement-data-driven-testing-in-a-test-case-with-katalon-recorder"
+  },
+  "next": {
+    "title": "Extension Scripts for Custom Locator Builders and Actions in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/extension-scripts-for-custom-locator-builders-and-actions-in-katalon-recorder"
+  }
+}

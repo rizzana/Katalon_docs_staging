@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92fc1330-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92fc1330-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Cucumber] Run Feature File",
+  "description": "Description runFeatureFile        Keyword syntax             Name a relative file path of the feature file       Parameter Type Required       Name an instance         com.kms.katalon.core.model.FailureHandling that controls the         running flow       Parameter Type Optional                Returns",
+  "source": "@site/docs/92fc1330-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-file",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-file",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92fc1330-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Cucumber] Run Feature File",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-file",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Cucumber] Run Feature File with Tags",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-file-with-tags"
+  },
+  "next": {
+    "title": "[Cucumber] Run Feature Folder with Tags",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-folder-with-tags"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90427170-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90427170-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Encounter xcodebuild exited with code '65' and signal 'null'",
+  "description": "Your .ipa application and/or WebDriverAgent is not signed correctly.Sign and rebuild the WebDriverAgent XCode project with your developer certificate.Uncheck Automatically Signing option from WebDriverAgentRunner and select valid provisioning profile (profile displayed as Eligible from the list).D",
+  "source": "@site/docs/90427170-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/encounter-xcodebuild-exited-with-code-65-and-signal-null",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/encounter-xcodebuild-exited-with-code-65-and-signal-null",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90427170-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Encounter xcodebuild exited with code '65' and signal 'null'",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/encounter-xcodebuild-exited-with-code-65-and-signal-null",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Connected device not displayed in 'Device Name' list",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/connected-device-not-displayed-in-device-name-list"
+  },
+  "next": {
+    "title": "Fail to start Appium server in 30 seconds",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/fail-to-start-appium-server-in-30-seconds"
+  }
+}

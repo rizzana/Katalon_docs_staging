@@ -1,0 +1,28 @@
+{
+  "unversionedId": "44775f10-2390-11ed-9930-0242fe3e4a3f",
+  "id": "44775f10-2390-11ed-9930-0242fe3e4a3f",
+  "title": "Analytics overview",
+  "description": "Besides report features,  Katalon Platform also provides analytics features that can help you to extract meaningful insights  for improving your test performance. See: Compare test results in Katalon TestOps.",
+  "source": "@site/docs/44775f10-2390-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/analytics-overview",
+  "permalink": "/docs/analyze/analytics/analytics-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "44775f10-2390-11ed-9930-0242fe3e4a3f",
+    "title": "Analytics overview",
+    "slug": "analyze/analytics/analytics-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Filter test run list by build name in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/manage-reports/filter-test-run-list-by-build-name-in-katalon-testops"
+  },
+  "next": {
+    "title": "Compare test results in Katalon TestOps",
+    "permalink": "/docs/analyze/analytics/compare-test-results-in-katalon-testops"
+  }
+}

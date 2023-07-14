@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b149b60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b149b60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Harness Integration",
+  "description": "Harness is a CI/CD service platform that provides a simple and secure way for engineering and DevOps teams to release applications faster, safer, and more secure. Harness automates the entire CI/CD process, which helps build, test, and deploy improved features more quickly. To learn more about key concepts of Harness, you can refer to this Harness document: Harness Key Concepts.",
+  "source": "@site/docs/8b149b60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/harness-integration",
+  "permalink": "/docs/execute/cicd-integrations/harness-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b149b60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Harness Integration",
+    "slug": "execute/cicd-integrations/harness-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Google Cloud Build",
+    "permalink": "/docs/execute/cicd-integrations/google-cloud-build"
+  },
+  "next": {
+    "title": "Jenkins Integration Overview",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/jenkins-integration-overview"
+  }
+}

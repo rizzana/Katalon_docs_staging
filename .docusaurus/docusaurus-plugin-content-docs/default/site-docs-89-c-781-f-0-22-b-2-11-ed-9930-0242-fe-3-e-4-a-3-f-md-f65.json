@@ -1,0 +1,28 @@
+{
+  "unversionedId": "89c781f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "89c781f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Sessions Monitoring for Katalium Server",
+  "description": "Note:",
+  "source": "@site/docs/89c781f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-server/sessions-monitoring-for-katalium-server",
+  "permalink": "/docs/plugins-and-add-ons/katalium-server/sessions-monitoring-for-katalium-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "89c781f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Sessions Monitoring for Katalium Server",
+    "slug": "plugins-and-add-ons/katalium-server/sessions-monitoring-for-katalium-server",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "WebDriver Auto-update for Katalium Server",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/webdriver-auto-update-for-katalium-server"
+  },
+  "next": {
+    "title": "Contributing Guidelines for Katalium Server",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/contributing-guidelines-for-katalium-server"
+  }
+}

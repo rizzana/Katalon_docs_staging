@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d199320-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d199320-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Set up CircleCI test environments for TestOps",
+  "description": "In Katalon TestOps, you can set up a CircleCI test environment to schedule and execute tests remotely.",
+  "source": "@site/docs/8d199320-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/set-up-circleci-test-environments-for-testops",
+  "permalink": "/docs/execute/test-execution-with-testops/set-up-circleci-test-environments-for-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d199320-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Set up CircleCI test environments for TestOps",
+    "slug": "execute/test-execution-with-testops/set-up-circleci-test-environments-for-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set up Kubernetes test environments for TestOps",
+    "permalink": "/docs/execute/test-execution-with-testops/set-up-kubernetes-test-environments-for-testops"
+  },
+  "next": {
+    "title": "TestCloud overview",
+    "permalink": "/docs/execute/test-execution-with-testcloud/testcloud-overview"
+  }
+}

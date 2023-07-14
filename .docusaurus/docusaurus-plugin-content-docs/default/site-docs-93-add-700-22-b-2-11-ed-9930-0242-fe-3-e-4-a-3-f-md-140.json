@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93add700-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93add700-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Wait For Element Present",
+  "description": "Description",
+  "source": "@site/docs/93add700-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-present",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-present",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93add700-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Wait For Element Present",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-present",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Wait For Element Not Has Attribute",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-not-has-attribute"
+  },
+  "next": {
+    "title": "[Mobile] Wait For Element Not Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-wait-for-element-not-present"
+  }
+}

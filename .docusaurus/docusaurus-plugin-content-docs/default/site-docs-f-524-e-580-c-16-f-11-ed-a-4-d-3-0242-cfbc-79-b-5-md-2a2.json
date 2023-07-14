@@ -1,0 +1,28 @@
+{
+  "unversionedId": "f524e580-c16f-11ed-a4d3-0242cfbc79b5",
+  "id": "f524e580-c16f-11ed-a4d3-0242cfbc79b5",
+  "title": "Comparison between Katalon Platform On-Premises and Katalon Platform",
+  "description": "Katalon Platform On-Premises provides the complete Katalon Platform experience for enterprise customers within a closed, secure and isolated work environment.",
+  "source": "@site/docs/f524e580-c16f-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-platform-on-premises/comparison-between-katalon-platform-on-premises-and-katalon-platform",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/comparison-between-katalon-platform-on-premises-and-katalon-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "f524e580-c16f-11ed-a4d3-0242cfbc79b5",
+    "title": "Comparison between Katalon Platform On-Premises and Katalon Platform",
+    "slug": "administer/katalon-platform-packages/katalon-platform-on-premises/comparison-between-katalon-platform-on-premises-and-katalon-platform",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Platform On-Premises",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises"
+  },
+  "next": {
+    "title": "Katalon Platform On-Premises use cases",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises-use-cases"
+  }
+}

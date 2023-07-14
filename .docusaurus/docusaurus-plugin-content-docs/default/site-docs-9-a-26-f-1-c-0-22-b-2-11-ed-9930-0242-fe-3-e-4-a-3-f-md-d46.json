@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a26f1c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a26f1c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Troubleshoot activation problems overview",
+  "description": "When installing Katalon Studio on your machine, make sure you   have configured the date and time of the machine based on the local   time zone.",
+  "source": "@site/docs/9a26f1c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/troubleshoot-activation-problems-overview",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/troubleshoot-activation-problems-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a26f1c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Troubleshoot activation problems overview",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/troubleshoot-activation-problems-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Session Termination Causes",
+    "permalink": "/docs/administer/troubleshooting/session-termination-causes"
+  },
+  "next": {
+    "title": "Cannot connect to Katalon TestOps server. Please check your Internet connection and try again (1)",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/cannot-connect-to-katalon-testops-server.-please-check-your-internet-connection-and-try-again-1"
+  }
+}

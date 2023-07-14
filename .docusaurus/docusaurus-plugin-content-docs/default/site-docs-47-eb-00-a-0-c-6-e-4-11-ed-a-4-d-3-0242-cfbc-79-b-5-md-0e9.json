@@ -1,0 +1,28 @@
+{
+  "unversionedId": "47eb00a0-c6e4-11ed-a4d3-0242cfbc79b5",
+  "id": "47eb00a0-c6e4-11ed-a4d3-0242cfbc79b5",
+  "title": "Katalon Platform On-Premises use cases",
+  "description": "Katalon Platform On-Premises provides a combination of the abilities to orchestrate software testing cycles along with strict security compliance. In this article, we will explore the various use cases of the Katalon Platform On-Premises and how it can help teams achieve their automation testing goals.",
+  "source": "@site/docs/47eb00a0-c6e4-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises-use-cases",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises-use-cases",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "47eb00a0-c6e4-11ed-a4d3-0242cfbc79b5",
+    "title": "Katalon Platform On-Premises use cases",
+    "slug": "administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises-use-cases",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Comparison between Katalon Platform On-Premises and Katalon Platform",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/comparison-between-katalon-platform-on-premises-and-katalon-platform"
+  },
+  "next": {
+    "title": "Katalon On-Premises deployment guide",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-on-premises-deployment-guide"
+  }
+}

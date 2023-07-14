@@ -1,0 +1,28 @@
+{
+  "unversionedId": "931a97b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "931a97b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Find Image Element",
+  "description": "Note: This keyword, available in version 7.2.0+, is for Katalon Studio",
+  "source": "@site/docs/931a97b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-find-image-element",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-find-image-element",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "931a97b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Find Image Element",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-find-image-element",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Execute Mobile Command",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-execute-mobile-command"
+  },
+  "next": {
+    "title": "[Mobile] Find Image Elements",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-find-image-elements"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99b2fa40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99b2fa40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon with Winium for Desktop Applications in Katalon Studio",
+  "description": "As you may know, Katalon Studio only supports WebUI, Mobile, and   API automation testing. However, there is a workaround solution to   this problem, utilizing Winium .jar package in order to test   desktop applications.",
+  "source": "@site/docs/99b2fa40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/katalon-with-winium-for-desktop-applications-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/katalon-with-winium-for-desktop-applications-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99b2fa40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon with Winium for Desktop Applications in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/katalon-with-winium-for-desktop-applications-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set up WinAppDriver in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/windows-desktop-apps-testing/set-up-winappdriver-in-katalon-studio"
+  },
+  "next": {
+    "title": "Use client certificate for requests in API projects in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/api-testing/use-client-certificate-for-requests-in-api-projects-in-katalon-studio"
+  }
+}

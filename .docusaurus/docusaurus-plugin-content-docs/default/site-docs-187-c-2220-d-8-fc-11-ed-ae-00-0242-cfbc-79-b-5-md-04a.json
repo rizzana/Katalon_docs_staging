@@ -1,0 +1,28 @@
+{
+  "unversionedId": "187c2220-d8fc-11ed-ae00-0242cfbc79b5",
+  "id": "187c2220-d8fc-11ed-ae00-0242cfbc79b5",
+  "title": "Autonomous test generation with Katalon AI",
+  "description": "Warning: This proof of concept (PoC) is for a closed beta feature and is not ready for production use.",
+  "source": "@site/docs/187c2220-d8fc-11ed-ae00-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/proof-of-concept/autonomous-test-generation/autonomous-test-generation-with-katalon-ai",
+  "permalink": "/docs/proof-of-concept/autonomous-test-generation/autonomous-test-generation-with-katalon-ai",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "187c2220-d8fc-11ed-ae00-0242cfbc79b5",
+    "title": "Autonomous test generation with Katalon AI",
+    "slug": "proof-of-concept/autonomous-test-generation/autonomous-test-generation-with-katalon-ai",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Dependencies Management with Native Gradle Support (Poc) in Katalon Studio",
+    "permalink": "/docs/proof-of-concept/dependencies-management-with-native-gradle-support-poc-in-katalon-studio"
+  },
+  "next": {
+    "title": "Troubleshooting autonomous test generation issues",
+    "permalink": "/docs/proof-of-concept/autonomous-test-generation/troubleshooting-autonomous-test-generation-issues"
+  }
+}

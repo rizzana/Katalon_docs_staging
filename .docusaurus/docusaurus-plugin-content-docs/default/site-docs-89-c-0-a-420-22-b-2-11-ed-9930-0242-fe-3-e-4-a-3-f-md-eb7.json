@@ -1,0 +1,28 @@
+{
+  "unversionedId": "89c0a420-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "89c0a420-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Get Started with Katalium Server",
+  "description": "Set up Katalium Server",
+  "source": "@site/docs/89c0a420-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-server/get-started-with-katalium-server",
+  "permalink": "/docs/plugins-and-add-ons/katalium-server/get-started-with-katalium-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "89c0a420-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Get Started with Katalium Server",
+    "slug": "plugins-and-add-ons/katalium-server/get-started-with-katalium-server",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalium Server Overview",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/katalium-server-overview"
+  },
+  "next": {
+    "title": "Katalium Server - Execute Katalon Studio's scripts on Remote Machines",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/katalium-server---execute-katalon-studios-scripts-on-remote-machines"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b9dc890-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b9dc890-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Get started with Katalon Runtime Engine",
+  "description": "This guide shows you how to get started with Katalon Runtime Engine (KRE).",
+  "source": "@site/docs/8b9dc890-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/katalon-runtime-engine/get-started-with-katalon-runtime-engine",
+  "permalink": "/docs/execute/katalon-runtime-engine/get-started-with-katalon-runtime-engine",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b9dc890-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Get started with Katalon Runtime Engine",
+    "slug": "execute/katalon-runtime-engine/get-started-with-katalon-runtime-engine",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Runtime Engine overview",
+    "permalink": "/docs/execute/katalon-runtime-engine/katalon-runtime-engine-overview"
+  },
+  "next": {
+    "title": "Command-line syntax in Katalon Runtime Engine",
+    "permalink": "/docs/execute/katalon-runtime-engine/command-line-syntax-in-katalon-runtime-engine"
+  }
+}

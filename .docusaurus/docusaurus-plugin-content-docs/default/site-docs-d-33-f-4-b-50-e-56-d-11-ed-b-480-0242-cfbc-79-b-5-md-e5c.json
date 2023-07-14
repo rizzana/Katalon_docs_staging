@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d33f4b50-e56d-11ed-b480-0242cfbc79b5",
+  "id": "d33f4b50-e56d-11ed-b480-0242cfbc79b5",
+  "title": "Supported actions",
+  "description": "Learn the list of actions or operations that are permitted or supported in Katalon Cloud Studio (Beta). These actions are already pre-defined for users to accomplish tasks or functions in Katalon Cloud Studio (Beta).",
+  "source": "@site/docs/d33f4b50-e56d-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/supported-actions",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/supported-actions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d33f4b50-e56d-11ed-b480-0242cfbc79b5",
+    "title": "Supported actions",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/supported-actions",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create a draft test case",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/create-a-draft-test-case"
+  },
+  "next": {
+    "title": "Edit draft test case",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/edit-draft-test-case"
+  }
+}

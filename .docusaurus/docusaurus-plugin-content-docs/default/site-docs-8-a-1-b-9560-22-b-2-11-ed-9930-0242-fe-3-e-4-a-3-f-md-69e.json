@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a1b9560-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a1b9560-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Back up data automatically with Katalon Recorder",
+  "description": "Katalon Recorder data can be automatically   backed up in Katalon TestOps with   Internet-connected devices.",
+  "source": "@site/docs/8a1b9560-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/back-up-data-automatically-with-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/back-up-data-automatically-with-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a1b9560-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Back up data automatically with Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/back-up-data-automatically-with-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to extract and write data in a test case with Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-write-data-in-a-test-case-with-katalon-recorder"
+  },
+  "next": {
+    "title": "Global variables in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/global-variables-in-katalon-recorder"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "feb40610-76c1-11ed-a602-0242cfbc79b5",
+  "id": "feb40610-76c1-11ed-a602-0242cfbc79b5",
+  "title": "Search a test case by custom fields and tags",
+  "description": "After assigning custom fields and tags to your test cases, you can search test cases in the test case list by filtering custom fields and tags.",
+  "source": "@site/docs/feb40610-76c1-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/organize/manage-tests/test-case/search-a-test-case-by-custom-fields-and-tags",
+  "permalink": "/docs/organize/manage-tests/test-case/search-a-test-case-by-custom-fields-and-tags",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "feb40610-76c1-11ed-a602-0242cfbc79b5",
+    "title": "Search a test case by custom fields and tags",
+    "slug": "organize/manage-tests/test-case/search-a-test-case-by-custom-fields-and-tags",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Add Custom Fields and Tags to test cases",
+    "permalink": "/docs/organize/manage-tests/test-case/add-custom-fields-and-tags-to-test-cases"
+  },
+  "next": {
+    "title": "Manage test suites in Katalon TestOps",
+    "permalink": "/docs/organize/manage-tests/test-suite/manage-test-suites-in-katalon-testops"
+  }
+}

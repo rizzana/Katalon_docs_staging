@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8dedd310-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8dedd310-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View test case reports in Katalon TestOps",
+  "description": "You can manage test cases in Katalon TestOps to evaluate test   case quality and visualize how the test case quality improves or   worsens over time.",
+  "source": "@site/docs/8dedd310-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-case-reports-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-case-reports-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8dedd310-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View test case reports in Katalon TestOps",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-case-reports-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Download report files using REST API",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-report-files-using-rest-api"
+  },
+  "next": {
+    "title": "Failed Test Results",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/failed-test-results"
+  }
+}

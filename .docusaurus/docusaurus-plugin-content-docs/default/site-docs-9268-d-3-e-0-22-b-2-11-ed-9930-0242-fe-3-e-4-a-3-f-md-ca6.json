@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9268d3e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9268d3e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon API keys in Katalon Studio",
+  "description": "Use of Katalon API Keys in Katalon Studio",
+  "source": "@site/docs/9268d3e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/settings/katalon-api-keys-in-katalon-studio",
+  "permalink": "/docs/administer/settings/katalon-api-keys-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9268d3e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon API keys in Katalon Studio",
+    "slug": "administer/settings/katalon-api-keys-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure email notifications in TestOps",
+    "permalink": "/docs/administer/settings/configure-email-notifications-in-testops"
+  },
+  "next": {
+    "title": "Katalon API Key in Katalon TestOps",
+    "permalink": "/docs/administer/settings/katalon-api-key-in-katalon-testops"
+  }
+}

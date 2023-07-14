@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9036b1a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9036b1a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Troubleshoot Windows automated testing overview",
+  "description": "This topic lists out some of the common issues when executing Windows testing, followed by possible solutions.",
+  "source": "@site/docs/9036b1a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/troubleshoot-windows-automated-testing-overview",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/troubleshoot-windows-automated-testing-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9036b1a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Troubleshoot Windows automated testing overview",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/troubleshoot-windows-automated-testing-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Firefox Browser Alert is not getting popped up",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/firefox-browser-alert-is-not-getting-popped-up"
+  },
+  "next": {
+    "title": "The sendKeys keyword did not send the correct text with German keyboard as default settings",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/the-sendkeys-keyword-did-not-send-the-correct-text-with-german-keyboard-as-default-settings"
+  }
+}

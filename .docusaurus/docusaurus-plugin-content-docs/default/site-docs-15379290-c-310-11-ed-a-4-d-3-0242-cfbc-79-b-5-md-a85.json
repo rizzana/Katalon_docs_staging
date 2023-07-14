@@ -1,0 +1,29 @@
+{
+  "unversionedId": "15379290-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "15379290-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "TestProject migration",
+  "description": "This article demonstrates how Katalon Studio helps users migrate their TestProject project to Katalon Studio. The article also contains some of the test cases for Web, Mobile and API test migration.",
+  "source": "@site/docs/15379290-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/testproject-migration",
+  "permalink": "/docs/integrations/unsupported-integrations/testproject-migration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15379290,
+  "frontMatter": {
+    "id": "15379290-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "TestProject migration",
+    "slug": "integrations/unsupported-integrations/testproject-migration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Selenium Katalon migration",
+    "permalink": "/docs/integrations/unsupported-integrations/selenium-katalon-migration"
+  },
+  "next": {
+    "title": "Upload files for web applications",
+    "permalink": "/docs/integrations/unsupported-integrations/upload-files-for-web-applications"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "936423d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "936423d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Set Slider Value",
+  "description": "Description",
+  "source": "@site/docs/936423d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-slider-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-slider-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "936423d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Set Slider Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-slider-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Set Encrypted Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-encrypted-text"
+  },
+  "next": {
+    "title": "[Mobile] Set Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-set-text"
+  }
+}

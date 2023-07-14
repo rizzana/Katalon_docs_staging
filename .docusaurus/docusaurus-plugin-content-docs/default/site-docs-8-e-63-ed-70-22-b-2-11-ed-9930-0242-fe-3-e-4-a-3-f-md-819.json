@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e63ed70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e63ed70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create and manage builds in Katalon TestOps",
+  "description": "During the release cycle, you commonly need to test different   builds to easily track production issues. In TestOps, the Build   function allows you to associate and orchestrate the test runs   relevant to each build.",
+  "source": "@site/docs/8e63ed70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/create-and-manage-builds-in-katalon-testops",
+  "permalink": "/docs/plan/create-and-manage-builds-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e63ed70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create and manage builds in Katalon TestOps",
+    "slug": "plan/create-and-manage-builds-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create and edit releases in TestOps",
+    "permalink": "/docs/plan/create-and-edit-releases-in-testops"
+  },
+  "next": {
+    "title": "Link test runs to a release in TestOps",
+    "permalink": "/docs/plan/link-test-runs-to-a-release-in-testops"
+  }
+}

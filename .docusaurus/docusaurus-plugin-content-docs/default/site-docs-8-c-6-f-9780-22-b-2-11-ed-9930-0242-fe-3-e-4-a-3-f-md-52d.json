@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c6f9780-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c6f9780-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Upload JUnit and report files to using command line",
+  "description": "Katalon Report Uploader is a utility to upload reports to   Katalon TestOps. At this moment it supports JUnit, Katalon Studio,   and Katalon Recorder report format. It can be used with CLI,   Docker, GitHub Action, and other cloud CIs.",
+  "source": "@site/docs/8c6f9780-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/upload-test-reports/upload-junit-and-report-files-to-using-command-line",
+  "permalink": "/docs/analyze/reports/upload-test-reports/upload-junit-and-report-files-to-using-command-line",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c6f9780-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Upload JUnit and report files to using command line",
+    "slug": "analyze/reports/upload-test-reports/upload-junit-and-report-files-to-using-command-line",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Upload JUnit and Katalon Studio reports to TestOps manually",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-junit-and-katalon-studio-reports-to-testops-manually"
+  },
+  "next": {
+    "title": "Upload test reports from Mocha to Katalon TestOps",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-mocha-to-katalon-testops"
+  }
+}

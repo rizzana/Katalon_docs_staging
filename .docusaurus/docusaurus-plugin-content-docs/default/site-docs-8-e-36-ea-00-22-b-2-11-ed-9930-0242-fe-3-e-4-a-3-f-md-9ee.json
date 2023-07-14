@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e36ea00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e36ea00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Override test results status in Katalon TestOps",
+  "description": "Automated tests produce test results automatically. This means that test results are fixed unless you manually update the status of a test result to reflect actual expectations.",
+  "source": "@site/docs/8e36ea00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/manage-reports/override-test-results-status-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/manage-reports/override-test-results-status-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e36ea00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Override test results status in Katalon TestOps",
+    "slug": "analyze/reports/manage-reports/override-test-results-status-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Add mail recipients in Katalon Studio test suites",
+    "permalink": "/docs/analyze/reports/manage-reports/add-mail-recipients-in-katalon-studio-test-suites"
+  },
+  "next": {
+    "title": "Filter test run list by build name in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/manage-reports/filter-test-run-list-by-build-name-in-katalon-testops"
+  }
+}

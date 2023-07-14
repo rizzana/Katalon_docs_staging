@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93e53ab0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93e53ab0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Validate JSON string against a schema",
+  "description": "Requirements",
+  "source": "@site/docs/93e53ab0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-json-string-against-a-schema",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-json-string-against-a-schema",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93e53ab0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Validate JSON string against a schema",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-json-string-against-a-schema",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WS] Validate GraphQL request against a GraphQL schema",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-graphql-request-against-a-graphql-schema"
+  },
+  "next": {
+    "title": "[WS] Validate an XML string against a schema",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-validate-an-xml-string-against-a-schema"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "7779c7b0-f54d-11ed-878a-0242c7a41fd4",
+  "id": "7779c7b0-f54d-11ed-878a-0242c7a41fd4",
+  "title": "WireMock integration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/7779c7b0-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/wiremock-integration",
+  "permalink": "/docs/integrations/unsupported-integrations/wiremock-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "7779c7b0-f54d-11ed-878a-0242c7a41fd4",
+    "title": "WireMock integration",
+    "slug": "integrations/unsupported-integrations/wiremock-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Upload files for web applications",
+    "permalink": "/docs/integrations/unsupported-integrations/upload-files-for-web-applications"
+  },
+  "next": {
+    "title": "Zephyr Scale",
+    "permalink": "/docs/integrations/unsupported-integrations/zephyr-scale"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "de3bf8e0-fec8-11ed-878a-0242c7a41fd4",
+  "id": "de3bf8e0-fec8-11ed-878a-0242c7a41fd4",
+  "title": "Test automation workflow",
+  "description": "The following is an overview of the test automation workflow with Katalon Cloud Studio (Beta), from creating your draft test cases to scheduling a test run of your Katalon Cloud Studio (Beta) test suite.",
+  "source": "@site/docs/de3bf8e0-fec8-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/test-automation-workflow",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/test-automation-workflow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "de3bf8e0-fec8-11ed-878a-0242c7a41fd4",
+    "title": "Test automation workflow",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/test-automation-workflow",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Toolbars and icons in Katalon Cloud Studio (Beta)",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/toolbars-and-icons-in-katalon-cloud-studio-beta"
+  },
+  "next": {
+    "title": "Draft test case",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/draft-test-case"
+  }
+}

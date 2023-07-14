@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94fb1780-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94fb1780-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Wait for Element Present",
+  "description": "Note:",
+  "source": "@site/docs/94fb1780-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-wait-for-element-present",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-wait-for-element-present",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94fb1780-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Wait for Element Present",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-wait-for-element-present",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Wait for Element Not Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-wait-for-element-not-present"
+  },
+  "next": {
+    "title": "[Cucumber] Run Feature File with Tags",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-file-with-tags"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "de0b9560-d8fd-11ed-ae00-0242cfbc79b5",
+  "id": "de0b9560-d8fd-11ed-ae00-0242cfbc79b5",
+  "title": "Upload JUnit and Katalon Studio reports to TestOps manually",
+  "description": "You can manually upload JUnit reports and Katalon Studio test results to Katalon TestOps.",
+  "source": "@site/docs/de0b9560-d8fd-11ed-ae00-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/upload-test-reports/upload-junit-and-katalon-studio-reports-to-testops-manually",
+  "permalink": "/docs/analyze/reports/upload-test-reports/upload-junit-and-katalon-studio-reports-to-testops-manually",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "de0b9560-d8fd-11ed-ae00-0242cfbc79b5",
+    "title": "Upload JUnit and Katalon Studio reports to TestOps manually",
+    "slug": "analyze/reports/upload-test-reports/upload-junit-and-katalon-studio-reports-to-testops-manually",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Upload test results from Katalon Studio to Katalon TestOps manually",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-test-results-from-katalon-studio-to-katalon-testops-manually"
+  },
+  "next": {
+    "title": "Upload JUnit and report files to using command line",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-junit-and-report-files-to-using-command-line"
+  }
+}

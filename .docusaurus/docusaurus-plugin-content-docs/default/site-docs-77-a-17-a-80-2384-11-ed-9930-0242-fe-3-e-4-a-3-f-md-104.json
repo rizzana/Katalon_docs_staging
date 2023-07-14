@@ -1,0 +1,28 @@
+{
+  "unversionedId": "77a17a80-2384-11ed-9930-0242fe3e4a3f",
+  "id": "77a17a80-2384-11ed-9930-0242fe3e4a3f",
+  "title": "Test Execution Overview",
+  "description": "Katalon Platform offers a variety of test execution solutions, giving testers the flexibility of choosing the execution environments and behaviors. This document is an overview of test execution methods offered by Katalon Platform and their common use cases.",
+  "source": "@site/docs/77a17a80-2384-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-overview",
+  "permalink": "/docs/execute/test-execution-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "77a17a80-2384-11ed-9930-0242fe3e4a3f",
+    "title": "Test Execution Overview",
+    "slug": "execute/test-execution-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "TestLink Integration",
+    "permalink": "/docs/organize/integration-for-organizing-tests/testlink-integration"
+  },
+  "next": {
+    "title": "Execute tests with Katalon Studio overview",
+    "permalink": "/docs/execute/test-execution-with-katalon-studio/execute-tests-with-katalon-studio-overview"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "95aa9160-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "95aa9160-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Import Selenium IDE version 3 projects to Katalon Studio",
+  "description": "In addition to importing Selenium/TestNG/JUnit projects into Katalon Studio, from version 7.5.10 onwards, you can also import a Selenium IDE project for execution with Katalon Studio.",
+  "source": "@site/docs/95aa9160-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/migration-from-other-tools/import-selenium-ide-version-3-projects-to-katalon-studio",
+  "permalink": "/docs/get-started/migration-from-other-tools/import-selenium-ide-version-3-projects-to-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "95aa9160-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Import Selenium IDE version 3 projects to Katalon Studio",
+    "slug": "get-started/migration-from-other-tools/import-selenium-ide-version-3-projects-to-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Selenium/TestNG/JUnit Migration to Katalon Studio",
+    "permalink": "/docs/get-started/migration-from-other-tools/seleniumtestngjunit-migration-to-katalon-studio"
+  },
+  "next": {
+    "title": "Set up overview in Katalon Platform",
+    "permalink": "/docs/get-started/set-up-your-workspace/set-up-overview-in-katalon-platform"
+  }
+}

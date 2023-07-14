@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d26b280-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d26b280-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create a local test environment with an Agent",
+  "description": "A Katalon Agent manages a local server for executing the scheduled test runs in a local test environment.",
+  "source": "@site/docs/8d26b280-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/local-test-environments/create-a-local-test-environment-with-an-agent",
+  "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/create-a-local-test-environment-with-an-agent",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d26b280-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create a local test environment with an Agent",
+    "slug": "execute/test-execution-with-testops/local-test-environments/create-a-local-test-environment-with-an-agent",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test execution with TestOps",
+    "permalink": "/docs/execute/test-execution-with-testops/test-execution-with-testops"
+  },
+  "next": {
+    "title": "Load balancing for local test environments",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/load-balancing-for-local-test-environments"
+  }
+}

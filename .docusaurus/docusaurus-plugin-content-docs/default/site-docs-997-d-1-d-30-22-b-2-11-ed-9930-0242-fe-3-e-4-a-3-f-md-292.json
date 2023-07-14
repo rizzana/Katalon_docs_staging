@@ -1,0 +1,28 @@
+{
+  "unversionedId": "997d1d30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "997d1d30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View captured screenshots in Katalon Studio reports",
+  "description": "With Katalon Studio, you can capture screenshots during test   execution.",
+  "source": "@site/docs/997d1d30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-captured-screenshots-in-katalon-studio-reports",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-captured-screenshots-in-katalon-studio-reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "997d1d30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View captured screenshots in Katalon Studio reports",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-captured-screenshots-in-katalon-studio-reports",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View test suite analytics in Katalon Studio",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-test-suite-analytics-in-katalon-studio"
+  },
+  "next": {
+    "title": "View BDD reports in Katalon Studio",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-bdd-reports-in-katalon-studio"
+  }
+}

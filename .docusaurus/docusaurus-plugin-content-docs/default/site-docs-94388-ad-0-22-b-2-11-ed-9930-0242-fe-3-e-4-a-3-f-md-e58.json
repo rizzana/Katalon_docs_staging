@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94388ad0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94388ad0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Get Number Of Total Option",
+  "description": "Description",
+  "source": "@site/docs/94388ad0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-number-of-total-option",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-number-of-total-option",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94388ad0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Get Number Of Total Option",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-number-of-total-option",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get Number Of Selected Option",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-number-of-selected-option"
+  },
+  "next": {
+    "title": "[WebUI] Get Page Height",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-page-height"
+  }
+}

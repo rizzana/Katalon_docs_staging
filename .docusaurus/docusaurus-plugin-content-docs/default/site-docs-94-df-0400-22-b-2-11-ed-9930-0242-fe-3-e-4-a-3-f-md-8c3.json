@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94df0400-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94df0400-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Close Application",
+  "description": "Note:",
+  "source": "@site/docs/94df0400-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-close-application",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-close-application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94df0400-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Close Application",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-close-application",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Clear Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-clear-text"
+  },
+  "next": {
+    "title": "[Windows] Click",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-click"
+  }
+}

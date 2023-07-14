@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bd664c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bd664c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Store on Plugin document guidelines",
+  "description": "Katalon Store  on Plugin document requirements",
+  "source": "@site/docs/8bd664c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-on-plugin-document-guidelines",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-on-plugin-document-guidelines",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bd664c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Store on Plugin document guidelines",
+    "slug": "plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-on-plugin-document-guidelines",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Submit and publish a new plugin on Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/submit-and-publish-a-new-plugin-on-katalon-store"
+  },
+  "next": {
+    "title": "Brand guidelines for Katalon Store publishers",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/brand-guidelines-for-katalon-store-publishers"
+  }
+}

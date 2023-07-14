@@ -1,0 +1,28 @@
+{
+  "unversionedId": "955ca880-f816-11ed-878a-0242c7a41fd4",
+  "id": "955ca880-f816-11ed-878a-0242c7a41fd4",
+  "title": "Security and Privacy FAQ",
+  "description": "Where is the TestOps  cloud hosted?",
+  "source": "@site/docs/955ca880-f816-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/security-and-privacy-faq",
+  "permalink": "/docs/security-and-privacy-faq",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "955ca880-f816-11ed-878a-0242c7a41fd4",
+    "title": "Security and Privacy FAQ",
+    "slug": "security-and-privacy-faq",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "StudioAssist in Katalon Studio",
+    "permalink": "/docs/proof-of-concept/studioassist-in-katalon-studio"
+  },
+  "next": {
+    "title": "Customer support FAQs",
+    "permalink": "/docs/customer-support-faqs"
+  }
+}

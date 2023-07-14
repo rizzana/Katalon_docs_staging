@@ -1,0 +1,28 @@
+{
+  "unversionedId": "7a540870-ae8e-11ed-998d-0242cfbc79b5",
+  "id": "7a540870-ae8e-11ed-998d-0242cfbc79b5",
+  "title": "Configure email notifications in TestOps",
+  "description": "Katalon TestOps sends notification emails to help you keep track of scheduled test runs. You can receive notification emails when test runs are uploaded to TestOps.",
+  "source": "@site/docs/7a540870-ae8e-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/settings/configure-email-notifications-in-testops",
+  "permalink": "/docs/administer/settings/configure-email-notifications-in-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "7a540870-ae8e-11ed-998d-0242cfbc79b5",
+    "title": "Configure email notifications in TestOps",
+    "slug": "administer/settings/configure-email-notifications-in-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Account Settings",
+    "permalink": "/docs/administer/administration-tasks/account-settings/account-settings"
+  },
+  "next": {
+    "title": "Katalon API keys in Katalon Studio",
+    "permalink": "/docs/administer/settings/katalon-api-keys-in-katalon-studio"
+  }
+}

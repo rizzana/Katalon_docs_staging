@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93142f10-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93142f10-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Double Tap",
+  "description": "Note:",
+  "source": "@site/docs/93142f10-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-double-tap",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-double-tap",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93142f10-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Double Tap",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-double-tap",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Drag And Drop",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-drag-and-drop"
+  },
+  "next": {
+    "title": "[Mobile] Execute Mobile Command",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-execute-mobile-command"
+  }
+}

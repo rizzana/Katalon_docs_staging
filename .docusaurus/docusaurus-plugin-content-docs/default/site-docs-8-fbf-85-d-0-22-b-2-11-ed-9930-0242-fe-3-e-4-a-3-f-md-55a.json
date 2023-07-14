@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fbf85d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fbf85d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Binary Statements",
+  "description": "A Binary statement represents a dual expression consisting of two single&nbsp;expressions&nbsp;(variables, strings, numbers, methods...) and an operator, for example&nbsp;Operators.",
+  "source": "@site/docs/8fbf85d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/statements/binary-statements",
+  "permalink": "/docs/create-tests/create-test-cases/statements/binary-statements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fbf85d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Binary Statements",
+    "slug": "create-tests/create-test-cases/statements/binary-statements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Exception Handling statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/exception-handling-statements"
+  },
+  "next": {
+    "title": "Method Call Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/method-call-statements"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99203020-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99203020-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Implement data-driven testing with MySQL",
+  "description": "From Katalon Studio v8.0.0 onwards, the built-in JDBC driver for MySQL is removed; instead, you can choose to install your preferred version of JDBC driver.",
+  "source": "@site/docs/99203020-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/data-driven-testing/implement-data-driven-testing-with-mysql",
+  "permalink": "/docs/create-tests/data-driven-testing/implement-data-driven-testing-with-mysql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99203020-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Implement data-driven testing with MySQL",
+    "slug": "create-tests/data-driven-testing/implement-data-driven-testing-with-mysql",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure database connection for data-driven testing in Katalon Studio",
+    "permalink": "/docs/create-tests/data-driven-testing/configure-database-connection-for-data-driven-testing-in-katalon-studio"
+  },
+  "next": {
+    "title": "Introduction to custom keywords in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/introduction-to-custom-keywords-in-katalon-studio"
+  }
+}

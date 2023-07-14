@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93c57db0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93c57db0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Contains String",
+  "description": "Description",
+  "source": "@site/docs/93c57db0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-contains-string",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-contains-string",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93c57db0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Contains String",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-contains-string",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Take Screenshot As Checkpoint",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-mobile-testing-keywords/mobile-take-screenshot-as-checkpoint"
+  },
+  "next": {
+    "title": "[WS] Get Elements Count",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-elements-count"
+  }
+}

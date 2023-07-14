@@ -1,0 +1,28 @@
+{
+  "unversionedId": "274077c0-707e-11ed-a602-0242cfbc79b5",
+  "id": "274077c0-707e-11ed-a602-0242cfbc79b5",
+  "title": "Accessibility test automation in Katalon Studio",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/274077c0-707e-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/accessibility-test-automation-in-katalon-studio",
+  "permalink": "/docs/integrations/unsupported-integrations/accessibility-test-automation-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "274077c0-707e-11ed-a602-0242cfbc79b5",
+    "title": "Accessibility test automation in Katalon Studio",
+    "slug": "integrations/unsupported-integrations/accessibility-test-automation-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Supported integrations in Katalon Platform",
+    "permalink": "/docs/integrations/supported-integrations/supported-integrations-in-katalon-platform"
+  },
+  "next": {
+    "title": "Canvas automation",
+    "permalink": "/docs/integrations/unsupported-integrations/canvas-automation"
+  }
+}

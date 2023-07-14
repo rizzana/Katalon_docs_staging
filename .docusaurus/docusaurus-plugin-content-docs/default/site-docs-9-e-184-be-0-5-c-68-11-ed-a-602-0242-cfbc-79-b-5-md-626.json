@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9e184be0-5c68-11ed-a602-0242cfbc79b5",
+  "id": "9e184be0-5c68-11ed-a602-0242cfbc79b5",
+  "title": "Integrate Katalon Studio with Microsoft Teams",
+  "description": "This document shows you how to integrate Katalon Studio with Microsoft Teams so that your team can receive a real-time summary of your test execution results in your Microsoft Teams channels.",
+  "source": "@site/docs/9e184be0-5c68-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/integration-for-test-analyzing/integrate-katalon-studio-with-microsoft-teams",
+  "permalink": "/docs/analyze/integration-for-test-analyzing/integrate-katalon-studio-with-microsoft-teams",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9e184be0-5c68-11ed-a602-0242cfbc79b5",
+    "title": "Integrate Katalon Studio with Microsoft Teams",
+    "slug": "analyze/integration-for-test-analyzing/integrate-katalon-studio-with-microsoft-teams",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manage test reports with Slack - Katalon TestOps integration",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/slack-integration/manage-test-reports-with-slack---katalon-testops-integration"
+  },
+  "next": {
+    "title": "View and upload Katalon Studio test execution results to qTest",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/qtest-integration/view-and-upload-katalon-studio-test-execution-results-to-qtest"
+  }
+}

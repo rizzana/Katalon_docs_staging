@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8dfc2af0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8dfc2af0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Platform coverage reports",
+  "description": "Requirements",
+  "source": "@site/docs/8dfc2af0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/platform-coverage-reports",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/platform-coverage-reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8dfc2af0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Platform coverage reports",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/platform-coverage-reports",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Quality reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/quality-reports"
+  },
+  "next": {
+    "title": "Requirement coverage reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/requirement-coverage-reports"
+  }
+}

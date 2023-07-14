@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bd5c880-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bd5c880-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Store Plugin approval guidelines",
+  "description": "After developing and testing your plugin, your next step is to   submit it for approval. To uphold standards of quality and   reliability that our users expect, all publicly listed plugins are   subject to an approval process.",
+  "source": "@site/docs/8bd5c880-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-plugin-approval-guidelines",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-plugin-approval-guidelines",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bd5c880-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Store Plugin approval guidelines",
+    "slug": "plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-plugin-approval-guidelines",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Brand guidelines for Katalon Store publishers",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/brand-guidelines-for-katalon-store-publishers"
+  },
+  "next": {
+    "title": "Manage published plugins on Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/manage-published-plugins-on-katalon-store"
+  }
+}

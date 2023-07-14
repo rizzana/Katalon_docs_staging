@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9147fa90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9147fa90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Applitools Integration in Katalon Studio",
+  "description": "Note Applitools Integration. From version 7.6.0 to 8.5.2, Applitools Integration is a built-in Katalon Studio Enterprise feature.",
+  "source": "@site/docs/9147fa90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/applitools-integration-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/applitools-integration-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9147fa90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Applitools Integration in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/applitools-integration-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Using autoIT for authentication in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/using-autoit-for-authentication-in-katalon-studio"
+  },
+  "next": {
+    "title": "Performing Pinch to Zoom In Action in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/mobile-testing/performing-pinch-to-zoom-in-action-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94e8c800-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94e8c800-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Right-click Element Offset",
+  "description": "Requirements",
+  "source": "@site/docs/94e8c800-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click-element-offset",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click-element-offset",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94e8c800-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Right-click Element Offset",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click-element-offset",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Right-click",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click"
+  },
+  "next": {
+    "title": "[Windows] Set Encrypted Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-set-encrypted-text"
+  }
+}

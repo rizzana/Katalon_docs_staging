@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94490590-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94490590-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Maximize Window",
+  "description": "Description",
+  "source": "@site/docs/94490590-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-maximize-window",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-maximize-window",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94490590-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Maximize Window",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-maximize-window",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Get Window Title",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-get-window-title"
+  },
+  "next": {
+    "title": "[WebUI] Modify Object Property",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-modify-object-property"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9381e500-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9381e500-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Toggle Airplane Mode",
+  "description": "Note: This keyword has been disabled by Android OS since API level 24 (Android 7).To turn airplane mode on/off, you can open the Settings app or swipe down the Control Center, then click/tap the Airplane Mode button as a workaround.",
+  "source": "@site/docs/9381e500-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-airplane-mode",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-airplane-mode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9381e500-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Toggle Airplane Mode",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-airplane-mode",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Tap on Image",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap-on-image"
+  },
+  "next": {
+    "title": "[Mobile] Toggle Wifi",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-toggle-wifi"
+  }
+}

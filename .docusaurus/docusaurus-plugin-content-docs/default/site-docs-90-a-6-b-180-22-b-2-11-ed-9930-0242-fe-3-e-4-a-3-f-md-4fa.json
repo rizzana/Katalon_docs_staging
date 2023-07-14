@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90a6b180-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90a6b180-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Integration Plugins on Katalon Store",
+  "description": "Jira         Integration - Link to Jira tickets, sync results, and submit       issues. Learn         more             Slack         Integration - Stay on track of execution results on your Slack       channel. Learn         more             Kobiton         Integration - Enable integration between Kobiton and Katalon       Studio.        Sauce         Labs Integration - Enables integration between Katalon Studio       and Sauce Labs by providing the capability to execute tests with       Sauce Labs browser and update Sauce labs job’s information       with test case’s name and run status. Learn         more             BrowserStack         Integration - BrowserStack Connect is a plugin developed for       Katalon Studio. It allows you to use the BrowserStack Devices Farm       from an automated test cases. Learn         more             Applitools         Integration - AI powered end-to-end visual testing with       Applitools. Available starting Katalon Studio 6.1.2. Learn         more             Rally         Integration - Seamless integration between Rally and Katalon       Studio. Learn         more             qTest         Integration - Seamless integration between Katalon Studio with       qTest Manager. Learn         more             TestRail         Integration - Link to TestRail test cases and test suites. Send       results and provide TestRail query standards. Learn         more             TestLink         Integration - This custom keywords plugin is a useful tool to       integrate with TestLink. Learn         more",
+  "source": "@site/docs/90a6b180-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-studio-plugins/integration-plugins-on-katalon-store",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/integration-plugins-on-katalon-store",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90a6b180-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Integration Plugins on Katalon Store",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-studio-plugins/integration-plugins-on-katalon-store",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Manage published plugins on Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/manage-published-plugins-on-katalon-store"
+  },
+  "next": {
+    "title": "Using Katalon Store Plugins",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/using-katalon-store-plugins"
+  }
+}

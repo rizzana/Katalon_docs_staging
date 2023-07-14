@@ -1,0 +1,28 @@
+{
+  "unversionedId": "91059a60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "91059a60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Sample projects overview",
+  "description": "Important Installation.",
+  "source": "@site/docs/91059a60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/sample-projects-overview",
+  "permalink": "/docs/get-started/sample-projects/sample-projects-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "91059a60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Sample projects overview",
+    "slug": "get-started/sample-projects/sample-projects-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set a new default JRE for test projects in Katalon Studio",
+    "permalink": "/docs/get-started/set-up-your-workspace/katalon-studio-preferences/set-a-new-default-jre-for-test-projects-in-katalon-studio"
+  },
+  "next": {
+    "title": "[WebUI] Create and Run Web UI Test Case using Record and Playback in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9511fae0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9511fae0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Supported integrations in Katalon Platform",
+  "description": "This section shows you the supported integrations in Katalon Platform.",
+  "source": "@site/docs/9511fae0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/supported-integrations/supported-integrations-in-katalon-platform",
+  "permalink": "/docs/integrations/supported-integrations/supported-integrations-in-katalon-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9511fae0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Supported integrations in Katalon Platform",
+    "slug": "integrations/supported-integrations/supported-integrations-in-katalon-platform",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Oops! There's something wrong with this invitation.",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/oops-theres-something-wrong-with-this-invitation."
+  },
+  "next": {
+    "title": "Accessibility test automation in Katalon Studio",
+    "permalink": "/docs/integrations/unsupported-integrations/accessibility-test-automation-in-katalon-studio"
+  }
+}

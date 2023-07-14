@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94e1c320-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94e1c320-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Find Elements",
+  "description": "Note:",
+  "source": "@site/docs/94e1c320-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-find-elements",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-find-elements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94e1c320-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Find Elements",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-find-elements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Find Element",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-find-element"
+  },
+  "next": {
+    "title": "[Windows] Get Attribute",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-get-attribute"
+  }
+}

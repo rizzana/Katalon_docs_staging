@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3023fc30-42b2-11ed-a602-0242cfbc79b5",
+  "id": "3023fc30-42b2-11ed-a602-0242cfbc79b5",
+  "title": "Run mobile native application tests on TestCloud",
+  "description": "TestCloud allows you to perform automated tests on mobile native applications. You can upload a mobile application and tests developed locally in Katalon Studio to TestOps, and then use TestCloud to orchestrate test executions without having to set up local emulators or simulators.",
+  "source": "@site/docs/3023fc30-42b2-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/run-mobile-native-application-tests-on-testcloud",
+  "permalink": "/docs/execute/test-execution-with-testcloud/run-mobile-native-application-tests-on-testcloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "3023fc30-42b2-11ed-a602-0242cfbc79b5",
+    "title": "Run mobile native application tests on TestCloud",
+    "slug": "execute/test-execution-with-testcloud/run-mobile-native-application-tests-on-testcloud",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Run tests on mobile browsers with TestCloud",
+    "permalink": "/docs/execute/test-execution-with-testcloud/run-tests-on-mobile-browsers-with-testcloud"
+  },
+  "next": {
+    "title": "Override test environments in a test suite collection",
+    "permalink": "/docs/execute/test-execution-with-testcloud/override-test-environments-in-a-test-suite-collection"
+  }
+}

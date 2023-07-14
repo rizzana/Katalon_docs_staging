@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98752310-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "98752310-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Handling drag and drop testing for web applications with Katalon Studio",
+  "description": "Drag and drop is a fairly popular approach in modern websites to improve their overall UX. However, it could be very challenging to implement automation test for drag and drop components.",
+  "source": "@site/docs/98752310-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/custom-keywords/handling-drag-and-drop-testing-for-web-applications-with-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/custom-keywords/handling-drag-and-drop-testing-for-web-applications-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98752310-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Handling drag and drop testing for web applications with Katalon Studio",
+    "slug": "create-tests/keywords/custom-keywords/handling-drag-and-drop-testing-for-web-applications-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to use a custom keyword from other custom keywords and step definition classes in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/how-to-use-a-custom-keyword-from-other-custom-keywords-and-step-definition-classes-in-katalon-studio"
+  },
+  "next": {
+    "title": "Execute test with Katalon Studio in Internet Explorer (IE) mode in Microsoft Edge",
+    "permalink": "/docs/create-tests/keywords/custom-keywords/execute-test-with-katalon-studio-in-internet-explorer-ie-mode-in-microsoft-edge"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "43db7db0-faeb-11ed-878a-0242c7a41fd4",
+  "id": "43db7db0-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Use the keyboard keys while automating Android apps",
+  "description": "Import   the following library on the top of your test script.     import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory{\"\\n\"}{\"\\n\"}import io.appium.javaclient.android.AndroidDriver{\"\\n\"}import io.appium.javaclient.android.AndroidKeyCode{\"\\n\"}Then use this code to access the keys where AndroidKeyCode is an enum with all of the possible key entries, for example  KEYCODE0, KEYCODEA.AndroidDriver&lt;?&gt; driver = MobileDriverFactory.getDriver(){\"\\n\"}driver.pressKeyCode(AndroidKeyCode.ENTER)Refer to this list of Android keys.You can also refer to the video demonstration below:",
+  "source": "@site/docs/43db7db0-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/android/use-the-keyboard-keys-while-automating-android-apps",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/use-the-keyboard-keys-while-automating-android-apps",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "43db7db0-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Use the keyboard keys while automating Android apps",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/android/use-the-keyboard-keys-while-automating-android-apps",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Configure fingerprint setting in an Android emulator",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/configure-fingerprint-setting-in-an-android-emulator"
+  },
+  "next": {
+    "title": "[Mobile] iOS Setup (Simulators) in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/ios/mobile-ios-setup-simulators-in-katalon-studio"
+  }
+}

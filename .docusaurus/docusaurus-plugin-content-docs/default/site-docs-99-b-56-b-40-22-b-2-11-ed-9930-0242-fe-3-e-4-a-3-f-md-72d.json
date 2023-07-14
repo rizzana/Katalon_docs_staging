@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99b56b40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99b56b40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Reduce Execution Time in Mobile Testing in Katalon Studio",
+  "description": "To speed up a test suite's execution, we recommend starting the   application once in the first test case and resetting it in each   remaining test case with the following snippet:",
+  "source": "@site/docs/99b56b40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/reduce-execution-time-in-mobile-testing-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/reduce-execution-time-in-mobile-testing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99b56b40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Reduce Execution Time in Mobile Testing in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/reduce-execution-time-in-mobile-testing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Testing Web App on Mobile Browsers in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/testing-web-app-on-mobile-browsers-in-katalon-studio"
+  },
+  "next": {
+    "title": "Retrieve mobile's session in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/retrieve-mobiles-session-in-katalon-studio"
+  }
+}

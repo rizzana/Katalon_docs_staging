@@ -1,0 +1,28 @@
+{
+  "unversionedId": "43eb8340-faeb-11ed-878a-0242c7a41fd4",
+  "id": "43eb8340-faeb-11ed-878a-0242c7a41fd4",
+  "title": "Upload test results from Katalon Studio to Katalon TestOps manually",
+  "description": "Upload test results from Katalon Studio to Katalon TestOps manually",
+  "source": "@site/docs/43eb8340-faeb-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/upload-test-reports/upload-test-results-from-katalon-studio-to-katalon-testops-manually",
+  "permalink": "/docs/analyze/reports/upload-test-reports/upload-test-results-from-katalon-studio-to-katalon-testops-manually",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "43eb8340-faeb-11ed-878a-0242c7a41fd4",
+    "title": "Upload test results from Katalon Studio to Katalon TestOps manually",
+    "slug": "analyze/reports/upload-test-reports/upload-test-results-from-katalon-studio-to-katalon-testops-manually",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Generate screen-based videos in Katalon Studio reports",
+    "permalink": "/docs/analyze/reports/generate-test-reports/generate-screen-based-videos-in-katalon-studio-reports"
+  },
+  "next": {
+    "title": "Upload JUnit and Katalon Studio reports to TestOps manually",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-junit-and-katalon-studio-reports-to-testops-manually"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8afb4700-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8afb4700-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Bamboo Add-on",
+  "description": "Note: Katalon TestOps CI is an easier way to execute Katalon Studio tests remotely or schedule remote Katalon Studio execution. Learn more .",
+  "source": "@site/docs/8afb4700-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/bamboo-add-on",
+  "permalink": "/docs/execute/cicd-integrations/bamboo-add-on",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8afb4700-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Bamboo Add-on",
+    "slug": "execute/cicd-integrations/bamboo-add-on",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Azure DevOps Integration",
+    "permalink": "/docs/execute/cicd-integrations/azure-devops-integration"
+  },
+  "next": {
+    "title": "CircleCI - Katalon Orb",
+    "permalink": "/docs/execute/cicd-integrations/circleci---katalon-orb"
+  }
+}

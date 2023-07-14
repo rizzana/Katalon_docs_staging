@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8aab0420-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8aab0420-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Export test projects from Katalon Recorder",
+  "description": "From version 5.6.0 onwards, Katalon Recorder (KR) you can export multiple tests into a single file. This file is compatible with many other frameworks, such as Katalon Studio, Java Maven or Python. From version 5.9.0 onwards, you can export your project to Selenium 4.",
+  "source": "@site/docs/8aab0420-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-test-projects-from-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-test-projects-from-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8aab0420-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Export test projects from Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-test-projects-from-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Export Katalon Recorder scripts to other frameworks",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-katalon-recorder-scripts-to-other-frameworks"
+  },
+  "next": {
+    "title": "Writing Custom Script Formatter in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/writing-custom-script-formatter-in-katalon-recorder"
+  }
+}

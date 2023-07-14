@@ -1,0 +1,28 @@
+{
+  "unversionedId": "6417b040-2449-11ed-9930-0242fe3e4a3f",
+  "id": "6417b040-2449-11ed-9930-0242fe3e4a3f",
+  "title": "Introduction to test planning",
+  "description": "Planning is the activity where you decide your testing strategy, e.g.,  which covered issues you want to validate, how you  validate them,  how  the resources are allocated, and when to  execute the tests. Depending on several factors, you may want to prioritize some  tests or focus on specific requirements.",
+  "source": "@site/docs/6417b040-2449-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/introduction-to-test-planning",
+  "permalink": "/docs/plan/introduction-to-test-planning",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "6417b040-2449-11ed-9930-0242fe3e4a3f",
+    "title": "Introduction to test planning",
+    "slug": "plan/introduction-to-test-planning",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Sample API tests project in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/api/sample-api-tests-project-in-katalon-studio"
+  },
+  "next": {
+    "title": "Create and edit releases in TestOps",
+    "permalink": "/docs/plan/create-and-edit-releases-in-testops"
+  }
+}

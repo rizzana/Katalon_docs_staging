@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93ce5750-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93ce5750-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WS] Get Response Status Code",
+  "description": "Description",
+  "source": "@site/docs/93ce5750-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-response-status-code",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-response-status-code",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93ce5750-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WS] Get Response Status Code",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-response-status-code",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WS] Get HAR File Generation",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-get-har-file-generation"
+  },
+  "next": {
+    "title": "[WS] Send Request",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-send-request"
+  }
+}

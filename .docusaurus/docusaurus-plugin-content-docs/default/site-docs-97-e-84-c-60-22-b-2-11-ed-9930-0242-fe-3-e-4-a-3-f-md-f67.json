@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97e84c60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97e84c60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Web Image-based Testing in Katalon Studio",
+  "description": "Katalon Studio provides an image locator method to associate   Test Objects with images. With this method, you can perform   image-based testing when elements of the web application under   tests (AUT) retain their appearance even though the underlying   structures have changed.",
+  "source": "@site/docs/97e84c60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/web-test-objects/web-image-based-testing-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/web-test-objects/web-image-based-testing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97e84c60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Web Image-based Testing in Katalon Studio",
+    "slug": "create-tests/test-objects/web-test-objects/web-image-based-testing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Automation testing of shadow DOM elements with Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/automation-testing-of-shadow-dom-elements-with-katalon-studio"
+  },
+  "next": {
+    "title": "Optimizing Object Identification and Tools in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/optimizing-object-identification-and-tools-in-katalon-studio"
+  }
+}

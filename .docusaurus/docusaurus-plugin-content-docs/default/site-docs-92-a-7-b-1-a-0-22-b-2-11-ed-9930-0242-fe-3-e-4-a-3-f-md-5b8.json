@@ -1,0 +1,28 @@
+{
+  "unversionedId": "92a7b1a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "92a7b1a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage test reports in Slack - Katalon Studio integration",
+  "description": "The Slack Integration Plugin allows you to receive test   execution results from Katalon Studio to a Slack channel in   real-time.",
+  "source": "@site/docs/92a7b1a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/integration-for-test-analyzing/slack-integration/manage-test-reports-in-slack---katalon-studio-integration",
+  "permalink": "/docs/analyze/integration-for-test-analyzing/slack-integration/manage-test-reports-in-slack---katalon-studio-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "92a7b1a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage test reports in Slack - Katalon Studio integration",
+    "slug": "analyze/integration-for-test-analyzing/slack-integration/manage-test-reports-in-slack---katalon-studio-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Link test runs to Jira defects in Katalon TestOps",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/jira-integration/link-test-runs-to-jira-defects-in-katalon-testops"
+  },
+  "next": {
+    "title": "Manage test reports with Slack - Katalon TestOps integration",
+    "permalink": "/docs/analyze/integration-for-test-analyzing/slack-integration/manage-test-reports-with-slack---katalon-testops-integration"
+  }
+}

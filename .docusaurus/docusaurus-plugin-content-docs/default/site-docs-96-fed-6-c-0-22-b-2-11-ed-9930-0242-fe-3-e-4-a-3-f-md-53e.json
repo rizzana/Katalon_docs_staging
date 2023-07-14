@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96fed6c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96fed6c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Using Web Services in a test case in Katalon Studio",
+  "description": "Katalon Studio supports various ways to use a Web Service object   in a test case. You can call the web service methods from manual   view (keywords test), script view (test scripts), and verify the   responses.",
+  "source": "@site/docs/96fed6c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/using-web-services-in-a-test-case-in-katalon-studio",
+  "permalink": "/docs/create-tests/create-test-cases/using-web-services-in-a-test-case-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96fed6c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Using Web Services in a test case in Katalon Studio",
+    "slug": "create-tests/create-test-cases/using-web-services-in-a-test-case-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create your first API test with Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/create-your-first-api-test-with-katalon-studio"
+  },
+  "next": {
+    "title": "Create BDD test cases in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/create-bdd-test-cases-in-katalon-studio"
+  }
+}

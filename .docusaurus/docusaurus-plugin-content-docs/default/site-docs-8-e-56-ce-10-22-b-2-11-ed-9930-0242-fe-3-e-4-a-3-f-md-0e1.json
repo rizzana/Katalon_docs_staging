@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e56ce10-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e56ce10-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage test suites in Katalon TestOps",
+  "description": "You can create, update and manage test suites in Katalon TestOps.",
+  "source": "@site/docs/8e56ce10-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/organize/manage-tests/test-suite/manage-test-suites-in-katalon-testops",
+  "permalink": "/docs/organize/manage-tests/test-suite/manage-test-suites-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e56ce10-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage test suites in Katalon TestOps",
+    "slug": "organize/manage-tests/test-suite/manage-test-suites-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Search a test case by custom fields and tags",
+    "permalink": "/docs/organize/manage-tests/test-case/search-a-test-case-by-custom-fields-and-tags"
+  },
+  "next": {
+    "title": "Manage test suites in Katalon Studio",
+    "permalink": "/docs/organize/manage-tests/test-suite/manage-test-suites-in-katalon-studio"
+  }
+}

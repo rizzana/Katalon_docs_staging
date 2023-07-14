@@ -1,0 +1,28 @@
+{
+  "unversionedId": "947b6030-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "947b6030-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Take Full Page Screenshot",
+  "description": "Description",
+  "source": "@site/docs/947b6030-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-full-page-screenshot",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-full-page-screenshot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "947b6030-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Take Full Page Screenshot",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-full-page-screenshot",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Take Element Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-element-screenshot"
+  },
+  "next": {
+    "title": "[WebUI] Take Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-take-screenshot"
+  }
+}

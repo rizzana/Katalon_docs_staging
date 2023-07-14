@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94695ed0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94695ed0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Set View Port Size",
+  "description": "Description",
+  "source": "@site/docs/94695ed0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-set-view-port-size",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-set-view-port-size",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94695ed0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Set View Port Size",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-set-view-port-size",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Set Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-set-text"
+  },
+  "next": {
+    "title": "[WebUI] Submit",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-submit"
+  }
+}

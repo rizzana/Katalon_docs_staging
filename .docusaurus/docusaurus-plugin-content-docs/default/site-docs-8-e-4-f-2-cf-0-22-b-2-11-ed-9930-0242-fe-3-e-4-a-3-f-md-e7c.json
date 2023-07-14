@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e4f2cf0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e4f2cf0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View test scripts in Katalon TestOps",
+  "description": "Katalon TestOps presents test cases and test suites in a folder-based view that   mirrors the organization of your script repository.",
+  "source": "@site/docs/8e4f2cf0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/organize/view-test-scripts-in-katalon-platform/view-test-scripts-in-katalon-testops",
+  "permalink": "/docs/organize/view-test-scripts-in-katalon-platform/view-test-scripts-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e4f2cf0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View test scripts in Katalon TestOps",
+    "slug": "organize/view-test-scripts-in-katalon-platform/view-test-scripts-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Upload test scripts from the Git repository to TestOps",
+    "permalink": "/docs/organize/upload-test-scripts-from-a-git-repository/upload-test-scripts-from-the-git-repository-to-testops"
+  },
+  "next": {
+    "title": "Custom Fields and Tags",
+    "permalink": "/docs/organize/custom-field-and-tags/custom-fields-and-tags"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a2866a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a2866a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to Use Control Flow commands in a Test Case in Katalon Recorder",
+  "description": "Katalon Recorder allows you to control test execution flow with   control flow commands. To learn more about available control flow   commands, you can refer to this document: Handle     conditional cases in your tests.",
+  "source": "@site/docs/8a2866a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/control-the-flows/how-to-use-control-flow-commands-in-a-test-case-in-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/control-the-flows/how-to-use-control-flow-commands-in-a-test-case-in-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a2866a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to Use Control Flow commands in a Test Case in Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/control-the-flows/how-to-use-control-flow-commands-in-a-test-case-in-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Handle conditional cases in your tests with Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/control-the-flows/handle-conditional-cases-in-your-tests-with-katalon-recorder"
+  },
+  "next": {
+    "title": "How to extract and verify textual patterns in a test case with Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-verify-textual-patterns-in-a-test-case-with-katalon-recorder"
+  }
+}

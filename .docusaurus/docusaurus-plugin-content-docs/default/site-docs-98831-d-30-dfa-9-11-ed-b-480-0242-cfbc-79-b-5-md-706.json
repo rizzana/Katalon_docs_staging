@@ -1,0 +1,28 @@
+{
+  "unversionedId": "98831d30-dfa9-11ed-b480-0242cfbc79b5",
+  "id": "98831d30-dfa9-11ed-b480-0242cfbc79b5",
+  "title": "The number of the licenses cannot exceed the license quota",
+  "description": "This exception indicates that the number of licenses in use exceeds the total number of licenses available to your organization.",
+  "source": "@site/docs/98831d30-dfa9-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/the-number-of-the-licenses-cannot-exceed-the-license-quota",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/the-number-of-the-licenses-cannot-exceed-the-license-quota",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "98831d30-dfa9-11ed-b480-0242cfbc79b5",
+    "title": "The number of the licenses cannot exceed the license quota",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/the-number-of-the-licenses-cannot-exceed-the-license-quota",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "CAPTCHA required",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/captcha-required"
+  },
+  "next": {
+    "title": "License Quota exceeded",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/license-quota-exceeded"
+  }
+}

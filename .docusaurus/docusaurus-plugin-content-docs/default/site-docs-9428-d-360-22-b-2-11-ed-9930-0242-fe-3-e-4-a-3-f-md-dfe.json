@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9428d360-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9428d360-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Focus",
+  "description": "Description",
+  "source": "@site/docs/9428d360-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-focus",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-focus",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9428d360-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Focus",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-focus",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Find Web Elements",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-find-web-elements"
+  },
+  "next": {
+    "title": "[WebUI] Forward",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-forward"
+  }
+}

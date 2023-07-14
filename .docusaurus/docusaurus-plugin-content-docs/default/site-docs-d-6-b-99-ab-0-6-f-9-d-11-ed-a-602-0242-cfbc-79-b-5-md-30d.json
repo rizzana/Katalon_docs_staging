@@ -1,0 +1,28 @@
+{
+  "unversionedId": "d6b99ab0-6f9d-11ed-a602-0242cfbc79b5",
+  "id": "d6b99ab0-6f9d-11ed-a602-0242cfbc79b5",
+  "title": "Adjust the pixel sensitivity level",
+  "description": "Note",
+  "source": "@site/docs/d6b99ab0-6f9d-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/analytics/visual-testing/adjust-the-pixel-sensitivity-level",
+  "permalink": "/docs/analyze/analytics/visual-testing/adjust-the-pixel-sensitivity-level",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "d6b99ab0-6f9d-11ed-a602-0242cfbc79b5",
+    "title": "Adjust the pixel sensitivity level",
+    "slug": "analyze/analytics/visual-testing/adjust-the-pixel-sensitivity-level",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Baseline collection",
+    "permalink": "/docs/analyze/analytics/visual-testing/baseline-collection"
+  },
+  "next": {
+    "title": "Robot Framework integration with Visual Testing",
+    "permalink": "/docs/analyze/analytics/visual-testing/robot-framework-integration-with-visual-testing"
+  }
+}

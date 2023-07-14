@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94ea4ea0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94ea4ea0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Send Keys",
+  "description": "Requirements",
+  "source": "@site/docs/94ea4ea0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-send-keys",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-send-keys",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94ea4ea0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Send Keys",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-send-keys",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Set Encrypted Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-set-encrypted-text"
+  },
+  "next": {
+    "title": "[Windows] Set Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-set-text"
+  }
+}

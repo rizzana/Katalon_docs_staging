@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94f460c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94f460c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Verify Element Attribute Value",
+  "description": "Note:",
+  "source": "@site/docs/94f460c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-verify-element-attribute-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-verify-element-attribute-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94f460c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Verify Element Attribute Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-verify-element-attribute-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Switch to Window Title",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-window-title"
+  },
+  "next": {
+    "title": "[Windows] Verify Element Not Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-verify-element-not-present"
+  }
+}

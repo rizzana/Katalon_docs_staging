@@ -1,0 +1,28 @@
+{
+  "unversionedId": "89e36e60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "89e36e60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder overview",
+  "description": "What is Katalon Recorder?",
+  "source": "@site/docs/89e36e60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-started/katalon-recorder-overview",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-started/katalon-recorder-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "89e36e60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder overview",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-started/katalon-recorder-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Example plugin: Build Katalon Studio TestRail Integration plugin",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/example-plugin-build-katalon-studio-testrail-integration-plugin"
+  },
+  "next": {
+    "title": "Katalon Recorder GUI Overview",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-started/katalon-recorder-gui-overview"
+  }
+}

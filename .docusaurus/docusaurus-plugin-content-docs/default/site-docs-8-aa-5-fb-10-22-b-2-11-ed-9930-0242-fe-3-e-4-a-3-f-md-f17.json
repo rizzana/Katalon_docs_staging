@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8aa5fb10-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8aa5fb10-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View execution reports in TestOps",
+  "description": "You can integrate Katalon Recorder with Katalon TestOps to     upload and view execution reports. Do as follows:",
+  "source": "@site/docs/8aa5fb10-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execution-report/view-execution-reports-in-testops",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execution-report/view-execution-reports-in-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8aa5fb10-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View execution reports in TestOps",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execution-report/view-execution-reports-in-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Dynamic Test Suite in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/dynamic-test-suite-in-katalon-recorder"
+  },
+  "next": {
+    "title": "Export Katalon Recorder scripts to other frameworks",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/export-scenarios/export-katalon-recorder-scripts-to-other-frameworks"
+  }
+}

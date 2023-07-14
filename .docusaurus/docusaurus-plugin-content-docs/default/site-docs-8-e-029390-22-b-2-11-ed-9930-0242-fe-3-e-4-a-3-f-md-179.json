@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e029390-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e029390-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Quality reports",
+  "description": "Overview",
+  "source": "@site/docs/8e029390-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/quality-reports",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/quality-reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e029390-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Quality reports",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/quality-reports",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Productivity reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/productivity-reports"
+  },
+  "next": {
+    "title": "Platform coverage reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/platform-coverage-reports"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97bd1db0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97bd1db0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Detecting objects with XPath in Katalon Studio",
+  "description": "With any application under test (AUT), the detection of UI elements is crucial to automated testing. However, identifying them manually requires much time and experience in HTML.",
+  "source": "@site/docs/97bd1db0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/web-test-objects/detecting-objects-with-xpath-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/web-test-objects/detecting-objects-with-xpath-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97bd1db0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Detecting objects with XPath in Katalon Studio",
+    "slug": "create-tests/test-objects/web-test-objects/detecting-objects-with-xpath-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Selection methods for Web objects in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/selection-methods-for-web-objects-in-katalon-studio"
+  },
+  "next": {
+    "title": "Generating reliable object selector using Spy Web utility in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/generating-reliable-object-selector-using-spy-web-utility-in-katalon-studio"
+  }
+}

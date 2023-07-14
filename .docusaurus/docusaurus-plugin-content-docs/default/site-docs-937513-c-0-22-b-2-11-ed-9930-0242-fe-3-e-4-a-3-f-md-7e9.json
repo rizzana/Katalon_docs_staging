@@ -1,0 +1,28 @@
+{
+  "unversionedId": "937513c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "937513c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Take Element Screenshot",
+  "description": "Note:",
+  "source": "@site/docs/937513c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-element-screenshot",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-element-screenshot",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "937513c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Take Element Screenshot",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-element-screenshot",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Take Area Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-area-screenshot"
+  },
+  "next": {
+    "title": "[Mobile] Tap",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-tap"
+  }
+}

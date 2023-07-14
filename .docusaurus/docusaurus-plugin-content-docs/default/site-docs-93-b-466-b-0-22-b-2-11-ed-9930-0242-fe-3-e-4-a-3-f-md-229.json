@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93b466b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93b466b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Common] Delay",
+  "description": "Description",
+  "source": "@site/docs/93b466b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-delay",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-delay",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93b466b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Common] Delay",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-delay",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Common] Concatenate",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/utilities-keywords/common-concatenate"
+  },
+  "next": {
+    "title": "Debug a test case in Katalon Studio",
+    "permalink": "/docs/create-tests/debug-a-test-case/debug-a-test-case-in-katalon-studio"
+  }
+}

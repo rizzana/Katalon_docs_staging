@@ -1,0 +1,28 @@
+{
+  "unversionedId": "909af1b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "909af1b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Develop a customized report plugin in Katalon Studio",
+  "description": "A sample custom keyword plugin to demonstrate how to generate a   customized report.",
+  "source": "@site/docs/909af1b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/katalon-studio-plugins/develop-a-customized-report-plugin-in-katalon-studio",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/develop-a-customized-report-plugin-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "909af1b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Develop a customized report plugin in Katalon Studio",
+    "slug": "plugins-and-add-ons/katalon-store/katalon-studio-plugins/develop-a-customized-report-plugin-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Debug your platform plugin using Eclipse IDE",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/debug-your-platform-plugin-using-eclipse-ide"
+  },
+  "next": {
+    "title": "Generate groovy doc for a plugin on Katalon Store",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-studio-plugins/generate-groovy-doc-for-a-plugin-on-katalon-store"
+  }
+}

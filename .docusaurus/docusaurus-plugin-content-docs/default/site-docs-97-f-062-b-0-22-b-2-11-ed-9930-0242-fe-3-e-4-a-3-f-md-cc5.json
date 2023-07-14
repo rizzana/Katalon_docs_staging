@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97f062b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97f062b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Selection methods for Web objects in Katalon Studio",
+  "description": "This article guides you through choosing different locator strategies for Web objects in Katalon Studio.",
+  "source": "@site/docs/97f062b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/web-test-objects/selection-methods-for-web-objects-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/web-test-objects/selection-methods-for-web-objects-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97f062b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Selection methods for Web objects in Katalon Studio",
+    "slug": "create-tests/test-objects/web-test-objects/selection-methods-for-web-objects-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Find the locator of a mobile application element",
+    "permalink": "/docs/create-tests/test-objects/mobile-test-objects/find-the-locator-of-a-mobile-application-element"
+  },
+  "next": {
+    "title": "Detecting objects with XPath in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/web-test-objects/detecting-objects-with-xpath-in-katalon-studio"
+  }
+}

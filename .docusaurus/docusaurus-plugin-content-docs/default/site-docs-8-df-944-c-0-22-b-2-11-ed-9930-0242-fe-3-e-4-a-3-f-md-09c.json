@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8df944c0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8df944c0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "TestOps dashboard overview",
+  "description": "The TestOps dashboard module provides you with an overview of recent test activities, upcoming releases, productivity, quality of test cases, platform coverage, requirement coverage, and local test environments.",
+  "source": "@site/docs/8df944c0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/testops-dashboard-overview",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/testops-dashboard-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8df944c0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "TestOps dashboard overview",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/testops-dashboard-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View BDD reports in Katalon Studio",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-studio/view-bdd-reports-in-katalon-studio"
+  },
+  "next": {
+    "title": "Test activities reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/test-activities-reports"
+  }
+}

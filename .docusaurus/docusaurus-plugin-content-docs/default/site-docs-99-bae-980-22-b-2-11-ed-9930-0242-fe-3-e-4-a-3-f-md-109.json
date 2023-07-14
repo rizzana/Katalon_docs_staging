@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99bae980-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99bae980-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Using autoIT for authentication in Katalon Studio",
+  "description": "WebUI.authenticate keyword in Katalon Studio would work well on Firefox browser, but the function might not work on other browsers due to unknown reasons. This guide will provide you a workaround solution for handling authentication on different browsers is using autoIT.",
+  "source": "@site/docs/99bae980-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/using-autoit-for-authentication-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/using-autoit-for-authentication-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99bae980-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Using autoIT for authentication in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/using-autoit-for-authentication-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Understand waiting keywords in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/understand-waiting-keywords-in-katalon-studio"
+  },
+  "next": {
+    "title": "Applitools Integration in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/applitools-integration-in-katalon-studio"
+  }
+}

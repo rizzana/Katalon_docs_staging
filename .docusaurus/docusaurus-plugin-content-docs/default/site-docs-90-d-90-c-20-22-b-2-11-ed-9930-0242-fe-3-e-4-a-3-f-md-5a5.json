@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90d90c20-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90d90c20-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Create and Run iOS Test Case in Katalon Studio",
+  "description": "This tutorial demonstrates how to create test cases for iOS with Katalon Studio using the Mobile Record Utility, then run the recorded test cases.",
+  "source": "@site/docs/90d90c20-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/mobile/mobile-create-and-run-ios-test-case-in-katalon-studio",
+  "permalink": "/docs/get-started/sample-projects/mobile/mobile-create-and-run-ios-test-case-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90d90c20-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Create and Run iOS Test Case in Katalon Studio",
+    "slug": "get-started/sample-projects/mobile/mobile-create-and-run-ios-test-case-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Create and Run Android Test Case",
+    "permalink": "/docs/get-started/sample-projects/mobile/mobile-create-and-run-android-test-case"
+  },
+  "next": {
+    "title": "Sample iOS mobile tests project in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/mobile/sample-ios-mobile-tests-project-in-katalon-studio"
+  }
+}

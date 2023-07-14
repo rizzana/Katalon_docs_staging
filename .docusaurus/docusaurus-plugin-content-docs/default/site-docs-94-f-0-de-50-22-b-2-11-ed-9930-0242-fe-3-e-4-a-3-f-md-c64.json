@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94f0de50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94f0de50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Switch To Desktop",
+  "description": "Note:",
+  "source": "@site/docs/94f0de50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-desktop",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-desktop",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94f0de50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Switch To Desktop",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-desktop",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Start Application",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-start-application"
+  },
+  "next": {
+    "title": "[Windows] Switch To Application",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-switch-to-application"
+  }
+}

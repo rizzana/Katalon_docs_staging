@@ -1,0 +1,28 @@
+{
+  "unversionedId": "944dc080-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "944dc080-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Mouse Over Offset",
+  "description": "Description",
+  "source": "@site/docs/944dc080-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-mouse-over-offset",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-mouse-over-offset",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "944dc080-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Mouse Over Offset",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-mouse-over-offset",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Mouse Over",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-mouse-over"
+  },
+  "next": {
+    "title": "[WebUI] Navigate to Url",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-navigate-to-url"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "3162dfc0-ffaa-11ed-878a-0242c7a41fd4",
+  "id": "3162dfc0-ffaa-11ed-878a-0242c7a41fd4",
+  "title": "Katalon Cloud Studio (Beta) release",
+  "description": "Katalon is steadily rolling out Editor in a series of releases. Editor is currently available only to Katalon users on paid plans. For more information about the available features that comes with your current plan, go here: Katalon Platform plans.",
+  "source": "@site/docs/3162dfc0-ffaa-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes/katalon-cloud-studio/katalon-cloud-studio-beta-release",
+  "permalink": "/docs/release-notes/katalon-cloud-studio/katalon-cloud-studio-beta-release",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "3162dfc0-ffaa-11ed-878a-0242c7a41fd4",
+    "title": "Katalon Cloud Studio (Beta) release",
+    "slug": "release-notes/katalon-cloud-studio/katalon-cloud-studio-beta-release",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon TestCloud Release Notes",
+    "permalink": "/docs/release-notes/katalon-testcloud/katalon-testcloud-release-notes"
+  },
+  "next": {
+    "title": "Supported Technologies for Katalon Studio",
+    "permalink": "/docs/supported-technologies/supported-technologies-for-katalon-studio"
+  }
+}

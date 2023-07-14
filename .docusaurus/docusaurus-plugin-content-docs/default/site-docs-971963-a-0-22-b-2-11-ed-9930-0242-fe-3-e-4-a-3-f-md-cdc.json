@@ -1,0 +1,28 @@
+{
+  "unversionedId": "971963a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "971963a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Draft Request in Katalon Studio",
+  "description": "Katalon Studio supports the ‘API Testing’ project   with new features and capabilities. Occasionally, you may want to   send a request with different test data before adding the data to   your test case. Katalon Studio allows you to create a Draft Request   to experiment with various data. All sent requests are saved in the   ‘Request History’ panel on the left sidebar which you   can retrieve anytime.",
+  "source": "@site/docs/971963a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/draft-request-in-katalon-studio",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/draft-request-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "971963a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Draft Request in Katalon Studio",
+    "slug": "create-tests/test-objects/api-test-objects/draft-request-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Request History in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/request-history-in-katalon-studio"
+  },
+  "next": {
+    "title": "Handle Response Messages in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/handle-response-messages-in-katalon-studio"
+  }
+}

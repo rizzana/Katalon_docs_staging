@@ -1,0 +1,28 @@
+{
+  "unversionedId": "842eb160-0e4c-11ee-bd0e-0242c7a41fd4",
+  "id": "842eb160-0e4c-11ee-bd0e-0242c7a41fd4",
+  "title": "StudioAssist in Katalon Studio",
+  "description": "StudioAssist is an AI-powered assistant in Katalon Studio that enables testers to write automated tests more effectively and efficiently. StudioAssist is built based on OpenAI GPT API and capable of intelligent code generation and explanation.",
+  "source": "@site/docs/842eb160-0e4c-11ee-bd0e-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/proof-of-concept/studioassist-in-katalon-studio",
+  "permalink": "/docs/proof-of-concept/studioassist-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "842eb160-0e4c-11ee-bd0e-0242c7a41fd4",
+    "title": "StudioAssist in Katalon Studio",
+    "slug": "proof-of-concept/studioassist-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Troubleshooting autonomous test generation issues",
+    "permalink": "/docs/proof-of-concept/autonomous-test-generation/troubleshooting-autonomous-test-generation-issues"
+  },
+  "next": {
+    "title": "Security and Privacy FAQ",
+    "permalink": "/docs/security-and-privacy-faq"
+  }
+}

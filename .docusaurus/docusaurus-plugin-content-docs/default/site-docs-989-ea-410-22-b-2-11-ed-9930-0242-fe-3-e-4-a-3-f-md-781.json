@@ -1,0 +1,28 @@
+{
+  "unversionedId": "989ea410-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "989ea410-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Handling iFrame issue with Katalon Studio",
+  "description": "A prevalent type of control used in a website is the HTML   iframe. And this control needs to be handled in a specific manner   when testing. An iframe (Inline Frame) is an HTML document embedded   in another HTML document. The iframe HTML element is often used to   insert the content from another source, such as an advertisement,   into a Web page.",
+  "source": "@site/docs/989ea410-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/handling-iframe-issue-with-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/handling-iframe-issue-with-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "989ea410-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Handling iFrame issue with Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/handling-iframe-issue-with-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Solving Pop-up dialog issue with Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-pop-up-dialog-issue-with-katalon-studio"
+  },
+  "next": {
+    "title": "Solving Wait-time issue with Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/solving-wait-time-issue-with-katalon-studio"
+  }
+}

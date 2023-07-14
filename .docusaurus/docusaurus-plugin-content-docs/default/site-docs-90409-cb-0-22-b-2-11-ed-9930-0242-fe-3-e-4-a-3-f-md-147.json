@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90409cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90409cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Appium directory is not set",
+  "description": "When you encounter the following error com.kms.katalon.core.appium.exception.AppiumStartException: Appium directory is not set.",
+  "source": "@site/docs/90409cb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/appium-directory-is-not-set",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/appium-directory-is-not-set",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90409cb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Appium directory is not set",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/appium-directory-is-not-set",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "An unknown server-side error occurred while processing the command",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/an-unknown-server-side-error-occurred-while-processing-the-command"
+  },
+  "next": {
+    "title": "Carthage is not found",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/carthage-is-not-found"
+  }
+}

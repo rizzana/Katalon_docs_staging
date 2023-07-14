@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93167900-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93167900-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Drag And Drop",
+  "description": "Description",
+  "source": "@site/docs/93167900-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-drag-and-drop",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-drag-and-drop",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93167900-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Drag And Drop",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-drag-and-drop",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Check Element",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-check-element"
+  },
+  "next": {
+    "title": "[Mobile] Double Tap",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-double-tap"
+  }
+}

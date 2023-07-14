@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93b948b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93b948b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Take Screenshot As Checkpoint",
+  "description": "Note:",
+  "source": "@site/docs/93b948b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-mobile-testing-keywords/mobile-take-screenshot-as-checkpoint",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-mobile-testing-keywords/mobile-take-screenshot-as-checkpoint",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93b948b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Take Screenshot As Checkpoint",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/visual-based-mobile-testing-keywords/mobile-take-screenshot-as-checkpoint",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Take Element Screenshot As Checkpoint",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/visual-based-mobile-testing-keywords/mobile-take-element-screenshot-as-checkpoint"
+  },
+  "next": {
+    "title": "[WS] Contains String",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-service-keywords/ws-contains-string"
+  }
+}

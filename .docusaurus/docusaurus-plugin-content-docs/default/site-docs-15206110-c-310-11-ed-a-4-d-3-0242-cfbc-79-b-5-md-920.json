@@ -1,0 +1,29 @@
+{
+  "unversionedId": "15206110-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "15206110-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "Salesforce testing",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/15206110-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/salesforce-testing",
+  "permalink": "/docs/integrations/unsupported-integrations/salesforce-testing",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15206110,
+  "frontMatter": {
+    "id": "15206110-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "Salesforce testing",
+    "slug": "integrations/unsupported-integrations/salesforce-testing",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "QR code scanning automation",
+    "permalink": "/docs/integrations/unsupported-integrations/qr-code-scanning-automation"
+  },
+  "next": {
+    "title": "Selenium Katalon migration",
+    "permalink": "/docs/integrations/unsupported-integrations/selenium-katalon-migration"
+  }
+}

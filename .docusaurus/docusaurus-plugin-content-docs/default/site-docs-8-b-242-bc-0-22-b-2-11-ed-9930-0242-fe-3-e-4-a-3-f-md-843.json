@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b242bc0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b242bc0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Jenkins Integration Overview",
+  "description": "Jenkins is an open-source automation server. Jenkins provides hundreds of plugins to support building, deploying, and automating any project.",
+  "source": "@site/docs/8b242bc0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/jenkins-integration/jenkins-integration-overview",
+  "permalink": "/docs/execute/cicd-integrations/jenkins-integration/jenkins-integration-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b242bc0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Jenkins Integration Overview",
+    "slug": "execute/cicd-integrations/jenkins-integration/jenkins-integration-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Harness Integration",
+    "permalink": "/docs/execute/cicd-integrations/harness-integration"
+  },
+  "next": {
+    "title": "Use Katalon plugins for Jenkins integration on Windows/macOS",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/use-katalon-plugins-for-jenkins-integration-on-windowsmacos"
+  }
+}

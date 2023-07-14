@@ -1,0 +1,28 @@
+{
+  "unversionedId": "934ca430-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "934ca430-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Long Press",
+  "description": "Note:",
+  "source": "@site/docs/934ca430-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-long-press",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-long-press",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "934ca430-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Long Press",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-long-press",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Hide Keyboard",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-hide-keyboard"
+  },
+  "next": {
+    "title": "[Mobile] Open Notifications",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-open-notifications"
+  }
+}

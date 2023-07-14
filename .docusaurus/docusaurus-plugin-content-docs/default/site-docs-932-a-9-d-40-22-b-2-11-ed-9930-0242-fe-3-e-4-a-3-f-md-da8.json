@@ -1,0 +1,28 @@
+{
+  "unversionedId": "932a9d40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "932a9d40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Get Device OS Version",
+  "description": "Description",
+  "source": "@site/docs/932a9d40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-os-version",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-os-version",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "932a9d40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Get Device OS Version",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-os-version",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Get Device OS",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-os"
+  },
+  "next": {
+    "title": "[Mobile] Get Device Width",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-device-width"
+  }
+}

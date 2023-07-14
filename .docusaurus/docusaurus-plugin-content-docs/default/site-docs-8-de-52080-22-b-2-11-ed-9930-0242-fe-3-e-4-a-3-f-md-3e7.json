@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8de52080-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8de52080-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Detect abnormal Web Services in Katalon TestOps",
+  "description": "You need to subscribe to the Ultimate  plan. To",
+  "source": "@site/docs/8de52080-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/detect-abnormal-web-services-in-katalon-testops",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/detect-abnormal-web-services-in-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8de52080-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Detect abnormal Web Services in Katalon TestOps",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/detect-abnormal-web-services-in-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View BDD test results in TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-bdd-test-results-in-testops"
+  },
+  "next": {
+    "title": "Generate browser-based videos in Katalon Studio reports",
+    "permalink": "/docs/analyze/reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports"
+  }
+}

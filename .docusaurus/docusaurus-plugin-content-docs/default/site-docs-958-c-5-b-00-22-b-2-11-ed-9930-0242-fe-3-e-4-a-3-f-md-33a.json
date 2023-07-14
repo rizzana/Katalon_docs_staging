@@ -1,0 +1,28 @@
+{
+  "unversionedId": "958c5b00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "958c5b00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Install Katalon Studio for Linux (GUI)",
+  "description": "Linux is an open-source operating system with many distributions. If you are a Linux user or you want to test your build in a Linux environment, you can still enjoy Katalon Studio with a GUI on your Linux. You can also run your test in console mode with Katalon Runtime Engine for Linux.",
+  "source": "@site/docs/958c5b00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/katalon-studio-installation/install-katalon-studio-for-linux-gui",
+  "permalink": "/docs/get-started/katalon-studio-installation/install-katalon-studio-for-linux-gui",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "958c5b00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Install Katalon Studio for Linux (GUI)",
+    "slug": "get-started/katalon-studio-installation/install-katalon-studio-for-linux-gui",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Install Katalon Studio on macOS/Windows",
+    "permalink": "/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows"
+  },
+  "next": {
+    "title": "Selenium/TestNG/JUnit Migration to Katalon Studio",
+    "permalink": "/docs/get-started/migration-from-other-tools/seleniumtestngjunit-migration-to-katalon-studio"
+  }
+}

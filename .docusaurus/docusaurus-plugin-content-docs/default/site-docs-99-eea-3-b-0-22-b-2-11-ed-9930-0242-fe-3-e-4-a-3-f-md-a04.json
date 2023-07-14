@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99eea3b0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99eea3b0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Trial Plans",
+  "description": "What you'll learn:Information about the Katalon Trial PlanHow to start your trial using Katalon.comHow to start your trial using Katalon Studio",
+  "source": "@site/docs/99eea3b0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-trial-plans",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-trial-plans",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99eea3b0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Trial Plans",
+    "slug": "administer/katalon-platform-packages/katalon-trial-plans",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Platform plans",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-plans"
+  },
+  "next": {
+    "title": "TestCloud Feature Comparison",
+    "permalink": "/docs/administer/katalon-platform-packages/testcloud-feature-comparison"
+  }
+}

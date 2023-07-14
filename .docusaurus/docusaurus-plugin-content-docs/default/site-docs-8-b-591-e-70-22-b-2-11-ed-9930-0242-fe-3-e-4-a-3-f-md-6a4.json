@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b591e70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b591e70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Google Cloud Build",
+  "description": "Cloud Build is a service that executes your builds on the Google Cloud Platform (GCP). Cloud Build can import source code from Google Cloud Storage, Cloud Source Repositories, GitHub, or Bitbucket, to continuously build, test, and deploy projects. For more information on Cloud Build, see the Cloud Build documentation: Cloud Build.",
+  "source": "@site/docs/8b591e70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/google-cloud-build",
+  "permalink": "/docs/execute/cicd-integrations/google-cloud-build",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b591e70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Google Cloud Build",
+    "slug": "execute/cicd-integrations/google-cloud-build",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "GitLab Integration",
+    "permalink": "/docs/execute/cicd-integrations/gitlab-integration"
+  },
+  "next": {
+    "title": "Harness Integration",
+    "permalink": "/docs/execute/cicd-integrations/harness-integration"
+  }
+}

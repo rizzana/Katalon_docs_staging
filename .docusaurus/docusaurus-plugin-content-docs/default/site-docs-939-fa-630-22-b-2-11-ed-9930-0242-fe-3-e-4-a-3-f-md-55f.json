@@ -1,0 +1,28 @@
+{
+  "unversionedId": "939fa630-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "939fa630-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Verify Element Visible",
+  "description": "Description",
+  "source": "@site/docs/939fa630-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-visible",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-visible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "939fa630-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Verify Element Visible",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-visible",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Verify Element Not Visible",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-not-visible"
+  },
+  "next": {
+    "title": "[Mobile] Verify Element Text",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-text"
+  }
+}

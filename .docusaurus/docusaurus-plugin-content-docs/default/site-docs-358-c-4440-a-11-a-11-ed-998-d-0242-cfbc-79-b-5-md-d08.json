@@ -1,0 +1,28 @@
+{
+  "unversionedId": "358c4440-a11a-11ed-998d-0242cfbc79b5",
+  "id": "358c4440-a11a-11ed-998d-0242cfbc79b5",
+  "title": "TestCloud overview",
+  "description": "Katalon TestCloud is a test automation environment that allows you to execute tests on most standard browsers and operating systems on the cloud. With TestCloud, you can easily configure those test environments, reducing time and cost of creating physical infrastructure for test automation.",
+  "source": "@site/docs/358c4440-a11a-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/testcloud-overview",
+  "permalink": "/docs/execute/test-execution-with-testcloud/testcloud-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "358c4440-a11a-11ed-998d-0242cfbc79b5",
+    "title": "TestCloud overview",
+    "slug": "execute/test-execution-with-testcloud/testcloud-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Set up CircleCI test environments for TestOps",
+    "permalink": "/docs/execute/test-execution-with-testops/set-up-circleci-test-environments-for-testops"
+  },
+  "next": {
+    "title": "Use TestCloud in TestOps",
+    "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-testops"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "95955bb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "95955bb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Install Katalon Studio on macOS/Windows",
+  "description": "This article provides information on how to install Katalon Studio on macOS/Windows.",
+  "source": "@site/docs/95955bb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows",
+  "permalink": "/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "95955bb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Install Katalon Studio on macOS/Windows",
+    "slug": "get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio installation overview",
+    "permalink": "/docs/get-started/katalon-studio-installation/katalon-studio-installation-overview"
+  },
+  "next": {
+    "title": "Install Katalon Studio for Linux (GUI)",
+    "permalink": "/docs/get-started/katalon-studio-installation/install-katalon-studio-for-linux-gui"
+  }
+}

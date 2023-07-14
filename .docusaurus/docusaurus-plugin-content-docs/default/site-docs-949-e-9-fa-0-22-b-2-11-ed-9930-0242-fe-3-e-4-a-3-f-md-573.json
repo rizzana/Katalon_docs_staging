@@ -1,0 +1,28 @@
+{
+  "unversionedId": "949e9fa0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "949e9fa0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Verify Element Not Has Attribute",
+  "description": "Description",
+  "source": "@site/docs/949e9fa0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-not-has-attribute",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-not-has-attribute",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "949e9fa0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Verify Element Not Has Attribute",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-not-has-attribute",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Verify Element Not Clickable",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-not-clickable"
+  },
+  "next": {
+    "title": "[WebUI] Verify Element Not Present",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-element-not-present"
+  }
+}

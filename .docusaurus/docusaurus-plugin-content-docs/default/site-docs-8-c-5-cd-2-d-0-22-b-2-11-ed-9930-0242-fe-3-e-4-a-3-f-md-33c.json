@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c5cd2d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c5cd2d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Upload test reports from Jasmine to Katalon TestOps",
+  "description": "You can submit test results from the Jasmine framework to Katalon TestOps.",
+  "source": "@site/docs/8c5cd2d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-jasmine-to-katalon-testops",
+  "permalink": "/docs/analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-jasmine-to-katalon-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c5cd2d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Upload test reports from Jasmine to Katalon TestOps",
+    "slug": "analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-jasmine-to-katalon-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Upload test reports from Jest to Katalon TestOps",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-jest-to-katalon-testops"
+  },
+  "next": {
+    "title": "Upload test reports from Pytest to Katalon TestOps",
+    "permalink": "/docs/analyze/reports/upload-test-reports/upload-reports-from-other-framework/upload-test-reports-from-pytest-to-katalon-testops"
+  }
+}

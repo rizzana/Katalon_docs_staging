@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99e81400-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99e81400-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Upgrade Katalon Platform Subscription",
+  "description": "If you want to increase your test result quota or switch   from a monthly to an annual billing cycle, you can upgrade your   subscription at any time.",
+  "source": "@site/docs/99e81400-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/administration-tasks/subscription-management/katalon-platform-subscription/upgrade-katalon-platform-subscription",
+  "permalink": "/docs/administer/administration-tasks/subscription-management/katalon-platform-subscription/upgrade-katalon-platform-subscription",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99e81400-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Upgrade Katalon Platform Subscription",
+    "slug": "administer/administration-tasks/subscription-management/katalon-platform-subscription/upgrade-katalon-platform-subscription",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Subscribe to Katalon Platform",
+    "permalink": "/docs/administer/administration-tasks/subscription-management/katalon-platform-subscription/subscribe-to-katalon-platform"
+  },
+  "next": {
+    "title": "Cancel Katalon Platform Subscription",
+    "permalink": "/docs/administer/administration-tasks/subscription-management/katalon-platform-subscription/cancel-katalon-platform-subscription"
+  }
+}

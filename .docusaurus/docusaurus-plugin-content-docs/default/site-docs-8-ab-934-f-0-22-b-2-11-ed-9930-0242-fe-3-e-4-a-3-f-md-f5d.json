@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ab934f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ab934f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Extension Scripts for Custom Locator Builders and Actions in Katalon Recorder",
+  "description": "Starting from version 3.5.0 Katalon Recorder supports extension scripts (AKA user-extensions.js in the deprecated version of Selenium IDE on Firefox). At this moment this feature allows you to add custom locator builders (1) and your own actions (2) to Katalon Recorder. Please see a sample script at https://github.com/katalon-studio/katalon-recorder-samples.",
+  "source": "@site/docs/8ab934f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/extension-scripts-for-custom-locator-builders-and-actions-in-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/extension-scripts-for-custom-locator-builders-and-actions-in-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ab934f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Extension Scripts for Custom Locator Builders and Actions in Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/extension-scripts-for-custom-locator-builders-and-actions-in-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder Helper Tool",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/katalon-recorder-helper-tool"
+  },
+  "next": {
+    "title": "Import Tests from Selenium IDE to Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/extend-katalon-recorder/import-tests-from-selenium-ide-to-katalon-recorder"
+  }
+}

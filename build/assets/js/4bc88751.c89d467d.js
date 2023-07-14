@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKatalon_Docs=self.webpackChunkKatalon_Docs||[]).push([[45405],{44752:(a,t,n)=>{n.r(t),n.d(t,{default:()=>c});var o=n(67294);function c(){return o.useEffect((()=>{window.location.href="http://api-docs.katalon.com/"}),[]),null}}}]);

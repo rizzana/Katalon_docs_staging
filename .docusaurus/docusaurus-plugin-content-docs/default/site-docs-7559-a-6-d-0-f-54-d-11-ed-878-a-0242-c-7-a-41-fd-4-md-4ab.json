@@ -1,0 +1,28 @@
+{
+  "unversionedId": "7559a6d0-f54d-11ed-878a-0242c7a41fd4",
+  "id": "7559a6d0-f54d-11ed-878a-0242c7a41fd4",
+  "title": "Katalon Studio - pCloudy integration",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/7559a6d0-f54d-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/katalon-studio---pcloudy-integration",
+  "permalink": "/docs/integrations/unsupported-integrations/katalon-studio---pcloudy-integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "7559a6d0-f54d-11ed-878a-0242c7a41fd4",
+    "title": "Katalon Studio - pCloudy integration",
+    "slug": "integrations/unsupported-integrations/katalon-studio---pcloudy-integration",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "OTP use cases",
+    "permalink": "/docs/integrations/unsupported-integrations/otp-use-cases"
+  },
+  "next": {
+    "title": "Playwright integration",
+    "permalink": "/docs/integrations/unsupported-integrations/playwright-integration"
+  }
+}

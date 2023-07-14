@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b2c6920-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b2c6920-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Integrate Jenkins on Docker hosted in Ubuntu",
+  "description": "Important:",
+  "source": "@site/docs/8b2c6920-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/jenkins-integration/use-katalon-docker-image-for-jenkins-integration/integrate-jenkins-on-docker-hosted-in-ubuntu",
+  "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-docker-image-for-jenkins-integration/integrate-jenkins-on-docker-hosted-in-ubuntu",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b2c6920-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Integrate Jenkins on Docker hosted in Ubuntu",
+    "slug": "execute/cicd-integrations/jenkins-integration/use-katalon-docker-image-for-jenkins-integration/integrate-jenkins-on-docker-hosted-in-ubuntu",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Integrate Jenkins with TestOps",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/integrate-jenkins-with-testops"
+  },
+  "next": {
+    "title": "Integrate Jenkins Pipeline (Jenkinsfile) with Katalon Studio Docker Image",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-docker-image-for-jenkins-integration/integrate-jenkins-pipeline-jenkinsfile-with-katalon-studio-docker-image"
+  }
+}

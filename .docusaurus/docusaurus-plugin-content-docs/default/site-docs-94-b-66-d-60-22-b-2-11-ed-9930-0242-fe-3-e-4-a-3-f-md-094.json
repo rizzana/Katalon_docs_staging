@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94b66d60-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94b66d60-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Verify Option Not Selected By Label",
+  "description": "Description",
+  "source": "@site/docs/94b66d60-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-selected-by-label",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-selected-by-label",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94b66d60-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Verify Option Not Selected By Label",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-selected-by-label",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[WebUI] Verify Option Not Selected By Index",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-selected-by-index"
+  },
+  "next": {
+    "title": "[WebUI] Verify Option Not Selected By Value",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/web-ui-keywords/webui-verify-option-not-selected-by-value"
+  }
+}

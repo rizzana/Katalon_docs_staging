@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e3b56d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e3b56d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "View BDD test results in TestOps",
+  "description": "Behavior-driven development (BDD) is enabled in Katalon Studio. From Katalon Studio version 7.8.0, you can integrate BDD-enabled projects with Katalon TestOps. By doing so, you can see native BDD Test Results with their Features and Scenarios.",
+  "source": "@site/docs/8e3b56d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-bdd-test-results-in-testops",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-bdd-test-results-in-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e3b56d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "View BDD test results in TestOps",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-bdd-test-results-in-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "View traceability matrix in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-traceability-matrix-in-katalon-testops"
+  },
+  "next": {
+    "title": "Detect abnormal Web Services in Katalon TestOps",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/detect-abnormal-web-services-in-katalon-testops"
+  }
+}

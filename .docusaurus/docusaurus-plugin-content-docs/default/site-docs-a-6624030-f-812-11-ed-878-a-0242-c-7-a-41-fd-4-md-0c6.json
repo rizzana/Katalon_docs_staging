@@ -1,0 +1,28 @@
+{
+  "unversionedId": "a6624030-f812-11ed-878a-0242c7a41fd4",
+  "id": "a6624030-f812-11ed-878a-0242c7a41fd4",
+  "title": "Cannot receive verification link",
+  "description": "You have submitted your email to sign up for an account but haven't received the verification email to your inbox.",
+  "source": "@site/docs/a6624030-f812-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/cannot-receive-verification-link",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/cannot-receive-verification-link",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "a6624030-f812-11ed-878a-0242c7a41fd4",
+    "title": "Cannot receive verification link",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/cannot-receive-verification-link",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Your test result quota has been exceeded. Please upgrade your plan",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/your-test-result-quota-has-been-exceeded.-please-upgrade-your-plan"
+  },
+  "next": {
+    "title": "Oops! There's something wrong with this invitation.",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/oops-theres-something-wrong-with-this-invitation."
+  }
+}

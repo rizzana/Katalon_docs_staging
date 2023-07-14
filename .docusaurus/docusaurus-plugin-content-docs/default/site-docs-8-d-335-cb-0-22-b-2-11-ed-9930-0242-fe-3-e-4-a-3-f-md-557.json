@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8d335cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8d335cb0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Load balancing for local test environments",
+  "description": "With Katalon TestOps, your tests can be executed in parallel using load-balanced configurations.",
+  "source": "@site/docs/8d335cb0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testops/local-test-environments/load-balancing-for-local-test-environments",
+  "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/load-balancing-for-local-test-environments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8d335cb0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Load balancing for local test environments",
+    "slug": "execute/test-execution-with-testops/local-test-environments/load-balancing-for-local-test-environments",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create a local test environment with an Agent",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/create-a-local-test-environment-with-an-agent"
+  },
+  "next": {
+    "title": "Run multiple test suites in parallel with Agents",
+    "permalink": "/docs/execute/test-execution-with-testops/local-test-environments/run-multiple-test-suites-in-parallel-with-agents"
+  }
+}

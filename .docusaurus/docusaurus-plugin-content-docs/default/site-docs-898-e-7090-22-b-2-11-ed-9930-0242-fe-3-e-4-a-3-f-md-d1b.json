@@ -1,0 +1,28 @@
+{
+  "unversionedId": "898e7090-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "898e7090-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalium Overview",
+  "description": "Katalium is a framework that provides a blueprint for test   automation projects based on TestNG and Selenium.",
+  "source": "@site/docs/898e7090-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-framework/katalium-overview",
+  "permalink": "/docs/plugins-and-add-ons/katalium-framework/katalium-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "898e7090-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalium Overview",
+    "slug": "plugins-and-add-ons/katalium-framework/katalium-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder Acknowledgments",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-acknowledgments"
+  },
+  "next": {
+    "title": "Katalium Framework in Visual Studio Code",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-visual-studio-code"
+  }
+}

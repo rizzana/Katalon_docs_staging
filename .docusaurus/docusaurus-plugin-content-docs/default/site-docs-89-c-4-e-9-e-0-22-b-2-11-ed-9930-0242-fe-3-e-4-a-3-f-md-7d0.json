@@ -1,0 +1,28 @@
+{
+  "unversionedId": "89c4e9e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "89c4e9e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "WebDriver Auto-update for Katalium Server",
+  "description": "When Katalium starts, the server will detect the installed   browsers and download the compatible WebDriver versions. Supported   browsers are Chrome, Firefox, Internet Explorer, and Edge (pre   18).",
+  "source": "@site/docs/89c4e9e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-server/webdriver-auto-update-for-katalium-server",
+  "permalink": "/docs/plugins-and-add-ons/katalium-server/webdriver-auto-update-for-katalium-server",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "89c4e9e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "WebDriver Auto-update for Katalium Server",
+    "slug": "plugins-and-add-ons/katalium-server/webdriver-auto-update-for-katalium-server",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalium Server - Execute Katalon Studio's scripts on Remote Machines",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/katalium-server---execute-katalon-studios-scripts-on-remote-machines"
+  },
+  "next": {
+    "title": "Sessions Monitoring for Katalium Server",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/sessions-monitoring-for-katalium-server"
+  }
+}

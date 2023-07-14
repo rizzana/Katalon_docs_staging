@@ -1,0 +1,28 @@
+{
+  "unversionedId": "071494c0-cc51-11ed-a4d3-0242cfbc79b5",
+  "id": "071494c0-cc51-11ed-a4d3-0242cfbc79b5",
+  "title": "Katalon TestOps Release Notes",
+  "description": "June 7th 2023",
+  "source": "@site/docs/071494c0-cc51-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes/katalon-testops/katalon-testops-release-notes",
+  "permalink": "/docs/release-notes/katalon-testops/katalon-testops-release-notes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "071494c0-cc51-11ed-a4d3-0242cfbc79b5",
+    "title": "Katalon TestOps Release Notes",
+    "slug": "release-notes/katalon-testops/katalon-testops-release-notes",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "About Katalon Platform",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Katalon Studio Release Notes: Version 8.x",
+    "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-8.x"
+  }
+}

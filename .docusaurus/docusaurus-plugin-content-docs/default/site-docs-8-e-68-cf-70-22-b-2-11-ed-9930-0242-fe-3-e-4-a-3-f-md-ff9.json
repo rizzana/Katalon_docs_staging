@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e68cf70-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e68cf70-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Link test runs to a release in TestOps",
+  "description": "You have created a release in Katalon TestOps or populate releases from Jira. See Create and edit releases in TestOps.",
+  "source": "@site/docs/8e68cf70-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plan/link-test-runs-to-a-release-in-testops",
+  "permalink": "/docs/plan/link-test-runs-to-a-release-in-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e68cf70-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Link test runs to a release in TestOps",
+    "slug": "plan/link-test-runs-to-a-release-in-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Create and manage builds in Katalon TestOps",
+    "permalink": "/docs/plan/create-and-manage-builds-in-katalon-testops"
+  },
+  "next": {
+    "title": "Link test execution with a TestOps release using command builder",
+    "permalink": "/docs/plan/link-test-execution-with-a-testops-release-using-command-builder"
+  }
+}

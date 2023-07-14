@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8b471d10-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8b471d10-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use Katalon plugins for Jenkins integration on Ubuntu",
+  "description": "Note: Katalon TestOps CI is an easier way to execute Katalon Studio tests remotely or schedule remote Katalon Studio execution. Learn more",
+  "source": "@site/docs/8b471d10-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/use-katalon-plugins-for-jenkins-integration-on-ubuntu",
+  "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/use-katalon-plugins-for-jenkins-integration-on-ubuntu",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8b471d10-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use Katalon plugins for Jenkins integration on Ubuntu",
+    "slug": "execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/use-katalon-plugins-for-jenkins-integration-on-ubuntu",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use Katalon plugins for Jenkins integration on Windows/macOS",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/use-katalon-plugins-for-jenkins-integration-on-windowsmacos"
+  },
+  "next": {
+    "title": "Integrate Jenkins with TestOps",
+    "permalink": "/docs/execute/cicd-integrations/jenkins-integration/use-katalon-plugins-for-jenkins-integration/integrate-jenkins-with-testops"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8baf7bd0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8baf7bd0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use TestCloud in Katalon Runtime Engine",
+  "description": "This guide shows you how to use TestCloud in Katalon Runtime Engine (KRE).",
+  "source": "@site/docs/8baf7bd0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/use-testcloud-in-katalon-runtime-engine",
+  "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-katalon-runtime-engine",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8baf7bd0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use TestCloud in Katalon Runtime Engine",
+    "slug": "execute/test-execution-with-testcloud/use-testcloud-in-katalon-runtime-engine",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use TestCloud in Katalon Studio",
+    "permalink": "/docs/execute/test-execution-with-testcloud/use-testcloud-in-katalon-studio"
+  },
+  "next": {
+    "title": "TestCloud Tunnel",
+    "permalink": "/docs/execute/test-execution-with-testcloud/testcloud-tunnel"
+  }
+}

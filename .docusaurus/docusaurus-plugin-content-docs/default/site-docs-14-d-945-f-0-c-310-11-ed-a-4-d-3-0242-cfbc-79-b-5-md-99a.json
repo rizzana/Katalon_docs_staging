@@ -1,0 +1,28 @@
+{
+  "unversionedId": "14d945f0-c310-11ed-a4d3-0242cfbc79b5",
+  "id": "14d945f0-c310-11ed-a4d3-0242cfbc79b5",
+  "title": "Zephyr Scale",
+  "description": "Note: Please note that the use case presented here is a suggestion only and should be implemented with caution. It has not undergone quality assurance testing and is not officially supported by our platform.",
+  "source": "@site/docs/14d945f0-c310-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/integrations/unsupported-integrations/zephyr-scale",
+  "permalink": "/docs/integrations/unsupported-integrations/zephyr-scale",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "14d945f0-c310-11ed-a4d3-0242cfbc79b5",
+    "title": "Zephyr Scale",
+    "slug": "integrations/unsupported-integrations/zephyr-scale",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "WireMock integration",
+    "permalink": "/docs/integrations/unsupported-integrations/wiremock-integration"
+  },
+  "next": {
+    "title": "Katalon Store overview",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/katalon-store-overview"
+  }
+}

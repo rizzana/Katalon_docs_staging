@@ -1,0 +1,28 @@
+{
+  "unversionedId": "96c63a90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "96c63a90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Import RESTful requests from Swagger 2.0",
+  "description": "This topic shows you how to import web service objects from a Swagger 2.0 file or URL, depending on the type of your Katalon Studio project. You can learn more about Swagger 2.0 from this Swagger page: Swagger 2.0.",
+  "source": "@site/docs/96c63a90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-swagger-2.0",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-swagger-2.0",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "96c63a90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Import RESTful requests from Swagger 2.0",
+    "slug": "create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-requests-from-swagger-2.0",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Import REST API with OpenAPI Specification 3.0 to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-rest-api-with-openapi-specification-3.0-to-katalon-studio"
+  },
+  "next": {
+    "title": "Import RESTful from Postman to Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/import-web-service-objects/import-restful-from-postman-to-katalon-studio"
+  }
+}

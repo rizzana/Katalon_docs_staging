@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4f987c30-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4f987c30-e56e-11ed-b480-0242cfbc79b5",
+  "title": "Run a draft test case",
+  "description": "Learn how to execute a test run on your draft test case in Katalon Cloud Studio (Beta).",
+  "source": "@site/docs/4f987c30-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/run-a-draft-test-case",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/run-a-draft-test-case",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4f987c30-e56e-11ed-b480-0242cfbc79b5",
+    "title": "Run a draft test case",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/run-a-draft-test-case",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Edit draft test case",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-draft-test-case/edit-draft-test-case"
+  },
+  "next": {
+    "title": "Create a Katalon Cloud Studio (Beta) test suite",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/create-and-manage-a-test-suite/create-a-katalon-cloud-studio-beta-test-suite"
+  }
+}

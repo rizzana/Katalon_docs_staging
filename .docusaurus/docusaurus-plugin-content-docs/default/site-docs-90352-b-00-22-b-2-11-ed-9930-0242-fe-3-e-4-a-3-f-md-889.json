@@ -1,0 +1,28 @@
+{
+  "unversionedId": "90352b00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "90352b00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "The sendKeys keyword did not send the correct text with German keyboard as default settings",
+  "description": "Clone or download our demo project at our GitHub repository: German",
+  "source": "@site/docs/90352b00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/the-sendkeys-keyword-did-not-send-the-correct-text-with-german-keyboard-as-default-settings",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/the-sendkeys-keyword-did-not-send-the-correct-text-with-german-keyboard-as-default-settings",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "90352b00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "The sendKeys keyword did not send the correct text with German keyboard as default settings",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/the-sendkeys-keyword-did-not-send-the-correct-text-with-german-keyboard-as-default-settings",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Troubleshoot Windows automated testing overview",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/troubleshoot-windows-automated-testing-overview"
+  },
+  "next": {
+    "title": "Timeout when launching Windows application",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/timeout-when-launching-windows-application"
+  }
+}

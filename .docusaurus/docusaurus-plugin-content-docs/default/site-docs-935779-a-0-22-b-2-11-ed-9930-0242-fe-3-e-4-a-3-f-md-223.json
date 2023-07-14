@@ -1,0 +1,28 @@
+{
+  "unversionedId": "935779a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "935779a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Press Home",
+  "description": "Description",
+  "source": "@site/docs/935779a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-press-home",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-press-home",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "935779a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Press Home",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-press-home",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Press Back",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-press-back"
+  },
+  "next": {
+    "title": "[Mobile] Pinch To Zoom In At Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-pinch-to-zoom-in-at-position"
+  }
+}

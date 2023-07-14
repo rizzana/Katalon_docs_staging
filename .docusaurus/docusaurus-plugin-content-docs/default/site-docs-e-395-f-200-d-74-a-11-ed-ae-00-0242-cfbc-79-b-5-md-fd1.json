@@ -1,0 +1,28 @@
+{
+  "unversionedId": "e395f200-d74a-11ed-ae00-0242cfbc79b5",
+  "id": "e395f200-d74a-11ed-ae00-0242cfbc79b5",
+  "title": "Katalon Studio best practices",
+  "description": "This article provides best practices for successful test automation using Katalon Studio.",
+  "source": "@site/docs/e395f200-d74a-11ed-ae00-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/onboarding-katalon-platform/katalon-studio-best-practices",
+  "permalink": "/docs/get-started/onboarding-katalon-platform/katalon-studio-best-practices",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "e395f200-d74a-11ed-ae00-0242cfbc79b5",
+    "title": "Katalon Studio best practices",
+    "slug": "get-started/onboarding-katalon-platform/katalon-studio-best-practices",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Explore Katalon Studio",
+    "permalink": "/docs/get-started/onboarding-katalon-platform/explore-katalon-studio"
+  },
+  "next": {
+    "title": "Katalon Studio installation overview",
+    "permalink": "/docs/get-started/katalon-studio-installation/katalon-studio-installation-overview"
+  }
+}

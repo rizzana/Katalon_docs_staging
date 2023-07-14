@@ -1,0 +1,28 @@
+{
+  "unversionedId": "930d0320-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "930d0320-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Check Element",
+  "description": "Description",
+  "source": "@site/docs/930d0320-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-check-element",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-check-element",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "930d0320-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Check Element",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-check-element",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Close Notifications",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-close-notifications"
+  },
+  "next": {
+    "title": "[Mobile] Drag And Drop",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-drag-and-drop"
+  }
+}

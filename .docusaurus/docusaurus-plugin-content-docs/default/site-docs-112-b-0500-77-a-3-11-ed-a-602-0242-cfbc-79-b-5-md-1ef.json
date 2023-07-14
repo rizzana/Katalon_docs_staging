@@ -1,0 +1,28 @@
+{
+  "unversionedId": "112b0500-77a3-11ed-a602-0242cfbc79b5",
+  "id": "112b0500-77a3-11ed-a602-0242cfbc79b5",
+  "title": "Execute mobile tests with Appium 2.x in Katalon Studio (PoC)",
+  "description": "Warning: This Proof of Concept (PoC) is not ready for production use. We recommend using this PoC for evaluation purposes only.",
+  "source": "@site/docs/112b0500-77a3-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/proof-of-concept/execute-mobile-tests-with-appium-2.x-in-katalon-studio-poc",
+  "permalink": "/docs/proof-of-concept/execute-mobile-tests-with-appium-2.x-in-katalon-studio-poc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "112b0500-77a3-11ed-a602-0242cfbc79b5",
+    "title": "Execute mobile tests with Appium 2.x in Katalon Studio (PoC)",
+    "slug": "proof-of-concept/execute-mobile-tests-with-appium-2.x-in-katalon-studio-poc",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Contributing Guidelines for Katalium Server",
+    "permalink": "/docs/plugins-and-add-ons/katalium-server/contributing-guidelines-for-katalium-server"
+  },
+  "next": {
+    "title": "Parameterize Azure DevOps Test Case ID List in Katalon Studio (PoC)",
+    "permalink": "/docs/proof-of-concept/parameterize-azure-devops-test-case-id-list-in-katalon-studio-poc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8bde2cf0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8bde2cf0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Brand guidelines for Katalon Store publishers",
+  "description": "Logo and assets",
+  "source": "@site/docs/8bde2cf0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/brand-guidelines-for-katalon-store-publishers",
+  "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/brand-guidelines-for-katalon-store-publishers",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8bde2cf0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Brand guidelines for Katalon Store publishers",
+    "slug": "plugins-and-add-ons/katalon-store/submit-and-publish-plugins/brand-guidelines-for-katalon-store-publishers",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Store on Plugin document guidelines",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-on-plugin-document-guidelines"
+  },
+  "next": {
+    "title": "Katalon Store Plugin approval guidelines",
+    "permalink": "/docs/plugins-and-add-ons/katalon-store/submit-and-publish-plugins/katalon-store-plugin-approval-guidelines"
+  }
+}

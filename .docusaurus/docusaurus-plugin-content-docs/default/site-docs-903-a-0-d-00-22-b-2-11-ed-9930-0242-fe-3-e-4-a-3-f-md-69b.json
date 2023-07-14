@@ -1,0 +1,28 @@
+{
+  "unversionedId": "903a0d00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "903a0d00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Troubleshooting automated mobile testing overview",
+  "description": "This topic lists out some of the common issues when executing mobile testing, followed by possible solutions.",
+  "source": "@site/docs/903a0d00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/troubleshooting-automated-mobile-testing-overview",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/troubleshooting-automated-mobile-testing-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "903a0d00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Troubleshooting automated mobile testing overview",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/troubleshooting-automated-mobile-testing-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Unable to start the Windows application",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/unable-to-start-the-windows-application"
+  },
+  "next": {
+    "title": "An unknown server-side error occurred while processing the command",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/an-unknown-server-side-error-occurred-while-processing-the-command"
+  }
+}

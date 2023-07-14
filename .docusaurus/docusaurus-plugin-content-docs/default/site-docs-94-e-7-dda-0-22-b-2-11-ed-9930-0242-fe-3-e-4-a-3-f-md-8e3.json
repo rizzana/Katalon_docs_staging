@@ -1,0 +1,28 @@
+{
+  "unversionedId": "94e7dda0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "94e7dda0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Windows] Right-click",
+  "description": "Note:",
+  "source": "@site/docs/94e7dda0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "94e7dda0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Windows] Right-click",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Windows] Get Driver",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-get-driver"
+  },
+  "next": {
+    "title": "[Windows] Right-click Element Offset",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/windows-keywords/windows-right-click-element-offset"
+  }
+}

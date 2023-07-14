@@ -1,0 +1,28 @@
+{
+  "unversionedId": "1397c3d0-7093-11ed-a602-0242cfbc79b5",
+  "id": "1397c3d0-7093-11ed-a602-0242cfbc79b5",
+  "title": "Cancel scheduled test runs in TestOps",
+  "description": "On Katalon TestOps, you can schedule  test runs to be executed repeatedly. However, sometimes your testing plans change, and you might no longer need these  test runs to be executed as scheduled. This section guides you to cancel scheduled test runs that are no longer required in your testing plan.",
+  "source": "@site/docs/1397c3d0-7093-11ed-a602-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/execute/schedule-test-execution/cancel-scheduled-test-runs-in-testops",
+  "permalink": "/docs/execute/schedule-test-execution/cancel-scheduled-test-runs-in-testops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "1397c3d0-7093-11ed-a602-0242cfbc79b5",
+    "title": "Cancel scheduled test runs in TestOps",
+    "slug": "execute/schedule-test-execution/cancel-scheduled-test-runs-in-testops",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Execute test runs manually in TestOps",
+    "permalink": "/docs/execute/schedule-test-execution/execute-test-runs-manually-in-testops"
+  },
+  "next": {
+    "title": "Test suite collection scheduler for Katalon Studio",
+    "permalink": "/docs/execute/schedule-test-execution/test-suite-collection-scheduler-for-katalon-studio"
+  }
+}

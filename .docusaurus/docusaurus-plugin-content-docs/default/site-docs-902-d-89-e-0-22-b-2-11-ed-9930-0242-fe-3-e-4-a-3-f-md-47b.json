@@ -1,0 +1,28 @@
+{
+  "unversionedId": "902d89e0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "902d89e0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Element not visible exception",
+  "description": "When you encounter the following exception Element is not currently visible and so may not be interacted.",
+  "source": "@site/docs/902d89e0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-not-visible-exception",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-not-visible-exception",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "902d89e0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Element not visible exception",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-not-visible-exception",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Element click intercepted exception",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-click-intercepted-exception"
+  },
+  "next": {
+    "title": "Invalid element state exception",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/invalid-element-state-exception"
+  }
+}

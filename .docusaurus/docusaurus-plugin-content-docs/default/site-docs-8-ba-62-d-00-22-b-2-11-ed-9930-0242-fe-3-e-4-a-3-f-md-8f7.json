@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ba62d00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ba62d00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Terminate execution conditionally",
+  "description": "In this article, you will learn how to terminate a test execution automatically by configuring a maximum number of test failures in manual view or via the command-line option, with examples using common use cases.",
+  "source": "@site/docs/8ba62d00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/configurations-for-test-execution/terminate-execution-conditionally",
+  "permalink": "/docs/execute/configurations-for-test-execution/terminate-execution-conditionally",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ba62d00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Terminate execution conditionally",
+    "slug": "execute/configurations-for-test-execution/terminate-execution-conditionally",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Specify a path to Android SDK root folder",
+    "permalink": "/docs/execute/configurations-for-test-execution/specify-a-path-to-android-sdk-root-folder"
+  },
+  "next": {
+    "title": "Troubleshooting common execution issues",
+    "permalink": "/docs/execute/troubleshooting/troubleshooting-common-execution-issues"
+  }
+}

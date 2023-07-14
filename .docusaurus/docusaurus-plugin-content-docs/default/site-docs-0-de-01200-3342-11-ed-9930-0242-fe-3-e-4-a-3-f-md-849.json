@@ -1,0 +1,28 @@
+{
+  "unversionedId": "0de01200-3342-11ed-9930-0242fe3e4a3f",
+  "id": "0de01200-3342-11ed-9930-0242fe3e4a3f",
+  "title": "Run tests in private domains with TestCloud",
+  "description": "To run tests in private domains with TestCloud (on TestOps), you need to:Schedule test runs with the TestCloud Tunnel option enabled.Configure the TestCloud Tunnel.",
+  "source": "@site/docs/0de01200-3342-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/execute/test-execution-with-testcloud/run-tests-in-private-domains-with-testcloud",
+  "permalink": "/docs/execute/test-execution-with-testcloud/run-tests-in-private-domains-with-testcloud",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "0de01200-3342-11ed-9930-0242fe3e4a3f",
+    "title": "Run tests in private domains with TestCloud",
+    "slug": "execute/test-execution-with-testcloud/run-tests-in-private-domains-with-testcloud",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "TestCloud Tunnel",
+    "permalink": "/docs/execute/test-execution-with-testcloud/testcloud-tunnel"
+  },
+  "next": {
+    "title": "Set desired capabilities for TestCloud environment",
+    "permalink": "/docs/execute/test-execution-with-testcloud/set-desired-capabilities-for-testcloud-environment"
+  }
+}

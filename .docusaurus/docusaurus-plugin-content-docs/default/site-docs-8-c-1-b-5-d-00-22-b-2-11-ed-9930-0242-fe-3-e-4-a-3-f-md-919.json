@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8c1b5d00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8c1b5d00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon TestCloud Release Notes",
+  "description": "June 21st, 2023",
+  "source": "@site/docs/8c1b5d00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/release-notes/katalon-testcloud/katalon-testcloud-release-notes",
+  "permalink": "/docs/release-notes/katalon-testcloud/katalon-testcloud-release-notes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8c1b5d00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon TestCloud Release Notes",
+    "slug": "release-notes/katalon-testcloud/katalon-testcloud-release-notes",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio Release Notes: Version 6.x",
+    "permalink": "/docs/release-notes/katalon-studio/katalon-studio-release-notes-version-6.x"
+  },
+  "next": {
+    "title": "Katalon Cloud Studio (Beta) release",
+    "permalink": "/docs/release-notes/katalon-cloud-studio/katalon-cloud-studio-beta-release"
+  }
+}

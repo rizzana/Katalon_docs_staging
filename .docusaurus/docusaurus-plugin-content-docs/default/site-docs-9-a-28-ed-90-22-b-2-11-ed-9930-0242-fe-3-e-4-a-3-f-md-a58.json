@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a28ed90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a28ed90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Machine Quota exceeded",
+  "description": "If the number of machines on which you're using Katalon Studio exceeds the number of licenses that you purchased, you have two options:Subscribe to more licenses to cover more machines and execution sessions. See Upgrade Subscriptions.Remove the machines. See Revoke and transfer a license.",
+  "source": "@site/docs/9a28ed90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/troubleshooting/troubleshooting-activation-problem/machine-quota-exceeded",
+  "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/machine-quota-exceeded",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a28ed90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Machine Quota exceeded",
+    "slug": "administer/troubleshooting/troubleshooting-activation-problem/machine-quota-exceeded",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "License Quota exceeded",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/license-quota-exceeded"
+  },
+  "next": {
+    "title": "Network security errors",
+    "permalink": "/docs/administer/troubleshooting/troubleshooting-activation-problem/network-security-errors"
+  }
+}

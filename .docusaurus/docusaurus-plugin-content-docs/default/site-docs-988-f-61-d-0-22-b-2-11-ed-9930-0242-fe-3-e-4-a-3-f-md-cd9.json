@@ -1,0 +1,28 @@
+{
+  "unversionedId": "988f61d0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "988f61d0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to Handle Textbox Checkbox and Radio Button in Katalon Studio",
+  "description": "This tutorial illustrates how to handle Textbox, Checkbox, Radio   buttons using Katalon Studio. The reference source code is provided   at the end of the tutorial.",
+  "source": "@site/docs/988f61d0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-textbox-checkbox-and-radio-button-in-katalon-studio",
+  "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-textbox-checkbox-and-radio-button-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "988f61d0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to Handle Textbox Checkbox and Radio Button in Katalon Studio",
+    "slug": "create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-textbox-checkbox-and-radio-button-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to handle Web Tables in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-web-tables-in-katalon-studio"
+  },
+  "next": {
+    "title": "How to Handle File Uploads in Katalon Studio",
+    "permalink": "/docs/create-tests/keywords/using-keywords-in-katalon-studio/web-testing/how-to-handle-file-uploads-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ef18770-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ef18770-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Configure Android Studio (Emulator) in Katalon Studio",
+  "description": "The Android Emulator simulates Android devices on your computer   so that you can test your application on a variety of devices and   Android API levels without needing to have each physical device. To   learn more about the Android emulator capabilities and system   requirements, you can refer to this Android developer document: Run apps     on the Android Emulator.",
+  "source": "@site/docs/8ef18770-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-projects/set-up-projects/mobile-testing/android/mobile-configure-android-studio-emulator-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/mobile-configure-android-studio-emulator-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ef18770-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Configure Android Studio (Emulator) in Katalon Studio",
+    "slug": "create-tests/manage-projects/set-up-projects/mobile-testing/android/mobile-configure-android-studio-emulator-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Android Setup in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/mobile-android-setup-in-katalon-studio"
+  },
+  "next": {
+    "title": "Configure fingerprint setting in an Android emulator",
+    "permalink": "/docs/create-tests/manage-projects/set-up-projects/mobile-testing/android/configure-fingerprint-setting-in-an-android-emulator"
+  }
+}

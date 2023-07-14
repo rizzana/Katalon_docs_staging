@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f3f0b30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f3f0b30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Test Artifacts Sharing in Katalon Studio",
+  "description": "Test artifacts sharing allows you to import and export test artifacts across Katalon Studio projects. These test artifacts include test cases, test objects, profiles, and custom keywords.",
+  "source": "@site/docs/8f3f0b30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-test-artifacts/test-artifacts-sharing-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-test-artifacts/test-artifacts-sharing-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f3f0b30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Test Artifacts Sharing in Katalon Studio",
+    "slug": "create-tests/manage-test-artifacts/test-artifacts-sharing-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Combine Katalon Studio with SAP Scripting Tracker for Windows",
+    "permalink": "/docs/create-tests/create-test-cases/combine-katalon-studio-with-sap-scripting-tracker-for-windows"
+  },
+  "next": {
+    "title": "Using Git Submodules to share Test Artifacts in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-test-artifacts/using-git-submodules-to-share-test-artifacts-in-katalon-studio"
+  }
+}

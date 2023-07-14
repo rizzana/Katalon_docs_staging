@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fbbb540-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fbbb540-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Assert Statements",
+  "description": "An assert statement contains a boolean expression where this&nbsp;condition must hold true for the test execution to continue. Thus, execution of the assertion causes evaluation of the boolean expression, and an error is reported if the expression evaluates as false.",
+  "source": "@site/docs/8fbbb540-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/statements/assert-statements",
+  "permalink": "/docs/create-tests/create-test-cases/statements/assert-statements",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fbbb540-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Assert Statements",
+    "slug": "create-tests/create-test-cases/statements/assert-statements",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Method Call Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/method-call-statements"
+  },
+  "next": {
+    "title": "Define Method",
+    "permalink": "/docs/create-tests/create-test-cases/statements/define-method"
+  }
+}

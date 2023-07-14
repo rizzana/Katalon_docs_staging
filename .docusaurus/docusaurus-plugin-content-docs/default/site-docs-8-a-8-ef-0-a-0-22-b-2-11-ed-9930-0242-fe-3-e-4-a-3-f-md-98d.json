@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a8ef0a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a8ef0a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Use the Command-Line Runner in Katalon Recorder",
+  "description": "Use the Command-Line Runner",
+  "source": "@site/docs/8a8ef0a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/use-the-command-line-runner-in-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/use-the-command-line-runner-in-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a8ef0a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Use the Command-Line Runner in Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/use-the-command-line-runner-in-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Use the Self-Healing function in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/use-the-self-healing-function-in-katalon-recorder"
+  },
+  "next": {
+    "title": "Dynamic Test Suite in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/execute-scenarios/dynamic-test-suite-in-katalon-recorder"
+  }
+}

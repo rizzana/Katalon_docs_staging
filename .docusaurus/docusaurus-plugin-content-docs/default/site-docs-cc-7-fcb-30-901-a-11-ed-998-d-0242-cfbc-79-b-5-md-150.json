@@ -1,0 +1,28 @@
+{
+  "unversionedId": "cc7fcb30-901a-11ed-998d-0242cfbc79b5",
+  "id": "cc7fcb30-901a-11ed-998d-0242cfbc79b5",
+  "title": "Download test report files",
+  "description": "Learn how to download test report files of a test run.",
+  "source": "@site/docs/cc7fcb30-901a-11ed-998d-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-test-report-files",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-test-report-files",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cc7fcb30-901a-11ed-998d-0242cfbc79b5",
+    "title": "Download test report files",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-test-report-files",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test run result details",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/test-run-result-details"
+  },
+  "next": {
+    "title": "Download report files using REST API",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-run-results/view-test-results-and-execution-logs-in-katalon-testops/download-report-files-using-rest-api"
+  }
+}

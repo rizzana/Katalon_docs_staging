@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93697b00-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93697b00-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Swipe",
+  "description": "Description",
+  "source": "@site/docs/93697b00-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-swipe",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-swipe",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93697b00-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Swipe",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-swipe",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Start Existing Application",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-start-existing-application"
+  },
+  "next": {
+    "title": "[Mobile] Take Screenshot",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-take-screenshot"
+  }
+}

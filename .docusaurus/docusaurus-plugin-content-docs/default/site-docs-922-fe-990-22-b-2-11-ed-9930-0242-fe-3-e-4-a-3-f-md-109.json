@@ -1,0 +1,28 @@
+{
+  "unversionedId": "922fe990-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "922fe990-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Using Git Submodules to share Test Artifacts in Katalon Studio",
+  "description": "While working on a Katalon Studio project, you might want to use test artifacts from external resources. You can manually share test artifacts with the Test Artifacts Sharing feature provided by Katalon Studio. See: Test Artifacts Sharing.",
+  "source": "@site/docs/922fe990-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/manage-test-artifacts/using-git-submodules-to-share-test-artifacts-in-katalon-studio",
+  "permalink": "/docs/create-tests/manage-test-artifacts/using-git-submodules-to-share-test-artifacts-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "922fe990-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Using Git Submodules to share Test Artifacts in Katalon Studio",
+    "slug": "create-tests/manage-test-artifacts/using-git-submodules-to-share-test-artifacts-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test Artifacts Sharing in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-test-artifacts/test-artifacts-sharing-in-katalon-studio"
+  },
+  "next": {
+    "title": "Working with BDD feature files in Katalon Studio",
+    "permalink": "/docs/create-tests/manage-test-artifacts/working-with-bdd-feature-files-in-katalon-studio"
+  }
+}

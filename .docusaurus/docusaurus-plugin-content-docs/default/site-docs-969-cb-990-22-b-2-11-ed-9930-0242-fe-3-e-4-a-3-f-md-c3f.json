@@ -1,0 +1,28 @@
+{
+  "unversionedId": "969cb990-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "969cb990-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Create Web Service Object in Katalon Studio Script Mode",
+  "description": "Katalon Studio provides API testing capabilities with REST and   SOAP services which are easily accessible through an intuitive User   Interface. However, you can also create and manipulate such web   service objects directly within test cases in script view.",
+  "source": "@site/docs/969cb990-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/test-objects/api-test-objects/create-web-service-object-in-katalon-studio-script-mode",
+  "permalink": "/docs/create-tests/test-objects/api-test-objects/create-web-service-object-in-katalon-studio-script-mode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "969cb990-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Create Web Service Object in Katalon Studio Script Mode",
+    "slug": "create-tests/test-objects/api-test-objects/create-web-service-object-in-katalon-studio-script-mode",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Web Services Builder in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/web-services-builder-in-katalon-studio"
+  },
+  "next": {
+    "title": "Schema compliance testing in Katalon Studio",
+    "permalink": "/docs/create-tests/test-objects/api-test-objects/schema-compliance-testing-in-katalon-studio"
+  }
+}

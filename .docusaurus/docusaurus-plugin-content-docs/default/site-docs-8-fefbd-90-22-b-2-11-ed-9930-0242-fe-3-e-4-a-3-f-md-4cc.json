@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8fefbd90-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8fefbd90-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Statements in Katalon Studio overview",
+  "description": "In Katalon Studio, you can add statements as test steps. There are seven types of statements:",
+  "source": "@site/docs/8fefbd90-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/statements/statements-in-katalon-studio-overview",
+  "permalink": "/docs/create-tests/create-test-cases/statements/statements-in-katalon-studio-overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8fefbd90-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Statements in Katalon Studio overview",
+    "slug": "create-tests/create-test-cases/statements/statements-in-katalon-studio-overview",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Value types in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/value-types-in-katalon-studio"
+  },
+  "next": {
+    "title": "Decision-making Statements",
+    "permalink": "/docs/create-tests/create-test-cases/statements/decision-making-statements"
+  }
+}

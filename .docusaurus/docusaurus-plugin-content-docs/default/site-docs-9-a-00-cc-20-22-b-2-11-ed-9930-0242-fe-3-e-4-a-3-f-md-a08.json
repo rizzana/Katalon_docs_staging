@@ -1,0 +1,28 @@
+{
+  "unversionedId": "9a00cc20-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "9a00cc20-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Configure Proxy Authentication",
+  "description": "If you are behind a proxy server, before activating Katalon   licenses, you need to configure the Authentication proxy settings.   This guide will allow you to authenticate and activate your Katalon   licenses while working behind a proxy server.",
+  "source": "@site/docs/9a00cc20-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/configure-proxy-authentication",
+  "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/configure-proxy-authentication",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "9a00cc20-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Configure Proxy Authentication",
+    "slug": "administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/configure-proxy-authentication",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Activate a Katalon License",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/activate-a-katalon-license"
+  },
+  "next": {
+    "title": "View License Details",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/view-license-details"
+  }
+}

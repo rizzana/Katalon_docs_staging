@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8a37f700-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8a37f700-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "How to extract and verify textual patterns in a test case with Katalon Recorder",
+  "description": "In a test project, you might want to verify that the application   under test (AUT) displays information in the correct pattern. For   example:",
+  "source": "@site/docs/8a37f700-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-verify-textual-patterns-in-a-test-case-with-katalon-recorder",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-verify-textual-patterns-in-a-test-case-with-katalon-recorder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8a37f700-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "How to extract and verify textual patterns in a test case with Katalon Recorder",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-verify-textual-patterns-in-a-test-case-with-katalon-recorder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "How to Use Control Flow commands in a Test Case in Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/control-the-flows/how-to-use-control-flow-commands-in-a-test-case-in-katalon-recorder"
+  },
+  "next": {
+    "title": "How to extract and write data in a test case with Katalon Recorder",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/get-your-job-done/automate-scenarios/how-to-extract-and-write-data-in-a-test-case-with-katalon-recorder"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "4e744780-e56e-11ed-b480-0242cfbc79b5",
+  "id": "4e744780-e56e-11ed-b480-0242cfbc79b5",
+  "title": "What is Katalon Cloud Studio (Beta)?",
+  "description": "Katalon Cloud Studio (Beta) is our new web-based authoring product to help manual testers quickly create test automation for a web application under test (AUT).",
+  "source": "@site/docs/4e744780-e56e-11ed-b480-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-tests-using-katalon-cloud-studio/overview/what-is-katalon-cloud-studio-beta",
+  "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/overview/what-is-katalon-cloud-studio-beta",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "4e744780-e56e-11ed-b480-0242cfbc79b5",
+    "title": "What is Katalon Cloud Studio (Beta)?",
+    "slug": "create-tests/create-tests-using-katalon-cloud-studio/overview/what-is-katalon-cloud-studio-beta",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Known issues and Limitations",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/known-issues-and-limitations"
+  },
+  "next": {
+    "title": "Download and install Katalon Platform Recorder",
+    "permalink": "/docs/create-tests/create-tests-using-katalon-cloud-studio/get-started-with-cloud-studio-beta/download-and-install-katalon-platform-recorder"
+  }
+}

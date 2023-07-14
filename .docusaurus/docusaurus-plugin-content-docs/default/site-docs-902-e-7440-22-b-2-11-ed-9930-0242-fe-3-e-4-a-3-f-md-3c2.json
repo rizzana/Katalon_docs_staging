@@ -1,0 +1,28 @@
+{
+  "unversionedId": "902e7440-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "902e7440-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Element click intercepted exception",
+  "description": "When you encounter the following exception element click intercepted: Element is not clickable at point",
+  "source": "@site/docs/902e7440-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-click-intercepted-exception",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-click-intercepted-exception",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "902e7440-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Element click intercepted exception",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-click-intercepted-exception",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Troubleshoot web test execution exceptions overview",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/troubleshoot-web-test-execution-exceptions-overview"
+  },
+  "next": {
+    "title": "Element not visible exception",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/element-not-visible-exception"
+  }
+}

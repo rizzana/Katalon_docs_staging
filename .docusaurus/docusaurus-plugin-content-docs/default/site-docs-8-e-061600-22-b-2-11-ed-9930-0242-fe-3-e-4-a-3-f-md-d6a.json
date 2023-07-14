@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8e061600-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8e061600-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Requirement coverage reports",
+  "description": "Overview",
+  "source": "@site/docs/8e061600-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/requirement-coverage-reports",
+  "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/requirement-coverage-reports",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8e061600-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Requirement coverage reports",
+    "slug": "analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/requirement-coverage-reports",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Platform coverage reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/platform-coverage-reports"
+  },
+  "next": {
+    "title": "Local test environment reports",
+    "permalink": "/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-testops-dashboard/local-test-environment-reports"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ae044f0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ae044f0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder Samples",
+  "description": "Katalon Recorder (KR) offers a suite of sample projects that cover common testing needs and topics you will find during your test automation journey.",
+  "source": "@site/docs/8ae044f0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-samples",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-samples",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ae044f0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder Samples",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-samples",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder FAQ and Troubleshooting Instructions",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-faq-and-troubleshooting-instructions"
+  },
+  "next": {
+    "title": "Katalon Recorder Acknowledgments",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-acknowledgments"
+  }
+}

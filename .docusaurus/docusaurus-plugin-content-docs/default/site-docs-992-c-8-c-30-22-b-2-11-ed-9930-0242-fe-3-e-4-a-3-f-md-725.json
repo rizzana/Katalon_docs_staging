@@ -1,0 +1,28 @@
+{
+  "unversionedId": "992c8c30-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "992c8c30-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Manage test data",
+  "description": "Katalon Studio allows you to use data from multiple sources to run data-driven tests, including You can import data files in Excel and CSV format, or from database servers.Internal data: You can input the data manually within Katalon Studio. You can decide the number of columns, rows, and what values for each cell.",
+  "source": "@site/docs/992c8c30-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/data-driven-testing/manage-test-data",
+  "permalink": "/docs/create-tests/data-driven-testing/manage-test-data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "992c8c30-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Manage test data",
+    "slug": "create-tests/data-driven-testing/manage-test-data",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Test case variables",
+    "permalink": "/docs/create-tests/data-driven-testing/test-case-variables"
+  },
+  "next": {
+    "title": "Manage data binding",
+    "permalink": "/docs/create-tests/data-driven-testing/manage-data-binding"
+  }
+}

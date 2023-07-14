@@ -1,0 +1,28 @@
+{
+  "unversionedId": "de1955b0-fec8-11ed-878a-0242c7a41fd4",
+  "id": "de1955b0-fec8-11ed-878a-0242c7a41fd4",
+  "title": "Firefox Browser Alert is not getting popped up",
+  "description": "During automation testing, the expected alert is not getting popped up in Firefox browser.",
+  "source": "@site/docs/de1955b0-fec8-11ed-878a-0242c7a41fd4.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/firefox-browser-alert-is-not-getting-popped-up",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/firefox-browser-alert-is-not-getting-popped-up",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "de1955b0-fec8-11ed-878a-0242c7a41fd4",
+    "title": "Firefox Browser Alert is not getting popped up",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/firefox-browser-alert-is-not-getting-popped-up",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Web element not found exception",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-web-automated-testing/web-element-not-found-exception"
+  },
+  "next": {
+    "title": "Troubleshoot Windows automated testing overview",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-windows-automated-testing/troubleshoot-windows-automated-testing-overview"
+  }
+}

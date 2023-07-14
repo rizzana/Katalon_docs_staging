@@ -1,0 +1,28 @@
+{
+  "unversionedId": "938c6c50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "938c6c50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Verify Element Attribute Value",
+  "description": "Description",
+  "source": "@site/docs/938c6c50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-attribute-value",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-attribute-value",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "938c6c50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Verify Element Attribute Value",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-attribute-value",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Verify Is Portrait",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-is-portrait"
+  },
+  "next": {
+    "title": "[Mobile] Verify Element Checked",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-verify-element-checked"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93031810-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93031810-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Cucumber] Run Feature Folder",
+  "description": "Description runFeatureFolder Keyword syntax Name the folder relative path that starts from the current project location.Parameter Type RequiredName an instance com.kms.katalon.core.model.FailureHandling that controls the running flow.Parameter Type Optional  ReturnsCucumberKW.runFeatureFolder('Include/features/New Feature Folder'){\"\\n\"}",
+  "source": "@site/docs/93031810-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-folder",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-folder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93031810-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Cucumber] Run Feature Folder",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-folder",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Cucumber] Run Feature Folder with Tags",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-feature-folder-with-tags"
+  },
+  "next": {
+    "title": "[Cucumber] Run with Cucumber Runner",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/cucumber-keywords/cucumber-run-with-cucumber-runner"
+  }
+}

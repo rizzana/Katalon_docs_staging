@@ -1,0 +1,28 @@
+{
+  "unversionedId": "97837010-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "97837010-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Record web utility in Katalon Studio",
+  "description": "You can create an automated test script with test recording. In Katalon Studio, you only need to manually interact with your website and perform all the desired actions as a real user while the Katalon Recorder Utility record them.",
+  "source": "@site/docs/97837010-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio",
+  "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "97837010-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Record web utility in Katalon Studio",
+    "slug": "create-tests/record-and-spy/webui-record-and-spy-utilities/record-web-utility-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Spy Web Utility in Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/spy-web-utility-in-katalon-studio"
+  },
+  "next": {
+    "title": "Katalon Compact Utility for Katalon Studio",
+    "permalink": "/docs/create-tests/record-and-spy/webui-record-and-spy-utilities/katalon-compact-utility-for-katalon-studio"
+  }
+}

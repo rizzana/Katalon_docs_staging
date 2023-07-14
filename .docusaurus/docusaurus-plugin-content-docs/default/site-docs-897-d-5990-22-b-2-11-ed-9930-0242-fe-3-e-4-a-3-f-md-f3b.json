@@ -1,0 +1,28 @@
+{
+  "unversionedId": "897d5990-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "897d5990-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalium Framework in Visual Studio Code",
+  "description": "Prerequisites",
+  "source": "@site/docs/897d5990-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-visual-studio-code",
+  "permalink": "/docs/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-visual-studio-code",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "897d5990-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalium Framework in Visual Studio Code",
+    "slug": "plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-visual-studio-code",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalium Overview",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/katalium-overview"
+  },
+  "next": {
+    "title": "Katalium Framework in other IDEs",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/get-started/katalium-framework-in-other-ides"
+  }
+}

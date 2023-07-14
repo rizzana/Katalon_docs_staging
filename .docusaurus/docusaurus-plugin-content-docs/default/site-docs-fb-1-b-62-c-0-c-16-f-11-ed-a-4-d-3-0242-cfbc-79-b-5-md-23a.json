@@ -1,0 +1,28 @@
+{
+  "unversionedId": "fb1b62c0-c16f-11ed-a4d3-0242cfbc79b5",
+  "id": "fb1b62c0-c16f-11ed-a4d3-0242cfbc79b5",
+  "title": "Katalon Platform On-Premises",
+  "description": "Katalon Platform On-Premises offers enterprise customers control, security, compliance, and cost-effectiveness, similar to the high performance offerings of Katalon Platform's features.",
+  "source": "@site/docs/fb1b62c0-c16f-11ed-a4d3-0242cfbc79b5.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises",
+  "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fb1b62c0-c16f-11ed-a4d3-0242cfbc79b5",
+    "title": "Katalon Platform On-Premises",
+    "slug": "administer/katalon-platform-packages/katalon-platform-on-premises/katalon-platform-on-premises",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "TestOps Private Instance integration in Katalon Studio",
+    "permalink": "/docs/administer/katalon-platform-packages/testops-private-instance-integration-in-katalon-studio"
+  },
+  "next": {
+    "title": "Comparison between Katalon Platform On-Premises and Katalon Platform",
+    "permalink": "/docs/administer/katalon-platform-packages/katalon-platform-on-premises/comparison-between-katalon-platform-on-premises-and-katalon-platform"
+  }
+}

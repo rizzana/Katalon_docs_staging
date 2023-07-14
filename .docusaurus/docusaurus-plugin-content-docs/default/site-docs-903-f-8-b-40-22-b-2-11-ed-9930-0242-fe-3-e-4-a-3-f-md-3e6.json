@@ -1,0 +1,28 @@
+{
+  "unversionedId": "903f8b40-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "903f8b40-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Carthage is not found",
+  "description": "This is a known issue of ADppium 1.7 with Xcode 9. To learn more about this issue, you can refer to this GitHub thread: Appium 1.7 with Xcode 9 known issues.Use Katalon Studio 5.1.0.2+ to avoid this issue.",
+  "source": "@site/docs/903f8b40-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/carthage-is-not-found",
+  "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/carthage-is-not-found",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "903f8b40-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Carthage is not found",
+    "slug": "create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/carthage-is-not-found",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Appium directory is not set",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/appium-directory-is-not-set"
+  },
+  "next": {
+    "title": "Connected device not displayed in 'Device Name' list",
+    "permalink": "/docs/create-tests/troubleshooting-for-test-creation/troubleshoot-mobile-automated-testing/connected-device-not-displayed-in-device-name-list"
+  }
+}

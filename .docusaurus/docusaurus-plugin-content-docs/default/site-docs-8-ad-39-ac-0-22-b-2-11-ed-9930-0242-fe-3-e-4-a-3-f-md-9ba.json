@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8ad39ac0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8ad39ac0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Katalon Recorder Acknowledgments",
+  "description": "Special thanks to:",
+  "source": "@site/docs/8ad39ac0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-acknowledgments",
+  "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-acknowledgments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8ad39ac0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Katalon Recorder Acknowledgments",
+    "slug": "plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-acknowledgments",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Recorder Samples",
+    "permalink": "/docs/plugins-and-add-ons/katalon-recorder-extension/help-and-resources/katalon-recorder-samples"
+  },
+  "next": {
+    "title": "Katalium Overview",
+    "permalink": "/docs/plugins-and-add-ons/katalium-framework/katalium-overview"
+  }
+}

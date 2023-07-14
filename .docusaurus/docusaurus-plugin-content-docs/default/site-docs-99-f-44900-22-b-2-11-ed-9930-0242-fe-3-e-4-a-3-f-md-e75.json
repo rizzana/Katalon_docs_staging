@@ -1,0 +1,28 @@
+{
+  "unversionedId": "99f44900-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "99f44900-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Activate a Katalon License",
+  "description": "In this article, we will guide you through the activation of your Katalon Studio Enterprise (KSE) and Katalon Runtime Engine (KRE) licenses.",
+  "source": "@site/docs/99f44900-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/activate-a-katalon-license",
+  "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/activate-a-katalon-license",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "99f44900-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Activate a Katalon License",
+    "slug": "administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/activate-a-katalon-license",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Katalon Studio vs Katalon Studio Enterprise Features",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/katalon-studio-vs-katalon-studio-enterprise-features"
+  },
+  "next": {
+    "title": "Configure Proxy Authentication",
+    "permalink": "/docs/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/configure-proxy-authentication"
+  }
+}

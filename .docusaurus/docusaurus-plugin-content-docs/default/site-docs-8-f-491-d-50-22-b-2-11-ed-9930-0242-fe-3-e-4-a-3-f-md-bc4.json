@@ -1,0 +1,28 @@
+{
+  "unversionedId": "8f491d50-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "8f491d50-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "Call test case in Katalon Studio",
+  "description": "When generating test steps in a test case in Katalon Studio, you can also call another test case as a test step. This section guides you through how to call a test case in manual and script view.Note: For more details on how to apply test cases in data-driven tests, refer to Test Case Variables.",
+  "source": "@site/docs/8f491d50-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/create-test-cases/call-test-case-in-katalon-studio",
+  "permalink": "/docs/create-tests/create-test-cases/call-test-case-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "8f491d50-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "Call test case in Katalon Studio",
+    "slug": "create-tests/create-test-cases/call-test-case-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Define Method",
+    "permalink": "/docs/create-tests/create-test-cases/statements/define-method"
+  },
+  "next": {
+    "title": "Test Fixtures and Test Listeners (Test Hooks) in Katalon Studio",
+    "permalink": "/docs/create-tests/create-test-cases/test-fixtures-and-test-listeners-test-hooks-in-katalon-studio"
+  }
+}

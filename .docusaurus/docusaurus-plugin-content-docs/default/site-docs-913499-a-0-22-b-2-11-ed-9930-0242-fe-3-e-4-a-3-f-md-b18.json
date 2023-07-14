@@ -1,0 +1,28 @@
+{
+  "unversionedId": "913499a0-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "913499a0-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[WebUI] Create and Run Web UI Test Case using Record and Playback in Katalon Studio",
+  "description": "This tutorial demonstrates how to create a Web UI test case with   Katalon Studio using Record and   Playback.",
+  "source": "@site/docs/913499a0-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio",
+  "permalink": "/docs/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "913499a0-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[WebUI] Create and Run Web UI Test Case using Record and Playback in Katalon Studio",
+    "slug": "get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "Sample projects overview",
+    "permalink": "/docs/get-started/sample-projects/sample-projects-overview"
+  },
+  "next": {
+    "title": "Sample WebUI tests project (Healthcare sample) in Katalon Studio",
+    "permalink": "/docs/get-started/sample-projects/webui/sample-webui-tests-project-healthcare-sample-in-katalon-studio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "93376e80-22b2-11ed-9930-0242fe3e4a3f",
+  "id": "93376e80-22b2-11ed-9930-0242fe3e4a3f",
+  "title": "[Mobile] Get Element Width",
+  "description": "Description",
+  "source": "@site/docs/93376e80-22b2-11ed-9930-0242fe3e4a3f.md",
+  "sourceDirName": ".",
+  "slug": "/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-width",
+  "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-width",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "93376e80-22b2-11ed-9930-0242fe3e4a3f",
+    "title": "[Mobile] Get Element Width",
+    "slug": "create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-width",
+    "hide_title": true
+  },
+  "sidebar": "aSidebar",
+  "previous": {
+    "title": "[Mobile] Get Element Top Position",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-element-top-position"
+  },
+  "next": {
+    "title": "[Mobile] Get Current Orientation",
+    "permalink": "/docs/create-tests/keywords/keyword-description-in-katalon-studio/mobile-keywords/mobile-get-current-orientation"
+  }
+}
